@@ -1,0 +1,47 @@
+# Données médicales réelles — JAMAIS committer
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!tests/data/**/*.pdf
+!tests/data/**/*.jpg
+!tests/data/**/*.jpeg
+!tests/data/**/*.png
+
+# Modèles LLM (trop lourds)
+*.gguf
+*.bin
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ChromaDB
+data/chroma/
+
+# Environnement
+.env
+.env.local
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
