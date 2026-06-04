@@ -1,0 +1,21 @@
+# Dépendances S5 — Interface / Matériel (IMBOYO)
+# Installer avec : pip install -r src/web/requirements_s5.txt
+
+# STT — Reconnaissance vocale
+openai-whisper>=20231117
+pyaudio>=0.2.14          # Enregistrement microphone
+numpy>=1.24.0
+
+# TTS — Synthèse vocale
+TTS>=0.22.0              # Coqui TTS
+
+# PDF — Génération rapport
+reportlab>=4.0.0
+
+# Web — Interface FastAPI
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9  # Upload fichiers
+
+# Simulation caméra (tests)
+Pillow>=10.0.0
