@@ -1,0 +1,2120 @@
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+1
+,
+RECOMMANDATIONS
+Juillet 2009
+RECOMMANDATIONS DE BONNE PRATIQUE
+Prise en charge
+des auteurs d’agression sexuelle
+à l’encontre de mineurs
+de moins de 15 ans
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+2
+L’argumentaire des recommandations est téléchargeable sur
+www.has-sante.fr
+Haute Autorité de Santé
+Service communication
+2 avenue du Stade de France - F 93218 Saint-Denis La Plaine CEDEX
+Tél. :+33 (0)1 55 93 70 00 - Fax :+33 (0)1 55 93 74 00
+Ce document a été validé par le Collège de la Haute Autorité de Santé en juillet 2009.
+© Haute Autorité de Santé – 2010
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+3
+Sommaire
+Recommandations .................................................................................................................4
+1 Introduction ...................................................................................................................4
+1.1 Thème et objectifs des recommandations 4
+1.2 Population concernée 4
+1.3 Professionnels concernés 6
+1.4 Gradation des recommandations 6
+2 Données statistiques ....................................................................................................6
+3 Cadre législatif du soin pénalement ordonné .............................................................7
+3.1 L’obligation de soins 7
+3.2 L’injonction de soins 8
+4 Le médecin coordonnateur : cadre d’intervention et fonctions.................................9
+4.1 Ses missions 9
+4.2 Les modalités pratiques 10
+5 Cadre déontologique et éthique de la prise en charge thérapeutique.......................11
+6 Evaluation initiale..........................................................................................................11
+7 Prise en charge psychothérapique et pharmacologique............................................13
+7.1 Généralités 13
+7.2 Formation et accompagnement des soignants 13
+7.3 Objectifs de la prise en charge 13
+7.4 Traitement des pathologies somatiques et psychiatriques associées 13
+7.5 Eléments d’évaluation à prendre en compte dans le suivi 14
+7.6 Prise en charge psychothérapique 14
+7.7 Traitements pharmacologiques 17
+Annexe 1. Outil d’intervention du soignant dans le cadre de soins pénalement
+ordonnés...............................................................................................................22
+Annexe 2. Liste non exhaustive d’éléments cliniques et sociodémographiques à
+évaluer ..................................................................................................................25
+Annexe 3. Liste non exhaustive d’outils d’évaluation standardisée...................................27
+Annexe 4. Liste des centres ressources pour l'aide à la prise en charge des auteurs de
+violences sexuelles (CRAVS) existant en novembre 2009 ................................29
+Méthode Recommandations pour la pratique clinique........................................................34
+Participants.............................................................................................................................36
+Fiche descriptive des recommandations..............................................................................37
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+4
+Recommandations
+1 Introduction
+1.1 Thème et objectifs des recommandations
+► Thème des recommandations
+Ces recommandations de bonne pratique professionnelle ont été élaborées par la HAS à la
+demande du ministre de la Santé. La demande s’inscrit dans le contexte des évolutions
+législatives sur la prévention de la récidive (loi du 10 août 2007 renforçant la lutte contre la
+récidive des majeurs et des mineurs), avec notamment le renforcement des mesures
+d’injonction de soins instituées par la loi du 17 juin 1998. Elle vise également à participer à
+l’amélioration de la prise en charge sanitaire des auteurs d’agression sexuelle1
+ à l’encontre
+de mineurs de moins de 15 ans2
+.
+► Objectifs des recommandations
+L’objectif principal de ce travail est de proposer aux professionnels des stratégies de prise en
+charge thérapeutique des auteurs d’agression sexuelle à l’encontre de mineurs.
+Les recommandations répondent aux questions suivantes :
+ Quelle est l’évaluation initiale à réaliser ?
+ Quelle est la place de la prise en charge psychothérapique ?
+ Quelle est la place du traitement pharmacologique ?
+1.2 Population concernée
+Une grande hétérogénéité caractérise la population concernée, qui est essentiellement celle
+des auteurs d’infraction à caractère sexuel3
+, mais qui peut comprendre des personnes qui ne
+font pas l’objet d’une procédure judiciaire, ce qui rend difficile la dénomination même de
+cette population.
+Les personnes concernées peuvent être placées sous main de justice en milieu fermé
+(incitation au soin) ou en milieu ouvert (dans le cadre d’une obligation de soins ou d’une
+injonction de soins) ou venir spontanément en soins.
+Le choix du terme « auteur d’agression sexuelle » a été privilégié par rapport à celui
+d’agresseur sexuel, car la notion d’auteur fait référence au sujet dans sa globalité et amène
+à penser la prise en charge comme non spécifiquement centrée sur le passage à l’acte. Le
+terme « délinquant sexuel » n’a pas été retenu pour ne pas s’inscrire dans la seule logique
+judiciaire, de même que le terme « abuseur sexuel », qui est une mauvaise traduction de
+l’anglais.
+
+1
+ Le terme agression a été choisi de façon consensuelle et renvoie à une notion générique et non à la notion juridique
+d’agression sexuelle.
+2
+ Dans ce texte, le terme « mineur » s’applique systématiquement à tous les mineurs de 15 ans ou moins.
+3
+ Le terme d’infraction est un terme générique au plan pénal qui renvoie à un acte pénalement sanctionné. Les agressions
+sexuelles constituent une catégorie spécifique d’infractions, dont les qualifications pénales diffèrent selon la gravité de l’acte
+incriminé et les éléments constitutifs de l’infraction. Ainsi, constitue une agression sexuelle au sens de l’article 222-22 du Code
+pénal toute atteinte sexuelle commise avec violence, menace ou surprise. Il s’agit d’une infraction délictuelle, relevant de la
+compétence du tribunal correctionnel. En revanche, tout acte de pénétration sexuelle de quelque nature qu’il soit, commis sur la
+personne d’autrui par violence, contrainte, menace ou surprise est un viol, selon les termes de l’article 222-23 du Code pénal. Il
+s’agit d’une infraction criminelle, relevant de la compétence de la cour d’assises.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+5
+La catégorisation pénale ne recouvre ni la clinique psychiatrique, ni la psychopathologie. Les
+critères diagnostiques qui sont retrouvés dans la littérature (DSM-IV-TR et CIM-10) ne
+recouvrent que partiellement le champ de l’agression sexuelle. En effet, ces définitions ne
+rendent pas compte de la complexité et de la diversité des problématiques rencontrées. En
+outre, l’agression sexuelle n’est pas nécessairement sous-tendue par une pathologie
+psychiatrique.
+La pédophilie est définie dans le DSM-IV-TR (cf. encadré 1) dans le cadre des troubles
+sexuels et des troubles de l’identité sexuelle dans le sous-chapitre des paraphilies, et dans la
+CIM-10 (cf. encadré 2) elle figure dans le cadre des troubles de la personnalité.
+ENCADRE 1. DEFINITION DE LA PEDOPHILIE DANS LE DSM-IV-TR.
+A. Présence de fantaisies4
+ imaginatives sexuellement excitantes, d’impulsions sexuelles,
+ou de comportements, survenant de façon répétée et intense, pendant une période d’au
+moins 6 mois, impliquant une activité sexuelle avec un enfant ou des enfants prépubères
+(généralement âgés de 13 ans ou plus jeunes).
+B. La personne a cédé à ces impulsions sexuelles, ou les impulsions sexuelles ou les
+fantaisies imaginatives sexuelles sont à l’origine d’un désarroi prononcé ou de difficultés
+interpersonnelles.
+C. Le sujet est âgé de 16 ans au moins et a au moins 5 ans de plus que l’enfant mentionné
+en A.
+N.B. : ne pas inclure un sujet en fin d’adolescence qui entretient des relations sexuelles
+avec un enfant de 12-13 ans.
+Spécifier si :
+ attiré sexuellement par les garçons
+ attiré sexuellement par les filles
+ attiré sexuellement par les garçons et filles
+Spécifier si :
+ limité à l’inceste
+Spécifier le type :
+ type exclusif (attiré uniquement par les enfants)
+ type non exclusif
+ENCADRE 2. DEFINITION DE LA PEDOPHILIE DANS LA CIM-10 (OMS 1993)
+La pédophilie est une préférence sexuelle pour les enfants, qu’il s’agisse de garçons, de
+filles, ou de sujets de l’un ou l’autre sexe, généralement d’âge prépubère ou au début de la
+puberté (F65.4).
+
+4
+Cet encadré reprend le texte intégral de la traduction française du DSM-IV-TR (DSM-IV-TR. Ed. Masson, 2003, page 661). Le
+terme « fantaisies » traduit l’anglais « fantasies », qui correspond à la notion de « fantasmes ». Le terme « impulsions
+sexuelles » traduit l’anglais « sexual urges », que l’on peut traduire par « pulsions sexuelles » ou « besoins sexuels urgents ».
+Le texte anglais original est le suivant : A. Over a period of at least six months, recurrent, intense sexually arousing fantasies,
+sexual urges, or behaviors involving sexual activity with a prepubescent child or children (generally age 13 years or younger).
+B. The person has acted on these sexual urges, or the sexual urges or fantasies cause marked distress or interpersonal
+difficulty. C. The person is at least age 16 years and at least 5 years older than the child or children in Criterion A.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+6
+Les travaux publiés et disponibles ont presque exclusivement été réalisés chez des hommes
+auteurs d’agression sexuelle. Le peu de données disponibles concernant les femmes
+auteurs d’agression sexuelle ne permettent pas de proposer des recommandations
+spécifiques pour cette population. Sont exclus de ces recommandations les mineurs auteurs
+d’agression sexuelle qui justifieraient un travail spécifique avec des professionnels du champ
+de l’enfance et l’adolescence.
+1.3 Professionnels concernés
+Ces recommandations sont destinées :
+ prioritairement aux acteurs du soin, en particulier psychiatres, psychologues, infirmiers,
+médecins généralistes ;
+ aux experts psychiatres et psychologues dans le cadre de la discussion de l’indication
+de l’injonction de soins ;
+ aux médecins coordonnateurs5
+.
+Elles concernent à titre d’information, dans le cadre d’une prise en charge pluridisciplinaire,
+les acteurs du champ socio-éducatif et judiciaire.
+1.4 Gradation des recommandations
+Les données de la littérature identifées dans le cadre de ce travail n’ont pas permis d’établir
+une gradation pour les recommandations. Toutes les recommandations reposent sur un
+accord professionnel au sein du groupe de travail, après avis du groupe de lecture. Le
+chapitre sur les traitements médicamenteux est fondé sur l’avis de la commission de la
+transparence6
+.
+2 Données statistiques
+Les données statistiques issues des institutions policières ou judiciaires ne permettent pas
+de connaître le phénomène des agressions sexuelles dans son ensemble, car nombre
+d’actes restent inconnus faute de plaintes. En France, les condamnations pour viol sur
+mineurs de moins de 15 ans progressent régulièrement depuis les années 1980. Leur
+accroissement s’amplifie au point qu’elles sont désormais presque deux fois plus
+nombreuses qu’au début des années 1990 (environ 8 pour un million d’habitants en 2005 au
+lieu de 4,5 en 1994). Toutefois, il convient de pondérer ces chiffres car l’augmentation du
+nombre de plaintes ne traduit pas forcément une augmentation du nombre des agressions
+sexuelles. En 2005, les viols sur mineurs représentaient 0,092 % des 540 077
+condamnations pour crimes ou délits prononcées en France (512 condamnations pour viol
+sur mineur de moins de 15 ans). Selon les chiffres produits par l’administration pénitentiaire,
+
+5
+ Selon la loi du 17 juin 1998, le médecin coordonnateur est un « psychiatre ou médecin ayant suivi une formation appropriée »
+qui intervient dans le suivi sociojudiciaire en dehors de la prison. Ses missions sont les suivantes :
+- inviter le condamné à choisir avec son accord un médecin traitant ;
+- conseiller le médecin traitant ;
+- transmettre au juge de l'application des peines ou à l'agent de probation les éléments nécessaires au contrôle de
+l'injonction de soins ;
+- informer le condamné de la possibilité de poursuivre au-delà de la mesure qui a été prononcée ;
+- coopérer à la réalisation d'évaluations périodiques du dispositif de l'injonction de soins ainsi qu'à des actions de
+formation et d'étude.
+Le décret n° 2007-1627 prévoit son intervention, en lien avec le médecin traitant, dans le suivi du bon déroulement de
+l’injonction de soins. La loi du 25 février 2008 lui assigne une mission supplémentaire qui est celle « de coopérer à la réalisation
+d’évaluations périodiques du dispositif de l’injonction de soins ainsi qu’à des actions de formation et d’étude ». Il est également
+prévu que les praticiens chargés de dispenser des soins en milieu carcéral communiquent les informations médicales qu’ils
+détiennent sur le condamné au médecin coordonnateur afin qu’il les transmette au médecin traitant sans qu’ils puissent être
+condamnés pénalement ou disciplinairement pour violation du secret médical ou plus largement professionnel.
+6
+ Avis de la commission de la transparence du 18 février 2009 sur le Salvacyl LP 11,25 mg (disponible sur le site de la HAS :
+www.has-sante.fr).
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+7
+1,12 % de la population carcérale était, à la date du 1er avril 2008, détenue pour crime
+commis sur mineur dont 0,96 %, soit 473 détenus, pour viol.
+Une enquête téléphonique récente7
+ sur la sexualité en France, réalisée sur un échantillon de
+12 364 Françaises et Français, montre que 16 %8
+ des femmes et 5 % des hommes
+interrogés en 2006 déclaraient avoir subi des rapports sexuels forcés ou tentatives de viol au
+cours de leur vie (6,8 % des femmes déclaraient des rapports forcés et 9,1 %, des tentatives,
+et respectivement 1,5 % et 3,0 % des hommes). Parmi les personnes qui avaient subi des
+agressions sexuelles, 59 % des femmes et 67 % des hommes rapportaient que les premiers
+rapports forcés ou tentatives s’étaient produits avant 18 ans. En population générale, parmi
+les femmes de 18-39 ans, 11 % avaient connu un rapport forcé ou une tentative avant
+18 ans.
+Parmi les personnes ayant subi une agression sexuelle, 46 % des femmes et 62 % des
+hommes disaient qu’ils n’en avaient jamais parlé autour d’eux. C’est dans les générations
+anciennes (les femmes de 60 à 69 ans et les hommes de 50 à 59 ans) que les personnes
+avaient le moins parlé à quelqu’un (respectivement 33 % et 30 %). Dans les plus jeunes
+générations, plus de victimes en parlent (par exemple chez les femmes de 18-24 ans, 71 %
+en avaient parlé).
+Dans la population adulte, seule une minorité des agressions sexuelles fait l’objet d’une
+plainte auprès des services de justice. Dans l’enquête française de 2006 citée plus haut,
+0,44 % (IC 95 % : 0,30 %-0,64 %) des femmes déclaraient avoir subi un rapport sexuel
+imposé ou une tentative de rapport sexuel imposé au cours des 12 derniers mois (soit entre
+50 000 et 120 000 femmes). Lorsque ces données sont comparées aux 9 993 plaintes pour
+viol de femmes enregistrées en 2005, on constate que les plaintes correspondent environ à
+10 % de la population. On peut craindre que le nombre d’agressions sexuelles sur mineurs
+soit également sous-déclaré.
+Il n’y a pas de données précises concernant le nombre de mineurs agressés et le
+pourcentage d’agressions faisant l’objet d’une plainte. Une enquête française9
+ réalisée dans
+les établissements scolaires du secondaire et publiée en 1994 montrait que 6 % des
+adolescentes de 11 à 19 ans rapportaient avoir été victimes d’agressions sexuelles. Une
+autre enquête publiée en 1997 rapportait que 15 % des filles et 2 % des garçons de
+15 à 18 ans déclaraient avoir subi des rapports sexuels sous la contrainte.
+3 Cadre législatif du soin pénalement ordonné
+Le cadre législatif est présenté ici pour l’importance qu’il a pour tout intervenant dans le
+travail d’accompagnement et de soins : connaître et prendre appui sur le cadre légal
+d’intervention retentit sur la réalisation et l’impact de la prise en charge.
+Une personne peut être soumise à des soins pénalement obligés à plusieurs stades du
+procès pénal. Cette mesure peut prendre deux formes, lesquelles renvoient à des régimes
+juridiques différents (cf. tableau 1).
+3.1 L’obligation de soins
+L’obligation de soins est une mesure générale applicable avant ou après déclaration de
+culpabilité. Elle n’est pas spécifique à la délinquance sexuelle et peut être prononcée sans
+
+7
+ Bajos N et al. Les violences sexuelles en France : quand la parole se libère. Population & Sociétés
+2008;(445):1-4.
+8
+ En réponse à la question « au cours de votre vie est-il arrivé que quelqu’un vous force ou essaie de vous forcer
+à avoir des rapports sexuels ? »
+9
+ Choquet M, Ledoux S. Adolescents. Enquête nationale. Le temps des premières expériences sexuelles. Paris :
+Inserm, 1994.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+8
+expertise médicale préalable. Les relations entre les autorités judiciaires et sanitaires ne sont
+pas définies par la loi.
+Elle est définie par l’article 132-45 du Code pénal (CP) comme « l’obligation de se soumettre
+à des mesures d’examen, de traitement ou de soins, même sous le régime de
+l’hospitalisation » :
+ avant déclaration de culpabilité, l’obligation de soins constitue une modalité du contrôle
+judiciaire ;
+ après déclaration de culpabilité, l’obligation de soins constitue une modalité de :
+ l’ajournement avec mise à l’épreuve,
+ l’emprisonnement avec sursis et mise à l’épreuve,
+ l’emprisonnement avec sursis et travail d’intérêt général,
+ une mesure d’individualisation d’une peine privative de liberté (permission de sortir,
+semi-liberté, placement extérieur, bracelet électronique, libération conditionnelle,
+suspension ou fractionnement de peine).
+3.2 L’injonction de soins
+L’injonction de soins est une mesure initialement attachée à la peine de suivi sociojudiciaire,
+spécifique à certaines infractions dont les agressions sexuelles. Les relations entre les
+autorités judiciaires et les professionnels du soin sont organisées par la loi, notamment par
+l’instauration d’un médecin coordonnateur.
+La loi du 10 août 2007 a institué le caractère automatique de cette injonction dans les cas
+suivants :
+ prononcé d’une peine privative de liberté avec condamnation à un suivi socio-judiciaire
+ne comportant pas d’injonction de soins (article 763-3 du Code de procédure
+pénale [CPP]) ;
+ surveillance judiciaire (article 723-30 du CPP) ;
+ libération conditionnelle (article 731-1 du CPP) ;
+ peine d’emprisonnement assortie du sursis avec mise à l’épreuve (art 132-45-1 du CP).
+Cette injonction de soins « automatique » est soumise à deux conditions suivantes :
+ la personne doit avoir été condamnée pour un crime ou un délit pour lequel le suivi
+sociojudiciaire est encouru ;
+ une expertise médicale doit avoir établi que la personne condamnée était susceptible de
+bénéficier d’une injonction de soins.
+Cette automaticité de l’injonction de soins peut être écartée par une décision contraire de la
+juridiction d’application des peines compétente.
+Il existe d’autres cas pour lesquels le prononcé d’une injonction de soins est facultatif. Il est
+alors laissé à l’appréciation de la juridiction d’application des peines :
+ le placement extérieur avec ou sans surveillance du personnel pénitentiaire ;
+ la semi-liberté ;
+ les permissions de sortir ;
+ la suspension de peine pour raison médicale.
+La peine de suivi sociojudiciaire peut être ordonnée indépendamment de l’incarcération ou
+non de la personne condamnée :
+ lorsque le condamné est détenu, la mise en œuvre de l’injonction de soins débute à la
+sortie de l’établissement pénitentiaire. Durant l’incarcération, la peine de suivi
+sociojudiciaire avec injonction de soins ne constitue qu’une incitation au soin.
+Cependant la démarche de soin conditionne l’octroi des réductions de peine ;
+ lorsque le condamné est libre, la peine de suivi sociojudiciaire avec injonction de soins
+est mise en œuvre.
+Un exemple d’outil, à mettre dans le dossier du sujet, pouvant aider à l’intervention de
+l’équipe de soin dans le cadre de soins pénalement ordonnés est proposé en annexe 1.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+9
+Tableau 1. Comparatif entre injonction de soins et obligation de soins.
+Nature
+de la mesure
+Cadre légal
+et textes de référence Modalités
+Obligation
+de soins
+Non spécifique à la
+délinquance sexuelle
+Avant déclaration de
+culpabilité : art.138-10 du CPP
+Après déclaration de
+culpabilité : art.132-45 du CP
+Peut être ajoutée ou
+supprimée à tout moment de la
+mise en œuvre de la mesure
+Pas d’expertise préalable
+nécessaire pour l’ordonner ou
+la supprimer
+Aucune organisation des liens
+entre les acteurs de la justice
+et du soin
+Injonction
+de soins
+Spécifique à certaines
+infractions dont la délinquance
+sexuelle
+Obligation particulière de la
+peine de suivi sociojudiciaire :
+art.131-36-4 du CP
+Ces dispositions s’appliquent
+dans le cadre des mesures
+suivantes :
+ suivi sociojudiciaire ;
+ surveillance
+judiciaire ;
+ libération
+conditionnelle ;
+ sursis avec mise à
+l’épreuve ;
+ surveillance de
+sûreté ;
+ rétention de sûreté
+Peut être ajoutée à tout
+moment de la peine par le juge
+de l’application des peines
+Expertise médicale préalable
+nécessaire pour l’ordonner ou
+la supprimer
+Organisation des liens entre
+les acteurs de la justice et du
+soin
+4 Le médecin coordonnateur : cadre d’intervention et
+fonctions
+Le médecin coordonnateur est une nouvelle fonction :
+ d’interface santé/justice ;
+ d’évaluation clinique ;
+ de suivi de l’évolution du sujet.
+Le médecin coordonnateur intervient dans le cadre d’une injonction de soins sur décision du
+juge de l’application des peines (JAP) qui le nomme pour une personne, un dossier. Il ne
+peut assurer le suivi simultané de plus de 20 personnes soumises à une injonction de soins.
+4.1 Ses missions
+Le rôle du médecin coordonnateur a été renforcé avec la loi du 25 février 200810 et surtout
+par le décret du 4 novembre 200811
+.
+
+10 Loi n° 2008-174 du 25 février 2008 relative à la r étention de sûreté et à la déclaration d'irresponsabilité pénale
+pour cause de trouble mental.
+11 Décret n° 2008-1129 du 4 novembre 2008 relatif à l a surveillance de sûreté et à la rétention de sûreté.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+10
+Il rencontre le sujet soumis à l’injonction de soins et réalise une évaluation clinique du
+fonctionnement psychique et de la psychopathologie du sujet :
+ cette évaluation, qui lui sert ensuite de repère dans le suivi du sujet, doit être mise en
+perspective avec les expertises antérieures pour obtenir une évaluation longitudinale de
+l’évolution du sujet ;
+ la première rencontre a lieu si possible avant la sortie de prison de l’intéressé. Si la
+personne a été condamnée pour un crime mentionné à l'article 706-53-13 du CPP, c’est
+une obligation légale et une autorisation de sortie sous escorte peut être aménagée
+dans ce but.
+Il est destinataire des pièces du dossier qui lui sont adressées par le JAP : expertises présentencielles, post-sentencielles, de la victime, condamnation, réquisitoire, etc.
+Il valide le choix du médecin traitant ou du psychologue traitant12 :
+ le sujet garde le libre choix du médecin, mais ce choix doit être validé par le médecin
+coordonnateur selon les besoins et capacités du sujet ;
+ quand le sujet n’a pas de médecin traitant, le médecin coordonnateur est souvent
+amené à guider l’accès au soin. Cette fonction d’accompagnement est également
+assurée par les travailleurs sociaux (conseillers d’insertion et de probation [CIP])
+chargés du suivi sociojudiciaire ou des autres mesures). Le médecin coordonnateur et le
+CIP peuvent se concerter sur ces orientations ;
+ le choix du médecin ou psychologue traitant doit intervenir avant la libération ou avant la
+cessation de la rétention de sûreté.
+Il transmet au JAP les éléments nécessaires au contrôle du respect de l'injonction de soins.
+Un rapport est transmis au JAP une fois par an ou deux fois par an en cas de crime
+mentionné à l'article 706-53-13 du CPP. Ce rapport dresse un bilan de la mise en œuvre de
+l'injonction de soins. Le cas échéant, il comporte des éléments d'appréciation sur l'évolution
+de la personne au regard de son besoin de soins ainsi que des propositions sur les
+modalités de poursuite de la mesure.
+Il informe l’intéressé qu’il peut poursuivre les soins à la fin de la mesure.
+4.2 Les modalités pratiques
+Lors du premier entretien, le médecin coordonnateur précise au sujet sa fonction et ses
+missions.
+Si le médecin traitant a un exercice privé, le médecin coordonnateur informe le sujet que la
+prescription de son médecin traitant au sens de l'article L. 162-5-3 du Code de la sécurité
+sociale est nécessaire pour obtenir le remboursement de la prise en charge des soins par
+l'Assurance maladie.
+Le médecin coordonnateur demande au médecin traitant et/ou au psychologue traitant un
+accord écrit pour prendre en charge la personne dans le cadre d’une injonction de soins. Il
+informe le médecin traitant et/ou le psychologue traitant qu'il peut leur faire parvenir, à leur
+demande, les pièces du dossier et notamment les expertises et le jugement.
+Le médecin coordonnateur rencontre le sujet soumis à l’injonction de soins tous les
+3 mois (décret n° 2008-1129 du 4 novembre 2008 - ar t. 8 ; article R 3711-21) pour
+réaliser un bilan de sa situation.
+Il garantit le secret professionnel au médecin traitant et/ou au psychologue traitant. Ces
+derniers peuvent l’informer de difficultés rencontrées, d’une interruption de suivi ou d’une fin
+de prise en charge. Le médecin coordonnateur peut conseiller le médecin traitant ou le
+psychologue traitant si ceux-ci en font la demande.
+
+12 Les termes « médecin traitant » et « psychologue traitant » sont inscrits dans les articles R 3711-23 et
+R 3711-25 du Code de la santé publique.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+11
+5 Cadre déontologique et éthique de la prise en charge
+thérapeutique
+Quelques principes éthiques et déontologiques sont ici à rappeler13 :
+ dans la prise en charge thérapeutique, la personne est un patient même s’il a commis un
+acte délictueux ;
+ les règles médicales habituelles sont donc en vigueur : pas de traitement sans indication
+médicale et accord préalable du sujet ;
+ le secret professionnel médical constitue une condition indispensable au cadre
+thérapeutique, en milieu carcéral comme dans le dispositif du droit commun14
+.
+La prise en charge thérapeutique des auteurs d’agression sexuelle s’adresse à la personne,
+qui ne doit jamais être réduite ni à ses actes ni à ses symptômes. Elle a pour objectif : la
+prise en charge de la souffrance du sujet, l’amélioration des fonctionnements
+psychologiques, relationnels et sociaux, ce qui peut contribuer à une réduction des conduites
+sexuelles inappropriées et à une diminution du risque de récidive.
+L’une des principales difficultés déontologiques pour le praticien est de repérer les situations
+nécessitant un signalement. En effet, le médecin aura, en conscience, à concilier des
+principes pouvant être contradictoires ou à choisir entre eux : d’une part, l’obligation de
+respecter le secret professionnel, les impératifs de la confidentialité nécessaires au cadre
+thérapeutique et la non-ingérence dans les affaires de famille ; d’autre part, l’obligation légale
+de porter assistance à une personne en péril et l’urgence de signaler les mauvais traitements
+sur un mineur de 15 ans ou une personne vulnérable, lorsqu’elle est en danger.
+Lorsqu’une procédure judiciaire est en cours :
+ les soins en détention reposent sur le principe du consentement : une offre de soins peut
+être proposée sans qu’elle ait de caractère obligatoire. Elle peut s’inscrire dans le cadre
+d’une demande de la personne ou dans le cadre de l’incitation judiciaire aux soins après
+condamnation. Dans le cadre présentenciel, le praticien doit rester vigilant et respecter
+la présomption d’innocence ;
+ en milieu ouvert, lorsque la personne est soumise à une injonction ou à une obligation
+de soins, le médecin traitant ou le psychologue traitant n’ont pas à rendre compte
+directement au juge des contenus et des modalités du soin. Ils peuvent, à la demande
+de leur patient, délivrer une attestation de participation aux soins. C’est le médecin
+coordonnateur ou bien l’expert désigné par le juge qui sont seuls tenus de fournir une
+évaluation de la mise en œuvre et une appréciation de l’évolution de la personne.
+6 Evaluation initiale
+Il est recommandé de réaliser un ou plusieurs entretiens à visée diagnostique, permettant
+d’établir s’il existe ou non une indication de soins et d’en définir les orientations et les
+modalités en s’appuyant sur toutes les informations dont on peut disposer.
+L’évaluation clinique initiale est indispensable au choix des modalités de prise en charge,
+parce qu’elle permet de déterminer et d’identifier les vulnérabilités et les ressources du sujet
+et plus généralement des facteurs qui ont pu contribuer au développement des troubles et à
+les précipiter.
+Les informations à réunir sont multiples et comprennent notamment des données
+sociodémographiques (informations générales), des données cliniques (antécédents
+personnels et familiaux, qualité des relations interpersonnelles, modalités de fonctionnement
+psychologique, de relation à la réalité et à la loi, recherche de troubles psychiatriques
+
+13 Ces recommandations sont reprises de la conférence de consensus de la Fédération française de psychiatrie
+de 2001 « Psychopathologie et traitements actuels des auteurs d’agression sexuelle ».
+14 La loi du 17 juin 1998 modifiée par la loi du 10 août 2007 permet de renforcer ce secret par le rôle du médecin
+coordonnateur dans le cadre du suivi sociojudiciaire ou de la surveillance judiciaire avec injonction de soins.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+12
+caractérisés et de troubles de la personnalité, description de la ou des paraphilies) et des
+informations sur l’acte (description du ou des passages à l’acte). Une liste non exhaustive
+d’éléments cliniques et sociodémographiques est proposée en annexe 2, à titre indicatif.
+Le cadre judiciaire éventuel sera également abordé :
+ infraction(s) sexuelle(s) ou non sexuelle(s) et condamnation(s) antérieure(s) ;
+ suivi sociojudiciaire ;
+ injonction ou obligation de soins.
+La connaissance de ce cadre légal permet d’avoir recours au médecin coordonnateur.
+Autant que possible, il convient d’avoir accès au dossier pénal s’il existe (expertises de
+l’auteur et de la victime, réquisitoire définitif15). Il est important de rappeler qu’un accès au
+dossier pénal existe dès lors que la personne est condamnée dans le cadre du suivi sociojudiciaire avec injonction de soins. Dans le cadre de l’injonction de soins, le médecin traitant
+ou le psychologue traitant disposent à leur demande des expertises et d’éléments du dossier
+pénal qui leur sont transmis par le médecin coordonnateur en milieu ouvert, par
+l’intermédiaire du greffe de l’établissement en milieu pénitentiaire.
+Un bilan somatique est réalisé en fonction des comorbidités en collaboration avec le
+médecin généraliste traitant.
+Si une lésion frontale ou un début de démence sont suspectés, il est recommandé de
+demander un avis neurologique. Des tests neuropsychologiques peuvent être utiles en cas
+de déficience intellectuelle.
+Concernant l’évaluation psychologique, celle-ci repose avant tout sur l’entretien clinique. Le
+cas échéant l’évaluation de dimensions plus spécifiques peut être réalisée.
+Pour ces évaluations, la littérature internationale propose de nombreux outils. Une liste non
+exhaustive des outils identifiés est présentée à titre indicatif en annexe 3. Ces outils sont
+principalement d’origine anglo-saxonne ou sont issus d’études sur des populations
+francophones canadiennes. Leurs propriétés n’ont pas toujours été évaluées sur des
+populations françaises. En l’absence d’études de validation de bonne qualité réalisées au
+sein d’échantillons français, il est difficile de tirer quelque conclusion que ce soit à partir de la
+passation de ces outils. Il est recommandé de mettre en place des études de validation dans
+des populations françaises des outils identifiés pertinents pour la pratique clinique par les
+professionnels. Dans cette étape d’évaluation clinique, des outils de médiation peuvent être
+utilisés.
+En France, à titre informatif, plusieurs outils sont fréquemment utilisés :
+ le QICPAAS16 (Questionnaire d’investigation clinique pour les auteurs d’agression
+sexuelle), guide d’entretien structuré, constitué de questions ouvertes, semi-ouvertes et
+fermées, organisées selon une progression hiérarchique ;
+ le Guide d’évaluation clinique17, qui rappelle à l’évaluateur les données utiles,
+pertinentes et nécessaires à évaluer lors de l’entretien clinique ; il comprend
+23 domaines d’évaluation ;
+ les échelles de fonctionnement psychodynamique18, qui comprennent six dimensions :
+qualité des relations familiales, amicales et sentimentales, tolérance affective, insight,
+résolution de problèmes et capacités d’adaptation ;
+
+15 Les infractions concernées sont les suivantes :
+- le viol et autres agressions sexuelles ;
+- les infractions de mise en péril des mineurs ;
+- les tortures et actes de barbarie ;
+- les atteintes volontaires à la vie humaine ;
+- les destructions, dégradations et détériorations volontaires dangereuses pour les personnes ;
+- l'enlèvement et la séquestration.
+16 Développé en France par l’équipe de Balier (1997).
+17 Développé au Canada par Aubut et al. (1993).
+18 Développé en Norvège par Hoglend et al. (2000).
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+13
+ par ailleurs, les méthodes projectives (Rorchach, Thematic Apperception Test) sont
+largement répandues et utilisées en pratique.
+7 Prise en charge psychothérapique et pharmacologique
+7.1 Généralités
+La prise en charge d’un auteur d’agression sexuelle peut être conçue comme un
+accompagnement médico-psycho-éducatif associant la prise en charge réalisée par l’équipe
+de santé et celle proposée par l’équipe socio-éducative dans un processus qui peut
+comporter des séquences d’intervention de l’une ou l’autre de ces équipes.
+La terminologie « auteur d’agression sexuelle » choisie pour définir cette population induit
+une prise en charge thérapeutique globale du sujet. Cette prise en charge, pas uniquement
+centrée sur le passage à l’acte, permet d’en appréhender le contexte et le processus
+psychologique qui le sous-tend.
+7.2 Formation et accompagnement des soignants
+La prise en charge des auteurs d’agression sexuelle est très complexe et peut justifier que le
+soignant puisse bénéficier d’informations et formations complémentaires relatives aux
+problèmes spécifiques de cette population. Les centres ressources pour l'aide à la prise en
+charge des auteurs de violences sexuelles (CRAVS)19, régionaux ou interrégionaux, sont
+joignables pour des informations ; ils mettent en place entre autres des formations, des
+études de cas cliniques, et proposent un travail en réseau en s’appuyant sur les équipes
+existantes.
+7.3 Objectifs de la prise en charge
+La première étape de la prise en charge consiste à faire émerger la demande, y compris
+dans les cas fréquents où la demande n’est ni apparente ni explicite. Elle permet également
+la construction du cadre de soin.
+Les objectifs de la prise en charge de l’auteur d’agression sexuelle visent à créer les
+conditions d’une bonne relation thérapeutique (alliance thérapeutique, bonne observance), à
+améliorer le fonctionnement psycho-social du patient et à diminuer l’activité sexuelle
+inappropriée. Elle peut ainsi contribuer à éviter la récidive de l’agression sexuelle, sans
+jamais pouvoir l’exclure. Dès lors, l’absence de récidive ne saurait apparaître comme le
+premier et le seul objectif du soin.
+7.4 Traitement des pathologies somatiques et psychiatriques associées
+Les agressions sexuelles sont à replacer et à comprendre dans un contexte plus global,
+notamment en termes de comorbidités somatique et psychique, voire psychiatrique, ainsi
+que de contexte social général20. Ces éléments contextuels doivent être reconnus et pris en
+charge de manière adaptée. Les troubles psychiatriques caractérisés doivent être traités en
+priorité. Une réévaluation du comportement sexuel inapproprié doit être effectuée après
+stabilisation des troubles.
+
+19 Voir annexe 4.
+20 Ces recommandations sont reprises de la conférence de consensus de la Fédération française de psychiatrie
+de 2001 « Psychopathologie et traitements actuels des auteurs d’agression sexuelle ».
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+14
+7.5 Eléments d’évaluation à prendre en compte dans le suivi
+Les éléments d’évaluation à prendre en compte au cours du suivi des auteurs d’agression
+sexuelle sont notamment l’amélioration du fonctionnement psycho-social et l’activité
+sexuelle.
+► Amélioration du fonctionnement psycho-social
+Les critères d’évaluation portent d’une part sur l’évaluation du fonctionnement psycho-social
+du sujet et d’autre part sur des aspects plus spécifiques en lien avec le passage à l’acte.
+A titre d’exemple, les éléments suivants du fonctionnenement global du sujet peuvent être
+évalués :
+ existence et qualité des relations interpersonnelles, et amélioration des habiletés
+sociales telles que l’affirmation de soi, l’empathie, la capacité de se représenter le vécu
+de l’autre, une meilleure gestion du stress et des émotions dont la colère, les affects
+dépressifs paroxystiques et l’impulsivité ;
+ représentation de la fonction parentale et des relations intrafamiliales ;
+ adaptation et investissement sociaux et professionnels ;
+ amélioration de l’estime de soi ;
+ maturité affective ;
+ capacité d’autocritique « insight » (existence et qualité) ;
+ observance de la prise en charge.
+La prise en charge des auteurs d’agression sexuelle apprécie plus particulièrement :
+ le positionnement par rapport à l’acte ;
+ les distorsions cognitives, en particulier relatives au passage à l’acte et à la victime ;
+ le « déni » ou la non-reconnaissance des faits ou actes ;
+ la perception de la violence exercée sur la victime et la capacité de se la représenter
+(« empathie envers la victime ») ;
+ le cas échéant, la compréhension du caractère pénalement répréhensible des faits ou
+actes.
+► Evaluation globale de l’activité sexuelle
+Les critères d’évaluation sont l’existence et la fréquence d’une activité sexuelle appropriée
+ou inappropriée dans tous ses aspects incluant les fantasmes sexuels, l’activité
+masturbatoire, l’exclusivité de l’objet sexuel, le caractère compulsif, etc. Le recours à la
+pléthysmographie reste très discuté.
+7.6 Prise en charge psychothérapique
+► Principes généraux
+La psychothérapie, quelle qu’en soit la modalité, est une composante incontournable de la
+prise en charge thérapeutique. En milieu ouvert, la psychothérapie peut être réalisée dans le
+secteur public ou privé, et le sujet doit être accueilli comme toute autre personne.
+La prise en charge psychothérapique n’exclut pas l’association à un traitement
+pharmacologique.
+Le type de prise en charge tient compte des capacités psychologiques, du niveau de
+verbalisation du sujet, de sa motivation (démarche personnelle ou injonction de soins), et du
+savoir-faire des thérapeutes. L’évolution du sujet est à prendre en compte (une prise en
+charge initialement non indiquée peut le devenir quelques mois plus tard).
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+15
+Les modalités de la psychothérapie peuvent évoluer dans le temps au cours de la prise en
+charge en fonction des étapes successives du processus thérapeutique et des besoins du
+sujet. Toute psychothérapie doit être régulièrement réévaluée et adaptée si besoin. Elle se
+doit de considérer le sujet dans son intégralité (parcours de vie, ressources, problématiques
+générales, etc.).
+La modalité de psychothérapie peut varier aussi en fonction des moments du parcours
+judiciaire du sujet, lorsque celui-ci est sous main de justice :
+ lorsque le sujet est dans la phase présentencielle, un travail spécifique sur les
+problématiques associées au passage à l’acte n’est entrepris que s’il reconnaît les faits
+qui lui sont reprochés et accepte cette prise en charge. Dans le cas où il nie
+complètement les faits reprochés, la présomption d’innocence doit prévaloir et aucun
+travail ne pourrait être entrepris sur un quelconque « déni ». Un suivi psychologique
+classique et non spécifique peut lui être proposé, comme à toute autre personne ;
+ lorsque le sujet est condamné et incarcéré, la psychothérapie peut être plus spécifique
+et questionner les faits sanctionnés. L’incarcération peut être une période favorable à un
+accès aux soins. Le parcours de soin est bien sûr distinct du parcours d’exécution de la
+peine du condamné, mais il y est articulé, particulièrement dans les 22 établissements
+pour peine qui ont été spécialisés par l’administration pénitentiaire pour l’accueil des
+condamnés pour infraction sexuelle ;
+ lorsque le sujet est sous injonction de soins à l’issue de la peine d’emprisonnement
+ferme, il convient de faire le point de ce qui a été fait en détention et établir avec lui un
+projet de prise en charge en tenant compte de ses particularités cliniques et des
+ressources de soins disponibles localement. Le médecin coordonnateur est chargé
+d’organiser cette étape. Le CRAVS peut également venir en appui de cette mission,
+notamment quand la désignation du médecin coordonnateur est tardive ;
+ lorsque le sujet est en obligation de soins, le recours au médecin coordonnateur n’est
+pas possible et le cadre des soins doit être contractualisé par le thérapeute avec le
+sujet, en sollicitant pour information, si besoin, le CRAVS.
+Lorsque le sujet n’est pas sous main de justice, après évaluation, le thérapeute peut faire le
+choix de l’orienter vers un collègue plus spécialisé, en prenant éventuellement contact avec
+le CRAVS.
+Les psychothérapies utilisées sont de type psychodynamique, cognitivo-comportemental,
+systémique, familial ou associent ces différentes démarches en fonction des besoins et de
+l’évolution du sujet.
+Quel que soit son type, la psychothérapie peut être individuelle ou en groupe ou alterner les
+deux modalités en fonction des besoins et de l’évolution du sujet.
+De manière générale, les psychothérapies individuelles sont particulièrement indiquées
+lorsqu’il existe une motivation du sujet, des potentialités d’auto-analyse, de symbolisation et
+d’insight.
+Les psychothérapies de groupe facilitent l’expression par l’échange au sein du groupe,
+apportent un étayage, qui concourt à l’amélioration des capacités d’introspection et de
+verbalisation. Toute psychothérapie de groupe (quelle que soit sa référence théorique
+principale) se découpe toujours en trois temps : pré, per et post-séance. Ces trois temps
+rythment et structurent le processus psychothérapique.
+► Types de psychothérapie
+Les données disponibles dans la littérature détaillent très peu les indications des différentes
+modalités en fonction des symptômes. Les modalités de prise en charge dépendent
+beaucoup du cadre dans lequel des recherches ont pu être réalisées, de la formation du
+psychothérapeute, de la culture et du cadre législatif en place. Les données de la littérature
+concernent ainsi essentiellement les psychothérapies de type cognitivo-comportemental
+(TCC). En France, les psychothérapies réalisées sont principalement fondées sur des bases
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+16
+théoriques psychanalytiques, alors que dans la plupart des pays dans lesquels les études
+ont été réalisées, les bases théoriques sont principalement comportementales et cognitives.
+Les indications proposées ici ne sont que des orientations à adapter à chaque sujet et au
+cours du suivi en fonction de son évolution.
+L’approche psychodynamique accorde une place importante aux étapes précoces du
+développement et à ses perturbations (traumatismes, maltraitance, séparations et ruptures),
+qui s’expriment notamment dans des troubles de l’attachement et de la construction de
+l’identité. La psychothérapie s’appuie sur une relation de confiance et de sécurité avec le
+thérapeute, qui permet d’aborder les problématiques profondes, les fantasmes (sexuels, de
+destruction, etc.) et la souffrance de la personne dans le contexte de son fonctionnement
+psychique. Ces problématiques sont abordées dans le transfert avec le thérapeute. Elles
+impliquent de sa part un ajustement permanent et soutenu à l’évolution et aux
+(im)possibilités de la personne. Les déficits initiaux de verbalisation et de mentalisation, la
+fragilité narcissique, la maturation émotionnelle et relationnelle, la gestion de la sexualité
+s’inscrivent dans les objectifs de changement, aux côtés de la compréhension cognitive et
+émotionnelle des processus dynamiques internes associés aux comportements
+pathologiques et de la perception du vécu des victimes.
+Les TCC proposent essentiellement des prises en charge de groupe (programmes de prise
+en charge). Le contenu de ces programmes est découpé en modules ciblant des objectifs
+thérapeutiques prédéfinis. Chaque module tente de traiter des problématiques générales
+(habiletés sociales dont l’affirmation de soi, la gestion du stress et des émotions dont la
+colère, mais aussi l’estime de soi, l’éducation sexuelle et affective, le contrôle de la
+consommation de substances psychoactives, etc.) ou spécifiques en lien avec le passage à
+l’acte (les préférences sexuelles, la reconnaissance des faits ou le déni, les distorsions
+cognitives, l’empathie pour la victime et la prévention de la récidive, etc.). Dans les TCC,
+l’évaluation de l’évolution du sujet par rapport à l’objectif initial a une place importante.
+Les indications de TCC sont discutées en cas de diagnostic de psychopathie ou de structure
+de personnalité perverse.
+Les accompagnements familiaux sont très souvent indispensables lorsqu’un membre de la
+famille est impliqué dans une agression sexuelle. Les thérapies familiales font l’objet d’une
+indication après évaluation (qu’elles soient de référence théorique psychodynamique ou
+systémique). Elles peuvent être indiquées pour travailler les dysfonctionnements familiaux
+que ce soit en cas de passage à l’acte intrafamilial ou non.
+Elles sont indiquées lorsqu’il faut mettre en place une phase de préparation à des entretiens
+individuels ou dans le cas d’une famille dépressive, repliée ou fusionnelle. Elles le sont
+également lorsque les auteurs d’agression sexuelle sont identifiés comme autoritaires ou
+tyranniques au sein du groupe. Il n’y a pas de contre-indications spécifiques aux thérapies
+familiales car l’investissement des auteurs dans cette dynamique thérapeutique se réalise de
+façon variable et individualisée21
+.
+► Place de la reconnaissance des faits
+Pour ces sujets, la reconnaissance des faits renvoie souvent à l’image du monstre qu’en fait
+la société, voire eux-mêmes. Aborder les faits va donc renvoyer à une réelle difficulté pour
+ces sujets, et ce d’autant plus s’ils n’ont jamais bénéficié de suivi auparavant. Il faudra donc
+comme dans un suivi classique respecter le rythme du sujet pour arriver à ce que celui-ci
+puisse en parler plus sereinement. Le déni, perçu comme mécanisme de défense sain
+(indispensable à la santé mentale car la vie est intolérable sans illusion), est à respecter,
+ainsi que sa dynamique car il permet au sujet de faire face au réel. Si celui-ci est massif,
+
+21 Ces recommandations sont reprises de la conférence de consenus de la Fédération française de psychiatrie de
+2001 « Psychopathologie et traitements actuels des auteurs d’agression sexuelle ».
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+17
+c’est qu’il est porteur de sens pour le clinicien. C’est pour cette raison que les faits doivent
+pouvoir être abordés au cours des entretiens sans y revenir de manière lancinante, mais ils
+ne doivent pas non plus être scotomisés.
+Dans le cadre de soins avec des personnes sous main de justice et condamnées, la prise en
+considération du dossier pénal (récit des faits, expertises psychiatriques, enquête sociale)
+paraît être un élément important dans la prise en charge de ces sujets. Contrairement à un
+cadre de prise en charge dite classique, ce dossier permet de croiser le discours du sujet à
+celui de la justice. Il peut être un levier thérapeutique car souvent les sujets n’ont que des
+souvenirs partiels de ce qui a été énoncé lors du procès, et ce car les émotions les ont bien
+souvent submergés à ce moment-là.
+7.7 Traitements pharmacologiques
+On distingue deux cas :
+ le trouble sexuel apparaît dans le cadre d’une pathologie neurologique ou d’un trouble
+psychiatrique caractérisé (trouble bipolaire, psychose, conduite addictive, etc.). Dans ce
+cas, le traitement de ce trouble constitue un prérequis indispensable ;
+ le trouble sexuel s’inscrit dans le cadre d’une paraphilie comme diagnostic principal. Une
+comorbidité psychiatrique (dépression, conduite addictive) ou un trouble de personnalité
+peuvent être associés.
+Le traitement médicamenteux est associé dans la majorité des cas à la prise en charge
+psychothérapique.
+Un algorithme de prise en charge médicamenteuse des auteurs d’agression sexuelle est
+proposé dans le tableau 2.
+► Traitements psychotropes
+Les antipsychotiques et thymorégulateurs n’ont pas d’indications dans le cas d’un trouble du
+comportement sexuel, en dehors des cas où ce trouble est associé à un trouble
+psychiatrique caractérisé.
+Les antidépresseurs de type IRS ont fait l’objet d’études montrant un bénéfice dans
+l’indication paraphilie. En dépit de l’absence d’autorisation de mise sur le marché (AMM), ils
+sont souvent prescrits dans les paraphilies à faible risque de passage à l’acte
+(exhibitionnisme, pédophilie sans antécédent de passage à l’acte) et à forte tonalité
+compulsive, ou en cas de dépression associée. Les doses prescrites peuvent être
+progressivement augmentées, si besoin jusqu’à celles utilisées dans les troubles
+obsessionnels compulsifs (TOC).
+► Traitements hormonaux
+Médicaments disponibles
+Les traitements hormonaux ont pour objectif commun de réduire les pulsions sexuelles :
+ soit en inhibant la liaison de la testostérone à son site récepteur et en modifiant de façon
+mineure et inconstante le taux de testostérone plasmatique (acétate de cyprotérone) ;
+ soit en réduisant fortement sa sécrétion (analogues de la GnRH : triptoréline,
+leuproréline, goseréline).
+IIs réduisent les comportements sexuels inappropriés, mais ils réduisent également l’activité
+sexuelle globale.
+Deux spécialités ont en France une AMM pour les patients ayant une paraphilie :
+ Androcur®
+ 100 mg (acétate de cyprotérone), disponible depuis le 21 juillet 2005 pour la
+« réduction des pulsions sexuelles dans les paraphilies en association à une prise en
+charge psychothérapeutique ». Il n’existe ni forme injectable, ni forme retard de ce
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+18
+produit en France. Androcur®
+ a été examiné par la commission de la transparence en
+juillet 2006 et est inscrit sur la liste des spécialités remboursables aux assurés sociaux
+depuis août 2007 dans cette indication ;
+ Salvacyl LP®
+ (triptoréline), disponible depuis le 23 août 2007 « pour la réduction majeure
+et réversible des taux de testostérone afin de diminuer les pulsions sexuelles chez
+l’homme adulte ayant des déviances sexuelles sévères. Le traitement par Salvacyl LP®
+doit être instauré et contrôlé par un psychiatre. Le traitement doit être associé à une
+psychothérapie dans le but de diminuer le comportement sexuel inapproprié ». Son
+mode d’administration exclusivement intramusculaire facilite l’observance du traitement.
+La commission de la transparence a émis un avis favorable en février 2009 à l'inscription
+de Salvacyl LP®
+ sur la liste des spécialités remboursables aux assurés sociaux et sur la
+liste des médicaments agréés à l'usage des collectivités et divers services publics dans
+cette indication.
+La leuproréline (Enantone®
+), qui est également un agoniste de la GnRH, a fait l'objet
+d'études, mais ne possède pas d'AMM dans la réduction de l'activité sexuelle.
+Les œstrogènes et l’acétate de médroxyprogestérone ne sont plus utilisés en France dans
+cette indication en raison de leurs effets secondaires.
+L’effet agoniste initial, qui conduit à une augmentation transitoire du taux de testostéronémie
+avec les analogues de la GnRH, doit obligatoirement être pris en compte dans la mise en
+route du traitement. Il est donc recommandé de prescrire un traitement initial par Androcur®
+pendant au moins 10 jours avant de réaliser la première injection d’analogue de la GnRH. Ce
+traitement doit être maintenu au moins pendant le premier mois après la première injection.
+Ensuite l’analogue de la GnRH conduit à un effondrement des taux de testostérone pendant
+la durée du traitement. Une hospitalisation peut être indiquée pour la mise en route du
+traitement hormonal.
+Ces traitements ont l’avantage d’une réversibilité des modifications hormonales à l’arrêt du
+traitement.
+Le délai d’action pour obtenir une disparition complète des fantasmes et du comportement
+inapproprié est d’environ 1 à 3 mois quel que soit le type de traitement hormonal utilisé.
+Indications
+La prescription doit être réalisée après information complète (en particulier concernant les
+effets secondaires du produit) et consentement du sujet.
+La population concernée est une population restreinte, environ 10 à 15 % des sujets ayant
+commis un acte sexuel inapproprié. Il s’agit en particulier :
+ des pédophiles « sévères » (c’est-à-dire ayant un risque important de passage à l’acte
+ou de violence) ;
+ des violeurs récidivistes avec comportement prédateur.
+Le traitement par voie intramusculaire est indiqué en cas de mauvaise observance d’un
+traitement antiandrogène par voie orale.
+Contre-indications
+ Acétate de cyprotérone : psychose, dysfonctionnement hépatique, non-achèvement de
+la puberté et de la croissance osseuse, antécédents personnels et familiaux de maladie
+veineuse thrombo-embolique. Le RCP souligne également les contre-indications
+suivantes : syndrome de Dubin-Johnson, syndrome de Rotor, tuberculose, cachexie,
+dépression chronique sévère, drépanocytose, diabète sévère, intolérance génétique au
+galactose, syndrome de malabsorption du glucose et du galactose, déficit en lactase. En
+cas de déficience intellectuelle, il est indispensable que l’entourage encadre la prise du
+traitement.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+19
+ Triptoréline : ostéoporose sévère non traitée, non-achèvement de la puberté et de la
+croissance osseuse.
+Examens complémentaires à pratiquer lors de la prescription initiale
+ Bilan hormonal : au moins dosage de testostérone, TEBG et LH.
+ Bilan hépatique en cas de prescription d’Androcur®
+.
+ Ostéodensitométrie chez les sujets âgés de plus de 50 ans.
+Effets secondaires principaux
+ Acétate de cyprotérone : gynécomastie (20 %) en général réversible à l’arrêt du
+traitement, hépatotoxicité nécessitant l’interruption du traitement, complications thromboemboliques, dépression.
+ Triptoréline : bouffées de chaleur, dépression, déminéralisation osseuse.
+Surveillance
+Dans le cas d’un traitement par acétate de cyprotérone, la réalisation mensuelle pendant les
+3 premiers mois, puis trimestrielle, d’un bilan hépatique est nécessaire.
+L’évaluation annuelle ou au moins biennale de l’ostéodensitométrie est indispensable. Si les
+valeurs de densité osseuse deviennent pathologiques, l’avis d’un rhumatologue est requis.
+La surveillance du taux de testostéronémie n’est pas nécessaire sauf, le cas échéant, en cas
+de doute sur une consommation de testostérone.
+Arrêt du traitement
+La durée du traitement et les modalités de son interruption ne font pas actuellement l’objet
+d’un consensus. Il semble qu’une durée minimale de 3 à 5 ans soit nécessaire.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+20
+Tableau 2. Algorithme de la prise en charge médicamenteuse des auteurs d’agression sexuelle22
+Niveaux Objectifs et indications Traitements et posologies
+Niveau 1 - Objectifs : contrôle des fantasmes sexuels inappropriés, des compulsions et des comportements sexuels
+inappropriés ; pas d’impact du traitement sur l’activité sexuelle conventionnelle et sur le désir sexuel
+- Psychothérapie (utiliser TCC si thérapeute
+formé) afin de prévenir les récidives
+Niveau 2
+- Objectifs : contrôle des fantasmes sexuels inappropriés, des compulsions et des comportements sexuels
+inappropriés ; impact mineur du traitement sur l’activité sexuelle conventionnelle et sur le désir sexuel
+- Absence de résultats satisfaisants avec le niveau 1
+- Peut être utilisé dans tous les cas modérés de paraphilies associés à un risque faible d’agression sexuelle
+(ex. exhibitionnisme sans risque de viol ou pédophilie)
+- Psychothérapie
+- IRS (hors AMM) sous réserve d’utiliser des
+doses comparables à celles prescrites dans le
+trouble obsessionnel compulsif (ex. fluoxétine
+40 à 60 mg/j ou paroxétine 40 mg/j)
+Niveau 3
+- Objectifs : contrôle des fantasmes sexuels inappropriés, des compulsions et des comportements sexuels
+inappropriés ; avec pour effet secondaire une réduction modérée de l’activité et du désir sexuels
+- Absence de résultats avec le niveau 2 en prescription de 4-6 semaines d’IRS à dose élevée
+- Paraphilie avec caresses mais sans pénétration
+- Fantasmes sexuels inappropriés sans sadisme sexuel
+- Psychothérapie
+- Ajouter à l’IRS une faible dose
+d’antiandrogène (ex. acétate de cyprotérone
+50-100 mg/j per os)
+Niveau 4
+- Objectifs : contrôle des fantasmes sexuels inappropriés, des compulsions et des comportements sexuels
+inappropriés ; avec pour effet secondaire une réduction importante de l’activité et du désir sexuels
+- Absence de résultats satisfaisants avec le niveau 3
+- Risque modéré, ou dans certains cas plus élevé, de violence sexuelle (paraphilies sévères avec notamment
+des caresses inopportunes et un nombre limité de victimes)
+- Bonne observance du traitement, sinon passer au niveau 5
+- Psychothérapie
+- Dose standard d’acétate de cyprotérone : 200-
+300 mg/j per os
+- Si présence d’anxiété, de dépression ou de
+troubles obsessionnels compulsifs associés, un
+IRS peut être associé à l’antiandrogène
+22 Thibaut F. et al. And the WFSBP Task Force on Pharmacological treatment of paraphilias. World Journal of Biological Psychiatry, in press 2010.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+21
+Tableau 2. Algorithme de la prise en charge médicamenteuse des auteurs d’agression sexuelle22
+Niveaux Objectifs et indications Traitements et posologies
+Niveau 5
+- Objectifs : contrôle des fantasmes sexuels inappropriés, des compulsions et des comportements sexuels
+inappropriés ; avec pour effet secondaire une disparition quasi complète de l’activité et du désir sexuels
+- Risque élevé de violence sexuelle et cas de paraphilies sévères
+- Fantasmes sexuels inappropriés ou comportement sexuel sadique ou violence sexuelle
+- Mauvaise observance ou résultats non satisfaisants obtenus avec le niveau 4
+- Psychothérapie
+- Analogue de la GnRH à longue durée d’action
+(c'est-à-dire triptoréline ou leuproréline [la
+leuproréline n’a pas d’AMM dans cette
+indication]) : 3 mg/mois ou 11,25 mg tous les 3
+mois par voie intramusculaire)
+- Il est souhaitable d’associer de l’acétate de
+cyprotérone à l’analogue de la GnRH pendant
+le premier mois de traitement afin de prévenir le
+risque de rechute du comportement sexuel
+inapproprié qui pourrait être induit par
+l’augmentation transitoire du taux de
+testostéronémie liée à l’instauration de la
+prescription d’analogue de la GnRH
+Niveau 6
+- Objectifs : contrôle des fantasmes sexuels inappropriés, des compulsions et des comportements sexuels
+inappropriés ; avec pour effet secondaire une disparition complète de l’activité et du désir sexuels
+- Pas de résultats satisfaisants obtenus avec le niveau 5
+- Les cas les plus sévères de paraphilies
+- Psychothérapie
+- Prescrire l’acétate de cyprotérone (50-
+200 mg/j per os) en association avec un
+analogue de la GnRH
+- Un IRS peut également être associé
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+22
+Annexe 1. Outil d’intervention du soignant dans le cadre de
+soins pénalement ordonnés
+Intervention dans le cadre de soins pénalement ordonnés
+- Soignants -
+La mesure ordonnée est :
+ - une obligation de soins
+- une injonction de soins
+Patient(e) :
+A-t-il (elle) été jugé(e) ?
+ Oui  Non
+ Si la réponse est non, jugement prévu le : ……………………………………………………...
+
+Est-ce sa première condamnation ?
+Oui  Non
+A-t-il (elle) été incarcéré(e) ? Etait-ce sa première incarcération ?
+ Oui  Non  Oui  Non
+
+A-t-il (elle) bénéficié de soins pendant son incarcération ?
+ Oui  Non
+Nom et coordonnées du (des) médecin(s)/psychologue(s) qui l’a (ont) suivi(e) :
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………
+ Des expertises ont-elles été réalisées ? Ont-elles été ajoutées au dossier ?
+ Oui  Non  Oui  Non
+Intervenants :
+Nom et coordonnées des intervenants en charge du dossier de l’intéressé :
+ - Uniquement pour l’injonction de soins : médecin coordonnateur :
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………
+- Conseiller d’insertion et de probation :
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………
+- Magistrat (juge d’instruction, juge des libertés et de la détention, juge de l’application des peines) :
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………
+- Avocat(s) de la défense :
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………
+Mesure :
+Durée de la mesure : ………………………… Date de début : …….………..……… Date de fin : …………………....
+Autre(s) mesure(s) ordonnée(s) (interdictions…) : ………………………………………………………………………....
+…………………………………………………………………………………………………………………………….………
+…………………………………………………………………………………………………………………………………….
+Cadre juridique de la mesure (suivi sociojudiciaire, sursis avec mise à l’épreuve, etc.) :
+…………………………………………………………………………………………………………………………….………
+…………………………………………………………………………………………………………………………………….
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+23
+Obligation de soins Injonction de soins (IS)
+Loi(s) applicable(s) Existe dans le Code de procédure pénale (CPP) depuis 1958 et dans le Code pénal (CP) de 1994
+- Loi 17/06/1998 relative à la prévention et à la répression des
+infractions sexuelles ainsi qu’à la protection des mineurs
+- Loi 12/12/2005 relative au traitement de la récidive des infractions
+- Loi 10/08/2007 renforçant la lutte contre la récidive des majeurs et des
+mineurs
+Nature des obligations
+« se soumettre à des mesures d’examen médical, de traitement ou
+de soins, même sous le régime de l’hospitalisation »
+Attention : cette mesure est toujours intégrée à une mesure/peine
+principale
+La personne est « susceptible de faire l'objet d'un traitement,
+après une expertise médicale ordonnée »
+Le suivi sociojudiciaire avec IS peut être prononcé comme peine
+principale
+Procédure
+Le juge peut la prononcer directement sans avis médical préalable.
+Consultation du médecin traitant par le justiciable
+Justification par le justiciable de sa consultation auprès du JAP et du
+SPIP
+Le juge (de jugement ou JAP) la prononce après expertise sur
+l’opportunité d’un traitement puis rappelle au condamné ses
+obligations. Le JAP désigne un médecin coordonnateur pour faire
+interface santé/justice.
+Consentement Requis (L 1111-4 du Code de la santé publique [CSP]) Requis, mais limité : possibilité pour le juge de prononcer une peine d’emprisonnement si refus de se soumettre aux soins (a. 131-36-4 CP)
+Cadre juridique et public
+concerné
+Personnes mises en examen :
+Présentenciel : contrôle judiciaire (a. 138 10 CPP)
+Ajournement avec mise à l’épreuve (a. 132-64 CP)
+Personnes condamnées :
+Aménagement de peine : sursis avec mise à l’épreuve (a. 132-
+45 3 CP), sursis avec TIG (132-56 CP)
+Post-sentenciel : surveillance judiciaire (a. 723-30 CP)
+Pas spécifique aux auteurs d’agressions sexuelles
+Uniquement pour des personnes condamnées
+Peine principale (pas d’incarcération préalable) ou
+complémentaire (suppose une éventuelle incarcération préalable) :
+suivi sociojudiciaire (a. 131-36-4 CP) depuis 1998
+Aménagement de peine : sursis avec mise à l’épreuve (a. 132-45-1 CP)
+depuis 2005
+Post-sentenciel : libération conditionnelle (a. 731-1 CPP), surveillance
+judiciaire (a. 723-30 CPP), surveillance de sûreté (a. 706-53-19 CPP)
+depuis 2005
+Uniquement pour des infractions pour lesquelles le suivi sociojudiciaire
+est encouru : infractions sexuelles (1998) et violences (2005)
+Acteurs
+Prononciation facultative par le juge (juge d’instruction, juge de
+jugement, ou juge de l’application des peines)
+Attention : le patient n’a pas forcément rencontré le juge de
+l’application des peines avant de commencer l’exécution de sa mesure
+Libre choix par le justiciable du médecin traitant
+Contrôle exercé par juge d’application des peines (JAP) + service
+pénitentiaire d’insertion et de probation (SPIP)
+Prononciation facultative par le juge
+Attention : depuis mars 2008, le juge est tenu de prononcer l’IS pour
+des infractions pour lesquelles le suivi sociojudiciaire est encouru et
+dès lors qu’un expert s’est prononcé sur l’opportunité d’un traitement
+(sauf dérogation contraire) (a. 763-3 CPP)
+Médecin coordonnateur (a. L 3711-1 CSP et R 3711-4 et ss) qui invite
+le condamné à choisir un médecin traitant ; conseille le médecin traitant
+si celui-ci en fait la demande ; transmet au JAP/SPIP les éléments
+nécessaires au contrôle de l'injonction de soins ; informe le condamné
+des suites possibles au traitement ; coopère à la réalisation
+d'évaluations périodiques du dispositif de l'injonction de soins ainsi qu'à
+des actions de formation et d'étude.
+Médecin et/ou psychologue traitant (choisi librement par le justiciable
+MAIS sous réserve de validation par le médecin coordonnateur)
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+24
+Moment et durée de la
+mesure
+Avant détention, pendant contrôle judiciaire
+Après détention, pendant durée de mise à l’épreuve, mais peut être
+préparée en détention par incitation aux soins lorsque le lieu de
+détention « permet d’assurer un suivi médical et psychologique
+adapté » (aa. 717-1 et 763-7 CPP)
+Maximum : 3 ans
+Jamais avant condamnation
+Après détention, mais peut être préparée en détention par incitation
+aux soins lorsque le lieu de détention « permet d’assurer un suivi
+médical et psychologique adapté » (aa. 717-1 et 763-7 CPP)
+Maximum : 20 ans
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+25
+Annexe 2. Liste non exhaustive d’éléments cliniques et
+sociodémographiques à évaluer
+Domaines Eléments évalués
+Sexe
+Profession(s) et insertion socioprofessionnelle
+Vie maritale actuelle et passée, nombre d’enfants
+Niveau scolaire, existence d’une déficience intellectuelle
+Informations
+générales
+Activité de loisirs (contact ou non avec des enfants)
+Antécédents personnels, notamment de troubles psychiatriques (diagnostic,
+hospitalisation, traitement, etc.)
+Antécédents de conduite suicidaire
+Antécédents de pathologies neurologiques, en particulier entraînant des
+lésions frontales (notion de traumatisme crânien, démence débutante, etc.)
+Traitements en cours, en particulier traitement par agoniste dopaminergique
+Conduites addictives (ancienneté, produits, traitement, etc.)
+Conduite de dopage (testostérone)
+Age de la puberté
+Existence de troubles sexuels fonctionnels (éjaculation précoce,
+impuissance organique ou psychologique, etc.)
+Antécédents
+personnels
+Trajectoire de vie, plus particulièrement événements de vie traumatiques
+(maltraitances psychologiques, physiques et sexuelles ; négligence,
+isolement et exclusion ; etc.)
+Antécédents
+familiaux
+Antécédents familiaux de troubles psychiatriques et de troubles des
+conduites sexuelles
+Empathie, capacité de se représenter le vécu de l’autre
+Maturité affective
+Représentation de la fonction parentale
+Qualité des
+relations
+interpersonnelles
+Gestion du stress et de la colère, impulsivité
+Axe 1 : troubles de l’humeur, troubles anxieux, troubles psychotiques,
+troubles addictifs (recherche d’abus ou de dépendance à l’alcool, à la
+cocaïne, au cannabis en particulier)
+Recherche de
+pathologies
+psychiatriques
+constituées
+Axe 2 : troubles de personnalité, notamment narcissiques, comportement
+antisocial ; troubles attentionnels chez l’adulte (hyperactivité et déficit
+d’attention)
+Description du ou des passages à l’acte dans son contexte psychologique et
+événementiel
+âge de début des agressions
+Reconnaissance des faits ou des actes, et distorsions cognitives relatives au
+passage à l’acte
+Nature, âge et sexe de la victime
+Nombre de victimes, circonstances
+Nature des liens avec la victime
+Lieux
+Utilisation de substances psychoactives
+Modus operandi
+Utilisation de la violence
+Scénario excitant
+Préméditation ou non
+Description du ou
+des passages à
+l’acte
+Circonstances et conséquences de l’arrestation si elle a eu lieu
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+26
+Domaines Eléments évalués
+Age et sexe de la victime
+Utilisation ou non de matériel pornographique (Internet, vidéo)
+Age et circonstances de début
+Description des fantasmes, de l’activité sexuelle déviante et non déviante
+(masturbation et relations sexuelles, description et fréquence)
+Caractère exclusif ou non, incestueux ou non de la pédophilie
+Types et nombre de paraphilies : rechercher systématiquement l’ensemble
+des paraphilies
+Prise en charge antérieure des paraphilies et observance de la prise en
+charge
+Qualité de l’insight (compréhension à l’égard du délit et conscience de la
+responsabilité personnelle)
+Déni et distorsion cognitive, capacité de verbalisation et de mentalisation
+(alexithymie)
+Description de
+la/des paraphilies
+Motivation pour la prise en charge
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+27
+Annexe 3. Liste non exhaustive d’outils d’évaluation
+standardisée
+Domaines Dimension (outils d’évaluation)
+Évaluation des troubles de la personnalité (Minnesota Multiphasic
+Personality Inventory, Million Clinical Multiaxial Inventory, EPQ,
+16PF, NEO-PI)
+Évaluation de la psychopathie (Psychopathy Check-List Revised)
+Évaluation des troubles mentaux (Mini, SCID)
+Évaluation des schémas dysfonctionnels relatifs aux troubles de la
+personnalité (Questionnaire abrégé des schémas)
+Évaluation des capacités intellectuelles (Weschler Adult Intelligence
+Scale)
+Évaluation É
+générale
+Évaluation neuropsychologique :
+• attention (DII, Trail Making Test)
+• mémoire (5 mots de Dubois, MMS)
+• planification (Test de Wisconsin, Tour de Londres)
+• inhibition (Stroop Color Interference Test)
+• etc.
+Évaluation des relations interpersonnelles, du fonctionnement social
+ou des compétences sociales (Social Skills Inventory, Echelle de
+solitude sociale et émotionnelle, Questionnaire des conduites
+interpersonnelles)
+Évaluation des mécanismes de défense (Defense Style
+Questionnaire)
+Évaluation de la désirabilité sociale (Marlowe-Crowne Social
+Desirability Scale)
+Évaluation de l’alliance thérapeutique (Échelle d’alliance aidante)
+Évaluation des habiletés sociales :
+• affirmation de soi (Rathus)
+• gestion de l’excès de stress, gestion des émotions dont la
+colère (Buss Perry Agression Questionnaire)
+• gestion de l’alexithymie (Toronto Alexithymia Scale)
+• gestion de lieu de contrôle (Multidimensional locus of control
+ou IPAH)
+• etc.
+Évaluation de l’estime de soi (Inventaire d’estime de soi de
+Coopersmith, Social Self Esteem Inventory)
+Évaluation des connaissances et des croyances sexuelles générales
+(Questionnaire des croyances erronées sur la sexualité générale, en
+cours de validation en France)
+Évaluation des
+problématiques
+associées à
+l’agression
+sexuelle
+Évaluation des maltraitances vécues durant l’enfance et
+l’adolescence (Parental Bonding Instrument, Childhood Experience
+of Care and Abuse)
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+28
+Domaines Dimension (outils d’évaluation)
+Évaluation des distorsions cognitives relatives au passage à l’acte
+(Abel et Becker Cognitions Scale, Molest Scale de Bumby,
+questionnaire sur les croyances anticipatoires, soulageantes et
+permissives des auteurs d’agression sexuel sur enfant)
+Évaluation de l’empathie envers la victime (Empat, Child Molester
+Empathy Measure)
+Évaluation de la sphère psycho-sexuelle (Multiphasic Sex Inventory)
+Évaluation de l’intérêt et de l’orientation sexuelle (Pléthysmographie)
+Évaluation des fantasmes, des désirs et pulsions sexuelles et de
+l’activité sexuelle (Questionnaire sur l’Intensité du Désir et des
+comportements Sexuels, en cours de validation en France)
+Évaluation des
+problématiques
+associées à
+l’agression
+sexuelle
+Évaluation du déni ou minimisation des faits (Facets of Sexual
+Offender Denial, en cours de validation en France)
+Évaluation du risque de récidive violente statique (Violence Risk
+Appraisal Guide [VRAG])
+Évaluation du risque de récidive violente dynamique (Historical
+Clinical Risk-20 [HCR 20], Psychopathy Check-List Revised [PCL-R])
+Évaluation du risque de violence sexuelle de type clinique structuré
+(Sexual Violence Risk Protocol [SVR-20], Risk for Sexual Violence
+Protocol [RSVP]).
+Évaluation de la récidive sexuelle statique (Static 99, Sexual
+Offender Risk Appraisal Guide [SORAG])
+Evaluation du
+risque de
+récidive
+Évaluation de la récidive sexuelle dynamique (issus de la Sex
+Offender Need Assessment Ratin, les outils Stable [pour les
+prédicteurs dynamiques stables]) et Acute [pour les prédicteurs
+dynamiques aigus] 2000).
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+29
+Annexe 4. Liste des centres ressources pour l'aide à la prise en charge des auteurs de
+violences sexuelles (CRAVS) existant en novembre 2009
+Responsable(s) REGION Adresse Téléphone E-mail
+Dr COCHEZ Florent
+AQUITAINE
+CH Charles Perrens
+121, rue de la Béchade
+33076 BORDEAUX
+05 56 56 67 45 fcochez@ch-perrens.fr eantona@ch-perrens.fr
+VAN DER HORST Annrachel
+AUVERGNE
+CRAVS Auvergne
+Service régional de médecine légale et de
+victimologie
+CHU de Clermont-Ferrand
+58, rue Montalembert
+63003 CLERMONT-FERRAND CEDEX 1
+04 73 75 49 01 emarez@chu-clermontferrand.fr
+Dr ABONDO Marlène
+BRETAGNE
+CRAVS Bretagne
+Service de médecine légale et médecine
+pénitentiaire
+CHU de Rennes
+Rue Henri Le Guilloux
+35000 RENNES
+02 99 28 99 04 cravs.rennes@chu-rennes.fr
+Dr SCHMOUCHKOVITCH
+Michel
+BRETAGNE
+CRAVS Bretagne
+Hôpital de Bohars
+Route de Brest
+29820 BOHARS
+02 98 01 50 27 michel.schmouchkovitch@chu-brest.fr
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+30
+VIGOURT OUDART Sylvie
+CHAMPAGNE-ARDENNES
+CRIAVS-CA
+Hôpital Pierre Briquet
+EPSM de la Marne
+1, chemin de Bouy
+BP 70555
+51022 CHÂLONS-EN-CHAMPAGNE
+03 26 70 37 66 criavs-ca@epsdm-marne.fr
+Dr MINERVINI Joseph
+FRANCHE-COMTE
+Maison arrêt - UCSA
+5, rue Louis Pergaud
+25000 BESANÇON
+03 81 21 85 61 jminervini@chu-besancon.fr
+Dr BARON-LAFORET Sophie
+ILE-DE-FRANCE
+CERIAVSIF
+123, rue de Reuilly
+ 75012 PARIS
+01 44 75 50 41 ceriavsif@gmail.com cravsif@hopital-esquirol.fr
+Dr ZAGURY Daniel
+Dr ARENA Gabrielle
+ILE-DE-FRANCE
+CRIAVS EPS VILLE EVRARD
+202, avenue Jean Jaurès
+93332 NEUILLY-SUR-MARNE
+01 43 09 31 06 n.tennier@ns-eps-ville-evrard.fr
+Dr COUTANCEAU Roland
+ILE-DE-FRANCE
+Centre de Ressource Pôle Ouest
+CMP
+3 bis, rue de l'Aigle
+92250 LA GARENNE6COLOMBES
+01 56 47 03 41 cr-idf-ouest@psylegale.com
+Dr FOULI Taoufik
+LIMOUSIN
+Centre hospitalier Esquirol
+Unité Michel Foucault
+Centre ressource régional pour les troubles du
+comportement sexuel
+37, rue de Bourneville
+87025 LIMOGES CEDEX
+05 55 43 13 43
+taoufik.fouli@ch-esquirol-limoges.fr
+Secrétariat : julie.corivaud@chesquirol-limoges.fr
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+31
+Dr COURTIAL Bertrand
+LORRAINE
+CRIAVS
+Centre psychothérapique de Nancy
+1, rue du Dr Archambault
+BP 11010
+54521 LAXOU CEDEX
+03 83 92 68 50 criavs@cpn-laxou.com
+Dr ALBARDIER Walter
+MIDI-PYRENEES
+CRIAVS
+7, rue du Colonel Driant
+31400 TOULOUSE
+05 61 14 90 10 criavs-mp@ch-marchant.fr
+Responsable institutionnel :
+Pr THOMAS Pierre
+CRISAVS :
+Dr SEGURET Thiphaine
+VANDERSTUKKEN Olivier
+NORD-PAS-DE-CALAIS
+CRISAVS
+6, rue du Professeur Laguesse
+Unité de soins normalisée (USN B)
+59037 LILLE CEDEX
+03 20 44 44 35 crisavscris@yahoo.fr
+Dr GINDREY Catherine
+BASSE-NORMANDIE
+CRIAVS - BN
+2, porte de l'Europe
+14000 CAEN
+02 31 06 18 80 criavs.bn@chs-caen.fr catherine.gindrey@chs-caen.fr
+Dr SAMUEL Dominique
+Coordinateur : BOITOUT
+Jean
+HAUTE-NORMANDIE
+CRIAVS - HN
+106, rue Lafayette
+76000 ROUEN
+02 35 63 56 37 crinavs.hn@orange.fr
+Médecins responsables du
+projet :
+Pr LANCON Christophe
+Dr PAULET Catherine
+Médecins responsables du
+centre :
+Dr BONIERBALE Mireille
+Dr GLEZER Mireille
+PROVENCE-ALPES-COTE D’AZUR-CORSE
+CRIR-AVS PACAC
+CHU Sainte-Marguerite
+270, bd Sainte-Marguerite
+13274 MARSEILLE CEDEX 09
+04 91 83 90 33 contact.violencesexuel@ap-hm.fr
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+32
+Dr BELONCLE Michel
+PAYS-DE-LOIRE
+CRAVS
+Hôpital St Jacques
+85, rue St Jacques
+Bât. Louis Philippe RdJ
+44093 NANTES CEDEX 1
+02 40 84 76 06 cravs.pdl@chu-nantes.fr
+Dr GUILLAUME Laurence
+PAYS-DE-LOIRE
+CESAME
+CH Ste Gemmes sur Loire
+BP 50089
+49137 LES PONTS-DE-CE
+02 41 80 79 22 consult.medi-leg@ch-cesame- angers.fr
+SAVIN Bernard
+PICARDIE
+CRIAVS
+Centre hospitalier Philippe Pinel
+Route de Paris
+80044 AMIENS CEDEX 1
+03 22 53 47 55 criavs-picardie@ch-pinel.fr
+SAVIN Bernard
+PICARDIE
+Antenne Oise :
+Centre Hospitalier interdépartemental de Clermont
+2, rue des Finets
+60600 CLERMONT
+03 44 77 65 03 criavs-picardie@chi-clermont.fr
+SAVIN Bernard
+PICARDIE
+Antenne Aisne :
+Centre Jenny AUBRY
+91, rue Robert Cadeau
+02000 LAON
+03 23 27 11 65 criavs-picardie@epsmd-aisne.fr
+Pr SENON Jean-Louis
+Dr MERY Bernard
+POITOU-CHARENTE
+CRIAVS
+CH Niort
+40, avenue Charles de Gaulle
+79000 NIORT
+05 49 78 39 88 Site : criavs.org
+criavs@orange.fr
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+33
+Pr SENON Jean Louis
+Dr MERY Bernard
+POITOU-CHARENTE
+CMP Espace Vienne
+70, rue de Slovénie
+86000 POITIERS
+05 49 45 13 48 Site : criavs.org criavs@orange.fr
+Dr GAMELIN Eric
+LA REUNION
+CRAVS
+42, chemin Pourpier
+97866 ST PAUL CEDEX
+02 62 45 79 13 cravs@epsmr.org
+CIAVALDINI André
+RHONES-ALPES
+CRIAVS
+Centre ressource Claude Balier
+9, place Victor Hugo
+38000 GRENOBLE
+04 76 50 45 71 contact@criavs-ra.org
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+34
+Méthode Recommandations pour la pratique clinique
+Les recommandations de bonne pratique professionnelle sont définies comme « des propositions
+développées selon une méthode explicite pour aider le praticien et le patient à rechercher les soins les
+plus appropriés dans des circonstances cliniques données ».
+La méthode Recommandations pour la pratique clinique (RPC) est l’une des méthodes utilisées par la
+Haute Autorité de Santé (HAS) pour élaborer des recommandations de bonne pratique
+professionnelle. Cette méthode repose, d’une part, sur l’analyse et la synthèse critiques de la
+littérature médicale disponible, et, d’autre part, sur l’avis d’un groupe multidisciplinaire de
+professionnels concernés par le thème des recommandations.
+► Choix du thème de travail
+Les thèmes de recommandations de bonne pratique professionnelle sont choisis par le Collège de la
+HAS. Ce choix tient compte des priorités de santé publique et des demandes exprimées par les
+ministres chargés de la santé et de la sécurité sociale. Le Collège de la HAS peut également retenir
+des thèmes proposés par des sociétés savantes, l'Institut national du cancer, l'Union nationale des
+caisses d'assurance maladie, l'Union nationale des professionnels de santé, des organisations
+représentatives des professionnels ou des établissements de santé, des associations agréées
+d'usagers.
+Pour chaque thème retenu, la méthode de travail comprend les étapes suivantes.
+► Comité d’organisation
+Un comité d’organisation est réuni par la HAS. Il est composé de représentants des sociétés
+savantes, des associations professionnelles ou d’usagers, et, si besoin, des agences sanitaires et des
+institutions concernées. Ce comité définit précisément le thème de travail, les questions à traiter, les
+populations de patients et les professionnels concernés. Il signale les travaux pertinents, notamment
+les recommandations, existants. Il propose des professionnels susceptibles de participer aux groupes
+de travail et de lecture. Ultérieurement, il participe au groupe de lecture.
+► Groupe de travail
+Un groupe de travail multidisciplinaire et multiprofessionnel est constitué par la HAS. Il est composé
+de professionnels de santé, ayant un mode d’exercice public ou privé, d’origine géographique ou
+d’écoles de pensée diverses, et, si besoin, d’autres professionnels concernés et de représentants
+d’associations de patients et d’usagers. Un président est désigné par la HAS pour coordonner le
+travail du groupe en collaboration avec le chef de projet de la HAS. Un chargé de projet est également
+désigné par la HAS pour sélectionner, analyser et synthétiser la littérature médicale et scientifique
+pertinente. Il rédige ensuite l’argumentaire scientifique des recommandations en définissant le niveau
+de preuve des études retenues. Ce travail est réalisé sous le contrôle du chef de projet de la HAS et
+du président.
+► Rédaction de la première version des recommandations
+Une première version des recommandations est rédigée par le groupe de travail à partir de cet
+argumentaire et des avis exprimés au cours des réunions de travail (habituellement deux réunions).
+Cette première version des recommandations est soumise à un groupe de lecture.
+► Groupe de lecture
+Un groupe de lecture est constitué par la HAS selon les mêmes critères que le groupe de travail. Il est
+consulté par courrier et donne un avis sur le fond et la forme de l’argumentaire et des
+recommandations, en particulier sur la lisibilité et l’applicabilité de ces dernières. Ce groupe de lecture
+externe est complété par des relecteurs du comité de validation des recommandations au sein de la
+HAS.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+35
+► Version finale des recommandations
+Les commentaires du groupe de lecture sont ensuite analysés et discutés par le groupe de travail, qui
+modifie si besoin l’argumentaire et rédige la version finale des recommandations et leur synthèse, au
+cours d’une réunion de travail.
+La version finale de l’argumentaire et des recommandations et le processus de réalisation sont
+discutés par le comité de validation des recommandations. À sa demande, l’argumentaire et les
+recommandations peuvent être revus par le groupe de travail. Le comité rend son avis au Collège de
+la HAS.
+► Validation par le Collège de la HAS
+Sur proposition du comité de validation des recommandations, le Collège de la HAS valide le rapport
+final et autorise sa diffusion.
+► Diffusion
+La HAS met en ligne sur son site (www.has-sante.fr) l’intégralité de l’argumentaire, les
+recommandations et leur synthèse. La synthèse et les recommandations peuvent être éditées par la
+HAS.
+► Travail interne à la HAS
+Un chef de projet de la HAS assure la conformité et la coordination de l’ensemble du travail suivant
+les principes méthodologiques de la HAS.
+Une recherche documentaire approfondie est effectuée par interrogation systématique des banques
+de données bibliographiques médicales et scientifiques sur une période adaptée à chaque thème. En
+fonction du thème traité, elle est complétée, si besoin, par l’interrogation d’autres bases de données
+spécifiques. Une étape commune à toutes les études consiste à rechercher systématiquement les
+recommandations pour la pratique clinique, conférences de consensus, articles de décision médicale,
+revues systématiques, méta-analyses et autres travaux d’évaluation déjà publiés au plan national et
+international. Tous les sites Internet utiles (agences gouvernementales, sociétés savantes, etc.) sont
+explorés. Les documents non accessibles par les circuits conventionnels de diffusion de l’information
+(littérature grise) sont recherchés par tous les moyens disponibles. Par ailleurs, les textes législatifs et
+réglementaires pouvant avoir un rapport avec le thème sont consultés. Les recherches initiales sont
+réalisées dès le démarrage du travail et permettent de construire l’argumentaire. Elles sont mises à
+jour régulièrement jusqu’au terme du projet. L’examen des références citées dans les articles
+analysés permet de sélectionner des articles non identifiés lors de l’interrogation des différentes
+sources d’information. Enfin, les membres des groupes de travail et de lecture peuvent transmettre
+des articles de leur propre fonds bibliographique. Les langues retenues sont le français et l’anglais.
+► Gradation des recommandations
+Chaque article sélectionné est analysé selon les principes de lecture critique de la littérature à l’aide
+de grilles de lecture, ce qui permet d’affecter à chacun un niveau de preuve scientifique. Selon le
+niveau de preuve des études sur lesquelles elles sont fondées, les recommandations ont un grade
+variable, coté de A à C selon l’échelle proposée par la HAS (cf. § 1.4).
+En l’absence d’études, les recommandations sont fondées sur un accord professionnel au sein du
+groupe de travail réuni par la HAS, après consultation du groupe de lecture. Dans ce texte, les
+recommandations non gradées sont celles qui sont fondées sur un accord professionnel. L’absence
+de gradation ne signifie pas que les recommandations ne sont pas pertinentes et utiles. Elle doit, en
+revanche, inciter à engager des études complémentaires.
+Pour en savoir plus sur la méthode d’élaboration des recommandations pour la pratique clinique, se
+référer au guide publié par l’Anaes en 1999 : « Les recommandations pour la pratique clinique - Base
+méthodologique pour leur réalisation en France ». Ce guide est téléchargeable sur le site Internet de
+la HAS : www.has-sante.fr.
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+36
+Participants
+Comité d’organisation
+Pr Florence Thibaut, psychiatre, Rouen
+Dr Catherine Deguines, responsable unité
+Afssaps, Saint-Denis
+Dr Patrice Dosquet, HAS, Saint-Denis
+Dr Caroline Laborde, HAS, Saint-Denis
+Groupe de travail
+Dr Sophie Baron-Laforet, psychiatre, Paris
+Pr Paul Cosyns, psychiatre, Anvers, Belgique
+Dr Catherine Deguines, Afssaps, Saint-Denis
+Dr Patrice Dosquet, HAS, Saint-Denis -
+coordonnateur
+Mme Karine Gonnet, magistrat, Paris
+M. Brice Kitio, chef de projet, HAS, Saint-Denis
+- coordonnateur
+Dr Annie Navarre-Coulaud, psychiatre, Dieppe
+Dr Catherine Paulet, psychiatre, Marseille
+M. Philippe Pottier, directeur de service
+pénitentiaire d’insertion et de probation, Paris
+Pr Jean-Louis Senon, psychiatre, Poitiers
+Pr Florence Thibaut, psychiatre, Rouen
+Dr Jean-Michel Thurin, psychiatre, Paris
+M. Olivier Vanderstukken, psychologue, Lille
+Groupe de lecture
+Pr Jean-François Allilaire, psychiatre, Paris
+Dr Jocelyn Aubut, psychiatre, Montréal
+Dr Claude Balier, psychiatre, Proveyzieux
+Dr Thierry Bonvalot, psychiatre, Quimperlé
+Mme Denise Bouchet-Kervella, psychanalyste,
+Paris
+M. Jean-René Chartier, psychologue,
+psychanalyste, Paris
+M. André Ciavaldini, psychologue, Grenoble
+Dr Bernard Cordier, psychiatre, Suresnes
+Dr Jean-Michel Darves-Bornoz, psychiatre,
+Paris
+Pr Emmanuel de Becker, psychiatre, Bruxelles
+Dr Pierre-André Delpa, médecin légiste,
+Toulouse
+M. Pierre-Yves Emeraud, infirmier de secteur
+psychiatrique, Varces
+Dr Marc-Antoine Grohens, psychiatre, Villejuif
+Pr Jean-Yves Hayez, psychiatre, Bruxelles
+Dr Carol Jonas, psychiatre, Tours
+Dr Michel Lacour, psychiatre, Poissy
+Dr Olivier Lehembre, psychiatre, Valenciennes
+Dr Eric Marcel, psychiatre, Le Mesnil-SaintDenis
+Dr Yves Tyrode, psychiatre, Aix-en-Provence
+M. Loick Villerbu, psychologue, Rennes
+Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15 ans
+HAS / Service des bonnes pratiques professionnelles / Juillet 2009
+37
+Fiche descriptive des recommandations
+TITRE Prise en charge des auteurs d’agression sexuelle à l’encontre de mineurs
+de moins de 15 ans
+Méthode de travail Recommandations pour la pratique clinique
+Date d’édition Uniquement disponible sous format électronique
+Objectif(s)
+L’objectif principal des recommandations est de proposer aux
+professionnels concernés des stratégies de prise en charge thérapeutique
+des auteurs d’agression sexuelle à l’encontre de mineurs de moins de 15
+ans.
+Les recommandations répondent aux questions suivantes :
+- Quelle est l’évaluation initiale à réaliser ?
+- Quelle est la place de la prise en charge psychothérapique ?
+- Quelle est la place du traitement pharmacologique ?
+Professionnel(s)
+concerné(s)
+Ces recommandations sont destinées :
+- prioritairement aux acteurs du soin, en particulier psychiatres,
+psychologues, infirmiers, médecins généralistes ;
+- aux experts psychiatres et psychologues dans le cadre de la discussion
+de l’indication de l’injonction de soins ;
+- aux médecins coordonnateurs.
+Elles concernent à titre d’information, dans le cadre d’une prise en charge
+pluridisciplinaire, les acteurs du champ socio-éducatif et judiciaire.
+Demandeur Ministre de la Santé
+Promoteur Haute Autorité de Santé (HAS), service des bonnes pratiques
+professionnelles
+Financement Fonds publics
+Pilotage du projet
+Coordination : M. Brice Kitio, chef de projet, et Dr
+ Patrice Dosquet, chef de
+service, service des bonnes pratiques professionnelles, HAS, Saint-Denis
+Secrétariat : Mlle Jessica Layouni, HAS, Saint-Denis
+Recherche documentaire : Mlle Sophie Despeyroux, avec l’aide de Mme
+Maud Lefèvre, service de documentation, HAS (chef de service : Mme
+Frédérique Pagès)
+Participants Cf. liste des participants
+Recherche
+documentaire
+Sans limite inférieure jusqu’à juin 2009 ; 2 323 références obtenues par la
+recherche et 695 articles analysés
+Auteurs
+de l’argumentaire
+M. Brice Kitio, chef de projet, service des bonnes pratiques
+professionnelles de la HAS, avec la contribution des membres du groupe
+de travail
+Validation Avis du Comité de validation des recommandations
+Validation par le Collège de la HAS en juillet 2009
+Autres documents Argumentaire scientifique des recommandations téléchargeable sur
+www.has-sante.fr 
+
+Filière de santé maladies rares MCGRE
+Maladies constitutionnelles rares du globule rouge et de l’érythropoïèse
+Extraite du Protocole National de Diagnostic et de Soins (PNDS)
+Syndromes drépanocytaires majeurs
+de l’enfant et de l’adolescent
+Mars 2024
+Synthèse à destination du
+médecin traitant
+Synthèse à destination du médecin traitant
+1. Les syndromes drépanocytaires majeurs sont très majoritairement de type SS, SC, et
+S/β thalassémies. Exceptionnellement, il peut s’agir de formes génétiques SO Arab,
+SD Punjab, SE. Environ 600 enfants atteints de syndrome drépanocytaire majeur
+naissent chaque année en France, dont les 2/3 résident en Ile-de-France et en OutreMer.
+2. A partir de 2024-2025, le dépistage néonatal de la drépanocytose deviendra
+généralisé chez tous les nouveau-nés, alors qu’il était jusque-là ciblé sur les
+populations à risque en Métropole. Le dépistage néonatal permet une prise en charge
+dans les trois premiers mois de vie des enfants atteints de syndrome drépanocytaire
+majeur.
+3. La confirmation du diagnostic de drépanocytose repose sur les examens
+biochimiques de l’hémoglobine (communément appelés électrophorèse de
+l’hémoglobine) qui révèlent une hémoglobine anormale majoritaire, l’HbS.
+4. La drépanocytose associe avec une grande variabilité d’expression trois grandes
+catégories de manifestations :
+ une anémie hémolytique chronique avec épisodes d’aggravation aigus ;
+ des phénomènes vaso-occlusifs ;
+ une susceptibilité aux infections bactériennes.
+5. Les enfants atteints de drépanocytose doivent être suivis par un réseau de médecins
+associant des médecins de proximité et un centre de référence ou de compétence.
+6. Le traitement préventif des complications de la drépanocytose associe une
+prévention des infections par la pénicilline quotidienne et les vaccinations élargies, au
+premier rang desquelles la vaccination antipneumococcique ; une supplémentation
+en acide folique, et une hydratation abondante. L’éducation des parents, puis dès que
+possible des enfants, est primordiale. Les parents doivent apprendre à reconnaître
+les signes précoces d’une complication grave, afin d’emmener en urgence leur enfant
+à l’hôpital. Une carte d’urgence spécifique pour la drépanocytose a été élaborée sous
+l’égide du ministère de la Santé puis de la filière MCGRE.
+7. Les signes qui doivent conduire à une consultation aux urgences sont principalement
+une fièvre ≥ 38,5 °C mal tolérée ou survenant chez l’enfant de moins de 3 ans (risque
+d’infection fulminante), l’apparition brutale d’une pâleur et d’une asthénie (risque
+d’anémie grave par séquestration splénique aiguë ou infection à érythrovirus
+[parvovirus B19]), des signes neurologiques, une douleur qui ne cède pas au
+traitement antalgique initial, une douleur thoracique.
+8. La survenue d’un infarctus artériel cérébral (ou accident vasculaire cérébral, AVC),
+dont la drépanocytose est la première cause chez l’enfant, peut être prévenue par un
+dépistage précoce par échodoppler transcrânien et une prise en charge précoce par
+programme transfusionnel. Un échodoppler transcrânien annuel doit être réalisé de
+façon systématique dès l’âge de 18 mois et jusqu’à 16 ans chez tous les enfants
+atteints des formes SS et Sβ
+0
+.
+9. Certains enfants peuvent nécessiter une intensification thérapeutique : traitement par
+hydroxyurée/hydroxycarbamide (= deux noms pour la même molécule), programme
+transfusionnel, greffe de cellules souches hématopoïétiques notamment. La décision
+d’intensifier le traitement et le choix du traitement doivent être discutés avec un
+centre de référence ou de compétence.
+10. Un conseil génétique est proposé aux couples à risque de drépanocytose pour les
+aider dans leur choix reproductif.
+11. Dans les pays où une prise en charge précoce est possible, la mortalité liée à la
+drépanocytose est inférieure à 5 % avant l’âge adulte.
+Coordonnées des centres de référence, de
+compétence et des associations de patients
+Centres de référence et centres de compétence
+Les coordonnées des centres de référence et des centres de compétence de la filière de
+santé maladies rares MCGRE (Maladies constitutionnelles rares du globule rouge et de
+l’érythropoïèse) sont présentées et maintenues à jour sur la page suivante du site internet de
+la filière : https://filiere-mcgre.fr/ou-consulter/
+Associations de patients
+Les coordonnées des associations de patients membres de la filière MCGRE sont
+présentées et maintenues à jour sur la page suivante du site internet de la filière :
+https://filiere-mcgre.fr/le-parcours-patients/associations-de-malades/
+
+SYNTHÈSE DES RECOMMANDATIONS PROFESSIONNELLES
+Comment mieux informer
+les femmes enceintes ?
+OBJECTIF
+Permettre aux professionnels de santé de bien informer la femme enceinte et le
+couple afin de les aider à prendre des décisions dans le cadre du suivi de la
+grossesse et de la naissance.
+BIEN INFORMER, C’EST…M
+■ Consacrer du temps à l’information de la femme enceinte ou du couple
+■ Apporter une écoute attentive pour mieux prendre en compte les attentes de
+la femme enceinte ou du couple, leur permettre de poser des questions et
+d’aborder les problèmes rencontrés
+■ Délivrer une information orale fondée sur les données scientifiques
+actuelles, la réglementation et les droits liés à la maternité ; la compléter, si
+possible, avec des documents écrits fiables
+■ Utiliser un langage et/ou un support adaptés, en particulier avec les personnes
+ayant un handicap sensoriel ou mental ou avec celles qui ne parlent ni ne lisent
+le français
+■ Proposer, si nécessaire, une consultation supplémentaire (notamment en
+début de grossessse), si le volume et/ou la nature de l’information à donner le
+requièrent
+■ Fournir des informations écrites (à défaut, indiquer où en trouver), notamment
+sur la surveillance médicale de la grossesse, la prévention des risques et l’offre
+de soins locale
+■ Assurer la continuité des soins par le partage des informations entre les
+différents professionnels concernés et la femme ou le couple
+DÈS LE DÉBUT DE LA GROSSESSEM
+■ Expliquer les bénéfices d’un suivi régulier de la grossesse, pour la femme et
+son bébé
+■ Proposer un programme de suivi : nombre probable, moment et contenu de
+chaque consultation (examen clinique, prescription d’examens, attention portée
+aux signes et symptômes pouvant affecter la santé de la mère et du foetus),
+orientation vers une prise en charge spécifique si besoin
+■ Mettre l’accent sur la prévention et l’éducation, en proposant
+systématiquement un entretien individuel ou en couple dès le 1er trimestre de la
+grossesse. Cet entretien conduit à des séances (individuelles ou collectives) de
+préparation à la naissance et à la parentalité et à la mise en œuvre d’interventions
+adaptées en cas de difficultés psychologiques et sociales repérées
+■ Informer clairement la femme de son droit d’accepter ou de refuser un examen
+de dépistage (qu’il soit obligatoire, ou non obligatoire mais proposé
+systématiquement), après lui avoir expliqué, avant sa réalisation, l’utilité, les
+bénéfices escomptés et les éventuels inconvénients et conséquences de
+cet examen
+■ Souligner les risques de l’auto-médication et expliquer à la femme qu’elle ne
+doit pas prendre de médicaments sans prescription médicale
+■ Identifier les situations de vulnérabilité (violence domestique, addictions, etc.)
+et toute forme d’insécurité (insécurité affective au sein du couple ou de la famille,
+précarité, isolement, etc.)
+■ Tenir compte du mode de vie et de la situation psychosociale de la femme
+ou du couple pour l’informer sur :
+• les services de soins disponibles, le coût des prestations et les possibilités pour le suivi
+de la grossesse, la préparation à la naissance, l’accouchement et les soins postnatals
+au sein des réseaux interétablissements et ville-hôpital ;
+• la nécessité d’une inscription plus ou moins précoce dans le lieu de naissance de
+son choix ;
+• les risques liés à son mode de vie et leur prévention (consommation de tabac et autres
+addictions, déplacements, pénibilité du travail, etc.) ;
+• les risques infectieux alimentaires et les conseils d’hygiène de vie et de nutrition ;
+• les réseaux d’écoute, d’appui et d’accompagnement des parents ;
+• les dispositifs visant à améliorer l’accès aux soins et l’accompagnement psychosocial
+pour les femmes ou les couples en situation précaire ;
+• les droits liés à la maternité et la manière de les faire valoir
+AU COURS DU SUIVI DE LA GROSSESSEM
+Examens obligatoires
+Examen clinique • • • • • • •
+Entretien individuel Evaluation par une sage-femme des besoins de prévention et d’éducation :
+ou en couple • séances de préparation à la naissance et/ou orientation vers des dispositifs
+d’aide et d’accompagnement
+HCG qualitatif Si doute
+Diagnostic de grossesse • Déclaration de grossesse Avant 15 SA(1)
+Groupe sanguin • 2e
+ détermination
+si non réalisée avant
+Recherche d’agglutinines • Si Rhésus négatif ou si antécédent de transfusion, poursuite des recherches
+irrégulières (RAI) d’agglutinines irrégulières mensuelles au cours des 6e
+, 8e
+ et 9e
+ mois
+Identification et titrage si RAI + si RAI + si RAI + des anticorps
+Sérologie rubéole •
+(2) Si résultat négatif : mensuelle jusqu’à 18 SA
+Sérologie syphilis •
+Sérologie toxoplasmose •
+(2) Si résultat négatif : mensuelle jusqu’au 9e
+ mois
+et après accouchement
+Recherche antigène HBs • Glycosurie-Albuminurie • • • • • • • Hémogramme •
+Examens à proposer systématiquement
+entre 11
+Échographie obstétricale et 13 SA entre 20 entre 31
++ 6 jours et 22 SA et 32 SA
+Marqueurs sériques entre 14
+(trisomie 21) et 18 SA
+Sérologie VIH 1 et 2 • Prélèvement vaginal : entre 35
+recherche streptocoques B et 38 SA
+Examens à proposer selon la symptomatologie ou les antécédents
+NFS • ECBU • • • • Frottis cervical Si >2 ans
+Contenu 3e mois 4e mois 5e mois 6e mois 7e mois 8e mois 9e mois
+(1) SA : semaine d’aménorrhée
+(2) Sauf immunité acquise (résultats écrits)
+QUELQUES SOURCES D’INFORMATIONM
+■ Alimentation. Document d’accompagnement de « La santé vient en mangeant - Guide alimentaire pour tous »
+destiné aux professionnels de santé -
+Programme national nutrition santé
+(PNNS) 2001-2005 :
+www.mangerbouger.fr/pro/sante/
+outils/outils.php
+■ Droits liés à la maternité. Dossier de
+l’Assurance Maladie : « Autour de bébé :
+du ventre de maman à ses premières
+semaines » :
+www.ameli.fr/174/DOC/717/dp.html
+■ Prescription de médicaments et médicaments en vente libre. Livrets « Médicaments et grossesse » et liste des
+centres régionaux de pharmacovigilance
+- Agence française de sécurité sanitaire
+des produits de santé (Afssaps) :
+http://afssaps.sante.fr
+■ Recommandations professionnelles
+sur le thème de la gynécologie-obstétrique. Haute Autorité de santé :
+www.has-sante.fr
+■ Risques infectieux alimentaires. Institut
+de veille sanitaire (InVS) :
+www.invs.sante.fr
+■ Risques professionnels. Institut national de recherche et de sécurité (INRS) :
+www.inrs.fr
+■ Tabac, alcool, cannabis et autres substances toxiques. Mission interministérielle de lutte contre la drogue et la
+toxicomanie (MILDT) :
+www.drogues.gouv.fr
+Drogues info service : 0 800 23 13 13
+(appel gratuit depuis un poste fixe)
+Écoute Alcool : 0 811 91 30 30 (coût
+d’une communication locale)
+Écoute Cannabis : 0 811 91 20 20 (coût
+d’une communication locale)
+■ Travail et grossesse. Site thématique
+« Santé et sécurité au travail » du ministère de l’Emploi, de la Cohésion sociale
+et du Logement :
+www.sante-securite.travail.gouv.fr
+■ Vaccination pendant la grossesse.
+Bulletin épidémiologique hebdomadaire
+(BEH) de l’Institut de veille sanitaire
+(InVS) : www.invs.sante.fr/beh/
+■ Violence domestique. Rapport au
+ministre chargé de la Santé (février
+2001) - ministère de la Santé et des
+Solidarités :
+www.sante.gouv.fr/htm/actu/violence/
+■ Voyages à l’étranger. Vaccinations,
+risques infectieux, précautions d’hygiène (générales, alimentaires et corporelles) - Bulletin épidémiologique
+hebdomadaire (BEH) de l’Institut de
+veille sanitaire (InVS) :
+www.invs.sante.fr/beh/
+Ce document présente les points essentiels des recommandations professionnelles :
+« Comment mieux informer les femmes enceintes ? » – Recommandations pour la pratique clinique – mai 2005.
+Ces recommandations et l’argumentaire scientifique sont consultables dans leur intégralité
+sur www.has-sante.fr
+© Haute Autorité de santé – 2006 – Imprimé par IME – FSIFE
+
+BON USAGE DU MÉDICAMENT
+1. Chez quels patients insuffisants rénaux atteints d’anémie prescrire un ASE ?
+■ Un taux d’hémoglobine ≤ 10 g/dL doit avoir été trouvé deux fois à 15 jours d’intervalle pour envisager une
+prescription d’ASE en cas d’IRC. Cette prescription n’est pas indiquée au-dessus de 12 g/dL.
+■ L’anémie doit s’accompagner de symptômes gênants – asthénie, dyspnée, angor – pour justifier un traitement
+par ASE. La seule baisse du taux d’hémoglobine ne suffit pas.
+■ L’IRC est une cause d’anémie par déficit de la production d’érythropoïétine. La prévalence et la sévérité de l’anémie
+augmentent avec la sévérité de l’IRC. Cependant, avant toute prescription d’ASE, il est nécessaire d’éliminer une
+autre cause d’anémie :
+● saignement gastro-intestinal, gynécologique ou lié à un incident ou accident du circuit extracorporel lors des séances
+de dialyse ;
+● carence en fer ou en vitamines ;
+● hyperparathyroïdie secondaire floride ;
+● hémolyse ;
+● anomalie de l’hémoglobine.
+■ Le traitement par ASE d’une anémie symptomatique secondaire à l’IRC avec Hb ≤ 10 g/dL est possible :
+● chez l’enfant comme chez l’adulte (dans le cadre des indications de chaque produit) ;
+● et que le patient soit ou non dialysé (hémodialyse ou dialyse péritonéale).
+2. Quel est le taux d’hémoglobine à atteindre ?
+■ La correction du taux d’hémoglobine doit permettre d’éviter des transfusions sanguines, de limiter les complications
+cardio-vasculaires de l’anémie, d’améliorer la qualité de vie et de prolonger la survie.
+■ Le taux cible d’hémoglobine est compris entre 10 et 12 g/dL.
+Il faut éviter d’augmenter l’hémoglobinémie au-dessus de 12 g/dL. En effet, une hémoglobinémie > 13 g/dL
+sous ASE est associée à des risques accrus d’infarctus du myocarde, d’hospitalisation pour insuffisance cardiaque,
+d’accident vasculaire cérébral et de thrombose de la fistule artério-veineuse d’hémodialyse, sans apporter de bénéfice symptomatique supplémentaire.
+■ Deux exceptions :
+● chez un patient dialysé atteint d’hypoxémie secondaire à une maladie pulmonaire, le taux cible d’Hb peut être supérieur à 12 g/dL ;
+● chez un patient drépanocytaire homozygote, le taux cible ne doit pas dépasser 8 g/dL (pour une Hb S à 30%).
+Anémie chez l’insuffisant rénal :
+comment utiliser les agents
+stimulant l’érythropoïèse
+Chez un patient atteint d’insuffisance rénale chronique (IRC), un agent stimulant l’érythropoïèse
+(ASE*) peut être prescrit devant une anémie, sous trois conditions :
+● le taux d’hémoglobine est ≤ 10 g/dL ;
+● cette anémie est responsable de symptômes gênants ;
+● elle est exclusivement secondaire à l’IRC (liée à un déficit de production d’érythropoïétine).
+L’hémoglobinémie ne doit pas dépasser 12 g/dL sous traitement.
+* Dit aussi érythropoïétine (EPO).
+3. Comment atteindre et maintenir ce taux cible ?
+■ Le traitement par ASE est divisé en deux phases : phase correctrice et phase d’entretien.
+■ En phase correctrice, il faut augmenter l’hémoglobinémie de 1 à 2 g/dL par mois jusqu’à atteindre 10 à 12 g/dL. Il faut
+éviter d’augmenter le taux d’hémoglobine de plus de 2 g/dL sur une période de 4 semaines.
+■ En phase d’entretien, le taux d’hémoglobine doit être mesuré toutes les semaines au début, puis tous les mois.
+En raison des variations intra-individuelles, on peut observer ponctuellement une concentration d’hémoglobine passant
+au-dessous ou au-dessus du taux recherché. Cette variabilité sera contrôlée en ajustant la posologie de façon à éviter
+le maintien d’un taux d’hémoglobine supérieur à 12 g/dL.
+4. Comment éviter une carence martiale ?
+■ En cas de carence martiale non corrigée, le traitement par ASE sera inefficace.
+■ Les réserves en fer devront être évaluées systématiquement avant et pendant le traitement par ASE, principalement
+par dosage de la ferritine, mais aussi du fer sérique et de la transferrine, car la ferritine peut être faussement normale
+ou élevée chez l’insuffisant rénal.
+■ Une supplémentation en fer sera mise en place en cas de carence martiale (révélée notamment par une ferritine
+< 100 ng/mL) en respectant l’AMM. Le fer par voie orale sera préféré. Le fer par voie intraveineuse ne sera utilisé
+qu’en cas d’inefficacité des préparations de fer oral, ou d’intolérance. La cible thérapeutique est une ferritine comprise
+entre 100 et 200 ng/mL, afin d’éviter une surcharge martiale iatrogène.
+5. Quelle voie d’administration choisir ?
+Les ASE peuvent être administrés par voie sous-cutanée (SC) ou intraveineuse (cependant, Binocrit® est administré
+uniquement par voie I.V.).
+La voie SC est à privilégier chez les patients non hémodialysés (mais en prédialyse ou en dialyse péritonéale), afin
+de préserver le capital veineux périphérique.
+6. Comment assurer le suivi du traitement ?
+■ Outre l’hémoglobinémie et les réserves en fer, il faut surveiller, une fois par semaine au début, puis une fois par
+mois :
+● la pression artérielle (surveillance stricte si le patient est hypertendu et adaptation du traitement antihypertenseur si
+besoin) ;
+● la NFS, les réticulocytes.
+■ Une résistance à l’érythropoïétine peut être soupçonnée si le taux cible d’hémoglobine n’est pas atteint malgré
+une dose > 300 UI/kg par semaine d’époétine ou > 1,5 μg/kg par semaine de darbépoétine, ou si de telles doses sont
+nécessaires de façon continue pour maintenir le taux cible.
+Dans ce cas, il convient de :
+● vérifier l’observance thérapeutique et la réalité de l’administration, que le patient soit en prédialyse, en dialyse péritonéale ou en hémodialyse ;
+● rechercher les causes de réponse incomplète aux ASE : maladie infectieuse ou inflammatoire ; carence en fer, en
+folates, en vitamine B12 ou plus rarement en vitamine B6 ; hyperparathyroïdie ; intoxication aluminique (aujourd’hui
+rare).
+■ Une érythroblastopénie auto-immune liée à des anticorps antiérythropoïétine peut survenir, de façon exceptionnelle.
+L’hémoglobinémie chute alors de façon soudaine et rapide, ou n’est maintenue qu’au prix d’une transfusion régulière
+de culots globulaires. Les numérations plaquettaires et leucocytaires sont normales. Les réticulocytes sont < 20 x 109
+/L
+et souvent indétectables.
+Agents stimulant l’érythropoïèse (ASE) Chez l’adulte Chez l’enfant ASE à demi-vie courte
+EPREX (époétine alfa)
+3 x 50 UI/kg/sem. pour la prédialyse
+et l’hémodialyse
+2 x 50 UI/kg/sem. pour la dialyse péritonéale
+Adaptation mensuelle par paliers
+de 25 UI/kg/injection
+Comme chez l’adulte
+BINOCRIT (époétine alfa)
+biosimilaire d’EPREX
+(voie I.V. uniquement)
+RETACRIT (époétine zêta)
+biosimilaire d’EPREX
+NEORECORMON (époétine bêta) 3 x 40 UI/kg/sem. en IV
+ou 3 x 20 UI/kg/sem. en SC
+Adaptation mensuelle par paliers de 25%, sans
+dépasser 720 UI/kg/sem. (NEORECORMON)
+ou 700 UI/kg/sem. (EPORATIO)
+Comme chez l’adulte
+EPORATIO (époétine thêta) Non indiqué
+ASE à
+demi-vie longue
+ARANESP
+(darbepoetine alfa)
+1 x 0,45 μg/kg/sem.
+(1 x 0,75 μg/kg/2 sem. en prédialyse)
+Adaptation mensuelle par paliers de 25%
+Avant 1 an : non indiqué
+≥ 11 ans : comme chez l’adulte
+MIRCERA
+(époétine bêta-MPG
+[méthoxy-polyéthylène glycol])
+Non dialysé : 1 x 0,6 μg/kg/2 sem.
+ou 1 x 1,2 μg/kg/mois
+Dialysé : 1 x 1,2 μg/kg/mois
+Adaptation mensuelle par paliers de 25%
+Non indiqué
+Posologie des ASE en phase de correction
+du traitement d’une anémie symptomatique due à l’insuffisance rénale chronique
+Agents stimulant
+l’érythropoïèse (ASE)
+Chez l’adulte
+Chez l’enfant
+Prédialyse Dialyse
+péritonéale Hémodialyse
+ASE à demi-vie courte
+EPREX (époétine alfa)
+Jusqu’à
+450 UI/kg/sem.
+en 3 injections
+par semaine
+50 à 100 UI/kg/sem.
+en 2 injections
+égales par semaine
+75 à 300 UI/kg/sem.
+en 1 à 3 injections
+par semaine
+90 à 450 UI/kg/sem.
+en 1 à 3 injections
+par semaine en
+fonction du poids
+BINOCRIT (époétine alfa)
+biosimilaire d’EPREX
+(voie I.V. uniquement)
+RETACRIT (époétine zêta)
+biosimilaire d’EPREX
+NEORECORMON
+(époétine bêta)
+3 x 40 UI/kg/sem. en IV ou 3 x 20 UI/kg/sem. en SC
+Adaptation mensuelle par paliers de 20 UI/kg/injection
+sans dépasser 720 UI/kg/sem.
+Comme chez l’adulte
+EPORATIO
+(époétine thêta)
+1 à 3 injections/sem. à la dose requise (adaptation par paliers
+de 25% si besoin) sans dépasser 700 UI/kg/sem. Non indiqué
+ASE à
+demi-vie longue
+ARANESP
+(darbepoetine alfa)
+1 injection/sem. ou toutes les 2 semaines
+(ou par mois en prédialyse) à la dose requise
+Avant 1 an : non indiqué
+≥ 11 ans : comme chez
+l’adulte
+MIRCERA
+(époétine bêta-MPG
+[méthoxy-polyéthylène glycol])
+1 injection mensuelle à la dose requise Non indiqué
+Posologie des ASE en phase d’entretien
+du traitement d’une anémie symptomatique due à l’insuffisance rénale chronique
+© Haute Autorité de Santé - 2013
+Validé par la Commission de la Transparence de la HAS, ce document a été élaboré à partir des données de l’AMM,
+des études disponibles et de l’ensemble des avis de la Transparence.
+Ces avis, comme l’ensemble des publications de la HAS, sont disponibles sur www.has-sante.fr
+Juin 2013
+Les agents stimulant l’érythropoïèse en cancérologie
+■ Les ASE sont aussi indiqués en cancérologie, chez les patients ayant une anémie sous chimiothérapie (taux
+d’Hb ≤ 10 g/100 mL), si le retentissement clinique de l’anémie est gênant, en fonction des facteurs de risque
+individuels ou si l’hémoglobinémie est inférieure à 8 g/100 mL.
+■ Cette indication n’est pas détaillée dans le présent document.
+Médicaments biologiques et biosimilaires
+■ Les ASE sont des protéines humaines produites par génie génétique, notamment à partir d’une cellule de mammifère. Il
+s’agit donc de médicaments biologiques.
+■ Un médicament biosimilaire est similaire à un médicament biologique de référence dont le brevet est tombé dans
+le domaine public. Il a des propriétés physico-chimiques et biologiques similaires, la même forme pharmaceutique que
+le médicament biologique de référence ; son efficacité et sa sécurité sont équivalentes.
+■ Mais en raison de la variabilité biologique des systèmes de production, les produits biosimilaires ne sont pas strictement identiques aux produits de référence. La possibilité de substitution d’un biosimilaire à un médicament biologique
+de référence ne s’applique pas en France. Un traitement commencé avec un ASE ne peut être poursuivi avec un de ses
+biosimilaires (et réciproquement) qu’en conservant une trace précise de ce changement.
+■ Dans tous les cas, afin d’améliorer la traçabilité des agents stimulant l’érythropoïèse, le nom de l’ASE administré doit
+être clairement précisé dans le dossier du patient.

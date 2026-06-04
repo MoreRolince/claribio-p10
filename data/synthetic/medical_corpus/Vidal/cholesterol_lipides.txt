@@ -1,0 +1,1864 @@
+MÉTHODES D’ÉVALUATION DU RISQUE
+CARDIO-VASCULAIRE GLOBAL
+Juin 2004
+Service évaluation en Santé Publique
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 2 -
+Juin 2004
+Méthodes d’évaluation du risque cardio-vasculaire global
+AVANT-PROPOS
+La médecine connaît un développement accéléré de nouvelles technologies, à visée
+préventive, diagnostique et thérapeutique, qui conduisent les décideurs de santé et les
+praticiens à faire des choix et à établir des stratégies, en fonction de critères de sécurité,
+d’efficacité et d’utilité.
+L’Agence nationale d’accréditation et d’évaluation en santé (Anaes) évalue ces différentes
+stratégies, réalise une synthèse des informations disponibles et diffuse ses conclusions à
+l’ensemble des partenaires de santé. Son rôle consiste à apporter une aide à la décision,
+qu’elle soit individuelle ou collective, pour :
+• éclairer les pouvoirs publics sur l’état des connaissances scientifiques, leur implication
+médicale, organisationnelle ou économique et leur incidence en matière de santé
+publique ;
+• aider les établissements de soins à répondre au mieux aux besoins des patients dans le
+but d’améliorer la qualité des soins ;
+• aider les professionnels de santé à élaborer et à mettre en pratique les meilleures
+stratégies préventives, diagnostiques et thérapeutiques selon les critères requis.
+Ce document répond à cette mission. Les informations qui y sont contenues ont été
+élaborées dans un souci de rigueur, en toute indépendance, et sont issues tant de la revue
+de la littérature internationale que de la consultation d’experts dans le cadre d’une étude
+d’évaluation des technologies.
+Alain COULOMB
+Directeur général
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 3 -
+SYNTHÈSE ET PERSPECTIVES
+INTRODUCTION
+La prédiction du RCV global concerne les sujets qui n’ont aucune pathologie cardiovasculaire cliniquement exprimée et pour lesquels le dépistage et la prise en charge
+de facteurs de risques permettraient d’éviter, limiter ou retarder le développement
+d’une pathologie cardio-vasculaire (prévention primaire).
+· Le tabagisme, l’hypertension artérielle, les dyslipidémies et le diabète ont été
+identifiés comme les principaux facteurs de risque cardio-vasculaire. L’obésité et
+la sédentarité sont considérés comme des facteurs prédisposants et doivent être
+pris en compte dans une démarche de prévention de l’hypertension artérielle, du
+diabète et des dyslipidémies. Le bénéfice cardio-vasculaire de l’arrêt du tabac, de
+même que celui d’un traitement antihypertenseur, hypocholestérolémiant ou
+antiagrégant plaquettaire, est bien documenté. L’efficacité de ces différents
+traitements sur le risque cardio-vasculaire varie dans le temps en fonction de
+l’ancienneté du risque, de l’âge du patient et des pathologies associées.
+· L’approche recommandée en France, en 2004, pour évaluer le risque cardiovasculaire global (RCV global) repose sur la sommation des facteurs de risque,
+chacun étant considéré comme binaire (présent ou absent) et ayant un poids
+identique. Ce risque est estimé faible, modéré ou élevé selon le nombre de
+facteurs de risque présents. Les principales recommandations internationales
+préconisent d’estimer le RCV global. Il n’y a pas, en 2004, de consensus
+concernant le choix de la méthode d’estimation de ce risque (sommation des
+facteurs de risque ou modélisation statistique).
+· Contrairement à la sommation des facteurs de risque, les modélisations prennent
+en compte la valeur effective de chacun des facteurs de risque (pression
+artérielle, cholestérolémie, etc.) les plus prédictifs. Le RCV global, calculé en
+utilisant l’équation d’un modèle de risque ou le score qui en est dérivé,
+correspond à la probabilité pour le patient de présenter un événement cardiovasculaire dans un horizon de temps fixé, qui est dans la plupart des modèles,
+situé entre 4 et 10 ans.
+· L’intégration des modèles de risque dans les recommandations cardio-vasculaires
+françaises soulève les interrogations suivantes : i) l’utilisation d’un modèle de
+risque (modélisation statistique ou score dérivé) apporte t-elle une aide plus
+efficace à la décision médicale (choix thérapeutiques, outil de communication
+médecin-patient, observance du patient) que l’actuelle sommation des facteurs de
+risque ? ii) l’utilisation d’un tel outil, en admettant qu’il soit le plus exact possible et
+en l’état des connaissances disponibles en 2004, débouche-t-elle sur des
+stratégies décisionnelles argumentées et/ou validées ? iii) l’utilisation des
+modèles de risque modifiera-telle les pratiques cliniques et quel sera son impact
+sur la prévention de la morbi-mortalité cardio-vasculaire ?
+Dans ce contexte, la Direction Générale de la Santé a saisi l’Anaes afin qu’elle
+évalue les méthodes utilisées en 2004 pour estimer le risque cardio-vasculaire
+global et en particulier la place des modèles de risque.
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 4 -
+MÉTHODE
+La revue de l’Anaes est fondée sur l’analyse de la littérature et sur des entretiens
+avec un groupe de travail de 17 membres, complétés par les avis d’un groupe de
+lecture de 33 membres. Etant donnée l’abondance de la littérature, la sélection des
+publications a été la plus restrictive possible eu égard aux objectifs de ce rapport, et
+la recherche documentaire a été limitée à la période 1990-2004 et aux bases
+Medline, Embase et Pascal.
+RÉSULTATS
+Comparaison des méthodes d’estimation du RCV global
+· L’estimation du RCV global par la sommation des facteurs de risque manque de
+précision, et n’intègre pas la totalité des informations, et comporte une grande
+variabilité inter et intra-observateurs. Peu d’études ont évalué la performance de
+ce type d’estimation pour classer les patients et distinguer ceux qui présenteront
+un événement cardio-vasculaire de ceux qui n’en présenteront pas.
+· La revue de la littérature a identifié 41 modèles de risque (23 issus de l’étude
+nord-américaine de Framingham, les autres étant issus d’études européennes ou
+australiennes). La comparaison entre ces modèles est difficile du fait de la grande
+variabilité des populations (sexe, âge, origine géographique), des définitions du
+risque cardio-vasculaire prédit et des époques d’inclusion des cohortes. Les
+modèles, restreints à une population spécifique (population masculine ou une
+seule classe d’âge) ou non représentative de la population générale (population
+issue de consultations de médecine du travail) et non validés sur des populations
+d’origine variée ou sur une population française n’ont pas été considérés comme
+éligibles pour le choix d’un modèle. En raison de ces difficultés et de ces
+exclusions, seuls les modèles issus de l’étude de Framingham et ceux du projet
+SCORE ont été retenus.
+· L’efficacité sur la prévention des accidents cardio-vasculaires d’une stratégie de
+décision thérapeutique fondée sur l’utilisation d’un modèle de risque par rapport à
+une stratégie reposant sur la sommation nécessite d’être confirmée par des
+études spécifiques.
+Qu’apportent les modèles de risque ?
+Une estimation performante du RCV global
+· L’étude de Framingham a fourni différents modèles, dans des populations
+variées, pour estimer le risque cardio-vasculaire de morbidité ou de mortalité soit
+coronarienne soit vasculaire cérébrale. Ces modèles (principalement le modèle
+d’estimation du risque d’accident coronaire) sont performants pour classer les
+patients et prédire un risque d’événement cardio-vasculaire à 5 ou 10 ans. Un
+ajustement (ou recalibration) dans les populations pour lesquelles la prévalence
+des maladies cardio-vasculaires est basse est indispensable. Les résultats
+concordants d’études réalisées dans des populations françaises, espagnoles et
+allemandes suggèrent que la division du chiffre de RCV global estimé par le
+modèle de Framingham par un facteur constant compris entre 1,5 et 2 suffit à
+cette recalibration.
+· Les modèles de SCORE, publiés en 2003, sont issus de plusieurs études de
+cohortes européennes et concernent le risque de décès par maladie coronaire ou
+par maladie cardio-vasculaire non coronaire. Deux équations de risque ont été
+élaborées en fonction de la prévalence faible ou forte des maladies cardio-
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 5 -
+vasculaires. Ces modèles permettent de classer les patients par niveaux de
+risque. Leur performance n’a pas été évaluée dans une population française
+représentative.
+Une information pertinente
+· L’estimation du RCV global a deux objectifs : i) orienter la décision thérapeutique
+(définir le type de prise en charge) afin de réduire le risque d’événement cardiovasculaire ; ii) diminuer le RCV global quel que soit le niveau de chacun des
+facteurs de risque. L’efficacité d’une utilisation de ces modèles comme outil de
+communication pour modifier les pratiques médicales ou les comportements des
+patients a été suggérée par plusieurs études. Des recherches complémentaires
+sont nécessaires.
+AVIS DES GROUPES DE TRAVAIL ET DE LECTURE
+Les préconisations du groupe de travail sont les suivantes :
+· recueillir des données sur le RCV global en population française qui permettra de
+documenter et de modéliser l’impact des modèles de risque, pour d’une part
+mieux définir les niveaux de risque (faible, modéré et élevé), et d’autre part
+évaluer l’intérêt de la prise en charge médicamenteuse des patients à risque
+faible ou modéré. Un essai contrôlé randomisé permettrait seul, d’autre part,
+d’évaluer l’intérêt de la prise en charge médicamenteuse des patients à risque
+faible ou modéré ;
+· limiter le choix du modèle de risque à une ou deux équations, celle de
+Framingham recalibré semblant pour la majorité (mais non l’unanimité) du groupe
+préférable à celle du projet SCORE. Les avantages attendus d’un tel outil
+standardisé sont l’optimisation de la prise en charge des patients, l’amélioration
+des échanges interprofessionnels et une utilisation de du RCV global comme
+support de communication soignant-soigné pour inciter les soignés aux
+changements d’habitudes de vie et à une meilleure adhésion à leur traitement ;
+· harmoniser les recommandations françaises ciblées séparément sur chacun des
+principaux facteurs de risque (tabac, hypertension artérielle, dyslipidémie,
+diabète), et d’intégrer les modèles de risque dans ces recommandations en
+spécifiant quelles doivent être leurs précautions d’emploi (en particulier en ce qui
+concerne les facteurs de risques non pris en compte dans les modèles de risque
+comme les antécédents familiaux de maladie cardio-vasculaire ou les facteurs
+psychosociaux) ;
+· utiliser les données des essais thérapeutiques (notamment ceux ayant évalué une
+statine ou un inhibiteur de l’enzyme de conversion chez des sujets modérément
+hypertendus ou dyslipidémiques, mais cumulant d’autres facteurs de risque) pour
+stratifier a posteriori selon le niveau de RCV global des populations qui avaient
+été sélectionnées par une stratégie de sommation des facteurs de risque. Cette
+réanalyse permettrait d’évaluer l’effet bénéfique du traitement selon les niveaux
+de RCV global calculés en utilisant une équation de risque.
+PERSPECTIVES
+Pour évaluer l’impact de l’utilisation d’une estimation du RCV global comme aide à
+la décision thérapeutique lors de la prise en charge des facteurs de risque cardiovasculaire, les des études complémentaires devraient définir :
+· le bénéfice à attendre de la prise en charge thérapeutique, en fonction de
+l’horizon temporel (5 ans, 10 ans, vie entière), de la pathologie que l’on veut
+prévenir (coronarienne, vasculaire cérébrale) et du RCV global initial du patient ;
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 6 -
+· le seuil optimal de RCV global à partir duquel une prise en charge devra être
+initiée. La connaissance de la distribution du risque dans les différentes
+catégories de population concernées devrait précéder le choix de ce seuil. Le
+poids important de l’âge comme facteur prédictif dans les modèles de risque incite
+à tenir compte de ce facteur pour définir un seuil thérapeutique, afin d’éviter de
+privilégier la prévention chez les sujets les plus âgés au détriment des sujets
+jeunes. Dans l’idéal il faudrait ajuster par tranche d’âge le seuil en tenant compte
+des bénéfices attendus, exprimés en termes de gain de survie sans événement
+cardio-vasculaire ;
+· l’impact médico-économique du choix d’une valeur seuil du RCV global dans la
+mise en œuvre d’une prise en charge thérapeutique. Le choix de cette valeur
+seuil dépend à la fois des bénéfices attendus pour le patient et des contraintes du
+traitement (coût, effets secondaires). Des modélisations sur une population, dans
+laquelle les facteurs de risque et l’incidence des maladies cardio-vasculaires
+seraient bien documentés, sont nécessaires, mais de telles modélisations
+validées sur des populations françaises ne sont pas disponibles en 2004.
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 7 -
+Ce texte ainsi que le rapport complet sont téléchargeables gratuitement sur le site de
+l’Anaes : www.anaes.fr rubrique : « Publications »
+Agence nationale d’accréditation et d’évaluation en santé
+Service communication
+2, avenue du Stade de France
+93218 Saint-Denis La Plaine CEDEX
+Méthodes d’évaluation du risque cardio-vasculaire global
+Anaes / Service évaluation en Santé Publique / juin 2004
+- 8 -
+L’équipe Anaes était composée par les D
+rs Roselyne Delaveyne et Isabelle Colombet sous la
+direction du Dr Bertrand Xerri, responsable du service évaluation technologique ;
+La recherche documentaire a été effectuée par Mme Emmanuelle Blondet, documentaliste,
+sous la direction de Mme Rabia Bazi, responsable du service documentation.
+Le secrétariat a été assuré par Mmes Nathalie Brothé et Sophie Duthu.
+La planification du projet a été assurée par Mme Hélène Robert-Rouillac.
+GROUPE DE TRAVAIL
+Identité Spécialité Lieu d’exercice
+M. Alexandre BARNA Afssaps Saint-Denis (93)
+D
+r
+ Marc BAUDET Cardiologue CHG de Dax, Dax (40)
+D
+r
+ Jean-Pierre CAMBOU Épidémiologiste Centre médical du dépôt, Toulouse (31)
+P
+r
+ Gilles CHATELLIER Biostatisticien Hôpital européen Georges -Pompidou, Paris (75)
+D
+r
+ Michel CUCHERAT Épidémiologiste RTH Laennec, Lyon (69)
+D
+r
+Jean DALLONGEVILLE Épidémiologiste Inserm, Lille (59)
+P
+r Vincent DURLACH Endocrinologue Hôpital Robert-Debré, Reims (51)
+D
+r
+ Philippe GIRAL Médecin spécialiste en nutrition Hôpital Pitié-Salpêtrière, Paris (75)
+D
+r
+ François GUEYFFIER Cardiologue CIC de Lyon, Lyon (69)
+D
+r
+ Serge KOWNATOR Cardiologue Metz (57)
+D
+r
+ Thierry LANG Épidémiologiste Université Paul-Sabatier, Toulouse (31)
+D
+r
+ Daniel LÉONARD Médecin généraliste Boulogne-sur-Mer (62)
+D
+r Étienne PACE Médecin généraliste Duttlenheim (67)
+D
+r
+ François PAILLARD Cardiologue Centre cardio-pneumologie, Rennes (35)
+D
+r
+ Jean Pierre VALLÉE Médecin généraliste Blanville-sur-Orne (14)
+P
+r
+ Bruno VERGÉS Endocrinologue CHRU-Hôpital du Bocage, Dijon (21)
+GROUPE DE LECTURE
+Identité Spécialité Lieu d’exercice
+D
+r
+ Jean-Pierre AQUINO Gériatre Clinique médicale Porte verte, Versailles (78)
+D
+r
+ Sylvie AULANIER Médecin généraliste Le Havre (76)
+D
+r
+ Norbert BALARAC Endocrinologue Institut Tzank, Saint-Laurent du Var (06)
+D
+r
+ Isabel BEUCLER Biologiste Hôpital Pitié-Salpêtrière, Paris (75)
+D
+r
+ Guillaume BOBRIÉ Néphrologue Hôpital européen Georges -Pompidou, Paris (75)
+D
+r
+Laurent CAPOROSSI Médecin généraliste Groupement médical, Lucciana (20)
+D
+r
+ Thierry DÉNOLLE Cardiologue Hôpital la Providence Gardinier, Dinard (35)
+D
+r
+ Christophe D’IVERNOIS Cardiologue CHU Limoges, Limoges (87)
+M
+me Nathalie DUMARCET Afssaps Saint-Denis (93)
+D
+r
+ Sylvie ERPELDINGER Médecin généraliste Villeurbane (69)
+D
+r
+ Michel FARNIER Endocrinologue Point médical, Dijon (21)
+P
+r
+ Jean FERRIÉRES Cardiologue CHU Rangueil, Toulouse (31)
+D
+r
+ Christian FISCHER Médecin généraliste Longwy (54)
+D
+r
+ Patrick FRIOCOURT Gériatre CHG Blois, Blois (41)
+Pr Xavier GIRERD Endocrinologue Hôpital Pitié-Salpêtrière, Paris (75)
+P
+r
+ Michel GODIN Néphrologue Hôpital du Bois -Guillaume, Rouen (76)
+P
+r
+ Serge HALIMI Endocrinologue CHU hôpital Nord, Grenoble (38)
+D
+r
+ Thierry JEAN Médecin généraliste Bellefond (21)
+D
+r
+ Michel LIÉVRE Biostatisticien Faculté Laennec, Lyon (69)
+D
+r
+ Philippe LOIRAT Médecin réanimateur Centre médico-chirurgical Foch, Suresnes (92)
+D
+r
+ Christian LUCAS Neurologue Hôpital Roger-Salengro, Lille (59)
+P
+r
+ Richard MARECHAUD Médecine interne Hôpital de la Milétrie, Poitiers (86)
+P
+r
+ Michel MARRE Diabétologue Hôpital Bichat-Claude-Bernard, Paris (75)
+P
+r
+ Joël MÉNARD Médecin santé publique Faculté Broussais -Hôtel-Dieu, Paris (75)
+P
+r
+ Albert MIMRAN Médecin interne CHU hôpital Lapeyronie, Montpellier (34)
+P
+r
+ Philippe MOULIN Endocrinologue Hôpital cardio-vasculaire, Lyon (69)
+D
+r
+ Sylvie PICARD Endocrinologue Point médical, Dijon (21)
+D
+r
+ Pascal PONCELET Cardiologue Polyclinique de Hénin-Beaumont (62)
+D
+r
+ Denis POUCHAIN Médecin généraliste Vincennes (94)
+D
+r
+ Pierre-Yves SCARABIN Épidémiologiste Inserm, Villejuif (94)
+D
+r
+ Marie-Laure SEUX Gériatre Hôpital broca, Paris (75)
+Dr Monique SENECHAL Médecin généraliste Centre d’examens de santé, Melun (77)
+P
+r
+ Didier SICARD Médecine interne Hôpital Cochin, Paris (75)
+P
+r
+ Gérard TURPIN Endocrinologue Hôpital Pitié-Salpêtrière, Paris (75)
+P
+r
+ Bernard VAISSE Cardiologue CHU hôpital de la Timone, Marseille (13)
+D
+r
+ Josette VALLÉE Médecin généraliste Le Chambon Fougerolles (42)
+
+ Obésité : prise en charge
+chirurgicale chez l’adulte
+Janvier 2009
+Évaluation et prise en charge préopératoires Enregistrement dans un registre national
+Réinterventions de chirurgie bariatrique
+Choix des techniques chirurgicales
+Contre-Indications de la chirurgie bariatrique Suivi et prise en charge postopératoires
+Parcours du patient candidat à la chirurgie bariatrique
+Indications de la chirurgie bariatrique
+La chirurgie bariatrique est indiquée par décision collégiale, prise après discussion et concertation
+pluridisciplinaires (accord professionnel), chez des patients adultes réunissant l’ensemble des
+conditions suivantes :
+• patients avec un IMC > = 40 kg/m2 ou bien avec un IMC >= 35 kg/m2 (Consulter la table d'indice
+de masse corporelle) associé à au moins une comorbidité susceptible d’être améliorée après la chirurgie (notamment maladies cardio-vasculaires dont HTA, syndrome d’apnées hypopnées obstructives
+du sommeil et autres troubles respiratoires sévères, désordres métaboliques sévères, en particulier
+diabète de type 2, maladies ostéo-articulaires invalidantes, stéatohépatite non alcoolique) (grade B) ;
+• en deuxième intention après échec d’un traitement médical, nutritionnel, diététique et psychothérapeutique bien conduit pendant 6-12 mois (grade B) ; en l’absence de perte de poids suffisante ou en
+l’absence de maintien de la perte de poids (grade B) ;
+• patients bien informés au préalable (accord professionnel), ayant bénéficié d’une évaluation et d’une
+prise en charge préopératoires pluridisciplinaires (grade C) ;
+• patients ayant compris et accepté la nécessité d’un suivi médical et chirurgical à long terme (accord
+professionnel) ;
+• risque opératoire acceptable (accord professionnel).
+Une perte de poids avant la chirurgie n’est pas une contre-indication à la chirurgie bariatrique déjà planifiée, même si le patient a atteint un IMC inférieur au seuil requis (accord professionnel).
+Patients avec IMC > = 35 kg/m2
+Patients avec IMC
+entre 30 et 35 kg/m2
+Patients âgés
+de plus de 60 ans
+Patients avec
+IMC > = 35 kg/m2
+Indications de la chirurgie bariatrique
+Des données préliminaires (études comparatives randomisées monocentriques, d’effectif faible et de suivi
+court) ont montré que la chirurgie bariatrique pourrait améliorer les comorbidités, en particulier le diabète
+de type 2, chez des sujets avec IMC entre 30 et 35 kg/m2.
+Néanmoins, en l’absence de données établies sur une population plus large et à plus long terme, on ne
+peut recommander pour l’instant la chirurgie bariatrique chez des sujets diabétiques avec IMC entre 30 et
+35 kg/m2 (accord professionnel).
+Patients avec IMC entre 30 et 35 kg/m2
+Les données actuelles, hétérogènes et de faible niveau de preuve, ne permettent pas d’établir le rapport
+bénéfice/risque de la chirurgie bariatrique au-delà de 60 ans.
+Après 60 ans, l’indication doit être posée au cas par cas en fonction de l’âge physiologique et des comorbidités associées (grade C).
+Patients âgés de plus de 60 ans
+Les contre-indications de la chirurgie bariatrique sont représentées par (accord professionnel) :
+• les troubles cognitifs ou mentaux sévères ;
+• les troubles sévères et non stabilisés du comportement alimentaire ;
+• l’incapacité prévisible du patient à participer à un suivi médical prolongé ;
+• la dépendance à l’alcool et aux substances psychoactives licites et illicites ;
+• l’absence de prise en charge médicale préalable identifiée ;
+• les maladies mettant en jeu le pronostic vital à court et moyen terme ;
+• les contre-indications à l’anesthésie générale.
+Certaines de ces contre-indications peuvent être temporaires. L’indication de la chirurgie doit pouvoir être
+réévaluée après la prise en charge et la correction de ces contre-indications (accord professionnel).
+En cas d’obésité d’origine génétique ou de craniopharyngiome, l’indication doit être exceptionnelle et
+discutée au cas par cas par l’équipe pluridisciplinaire de chirurgie bariatrique et les praticiens habituellement en charge de ces pathologies (par exemple neurochirurgien) (grade C).
+Contre-Indications de la chirurgie bariatrique
+Parcours du patient candidat à la chirurgie bariatrique
+Patient adulte en échec de traitement médical bien conduit
+I
+N
+F
+O
+R
+M
+A
+T
+I
+O
+N
+D
+U
+P
+A
+T
+I
+E
+N
+T
+1ère consultation par un praticien expérimenté dans
+la prise en charge chirurgicale de l’obésité
+Prise en charge pluridisciplinaire
+Décision d’intervention en concertation pluridisciplinaire
+Suivi par l’équipe pluridisciplinaire + relais médecin traitant
+Intervention réalisée
+Patient informé par écrit et oralement par l’équipe
+pluridisciplinaire + médecin traitant + association de patients
+Orientation vers
+une prise en charge
+non chirurgicale
+Répétition et
+reformulation
+des explications
+Suivi et prise en charge sur les plans
+médical, nutritionnel, diététique
+et activité physique
+Suivi et prise en charge
+psychologique
+et / ou psychiatrique
+Suivi chirurgical
+Orientation vers une prise
+en charge non cirurgicale
+Compléter l’information et / ou l’évaluation
+et / ou la prise en charge
+Bilan et prise en charge psychologique
+et / ou psychiatrique
+Bilan et prise en charge sur les plans médical,
+nutritionnel, diététique et activité physique
+Indication de
+chirurgie
+Information
+comprise par
+le patient
+Chirurgie
+contre-indiquée
+Accord pour
+la chirurgie
+Report de
+la chirurgie
+Oui
+Oui
+Oui Oui
+Non
+Non
+Évaluation et prise en charge préopératoires
+Concertation
+pluridisciplinaire
+Information
+du patient
+État
+nutritionnel
+Éducation
+thérapeutique
+Aspect
+gastro-intestinal
+Troubles du
+comportement alimentaire
+Aspect psychologique /
+psychiatrique
+Grossesse et
+contraception
+Équipe
+pluridisciplinaire
+Comorbidités
+La prise en charge des patients en vue d’une intervention de chirurgie bariatrique doit être réalisée
+au sein d’équipes pluridisciplinaires, en liaison avec le médecin traitant (Consulter le document
+d’information destinée aux médecins traitants) et éventuellement avec les associations de patients.
+Ces équipes sont constituées au minimum d’un chirurgien, d’un médecin spécialiste de l’obésité (nutritionniste, endocrinologue ou interniste), d’une diététicienne, d’un psychiatre ou d’un psychologue et d’un
+anesthésiste-réanimateur. Ces équipes peuvent prendre l’avis d’autres professionnels de santé autant
+que de besoin (hépato-gastro-entérologue, diabétologue, radiologue, cardiologue, pneumologue, rhumatologue, médecin rééducateur, chirurgien-dentiste, masseur-kinésithérapeute, etc.) (accord professionnel).
+Un coordinateur doit être désigné au sein de l’équipe pluridisciplinaire (accord professionnel).
+Si les membres de l’équipe pluridisciplinaire appartiennent à des établissements différents, les conditions
+de leur coopération doivent être précisées dans une charte (accord professionnel).
+Équipe pluridisciplinaire
+La décision d’intervention doit être prise à l’issue d’une discussion et d’une concertation de l’équipe
+pluridisciplinaire. Il est recommandé que la concertation ait lieu au cours d’une réunion physique.
+Néanmoins, en cas d’impossibilité d’une réunion physique (par exemple en cas d’éloignement géographique des intervenants, etc.), d’autres modalités de concertation sont possibles (échanges par téléphone,
+visioconférence, Internet, etc.). Il est également souhaitable de demander l’avis du médecin traitant du
+patient.
+Dans tous les cas, les conclusions de cette concertation doivent être communiquées au patient, à
+tous les membres de l’équipe pluridisciplinaire et au médecin traitant ; elles doivent être transcrites
+dans le dossier du patient (accord professionnel).
+Concertation pluridisciplinaire
+Les conclusions de la concertation pluridisciplinaire doivent être formalisées et comporter (accord
+professionnel) :
+• les coordonnées du patient ;
+• les coordonnées du coordinateur et du médecin traitant ;
+• les noms et spécialités des participants à la concertation ;
+• les antécédents médico-chirurgicaux du patient, l’IMC maximal et actualisé, les traitements de l’obésité mis en oeuvre auparavant, les risques anesthésiques ;
+• la date de consultation initiale ;
+• les modalités de l’information sur le bénéfice attendu, les risques de la chirurgie et le caractère impératif du suivi ;
+• le résultat de l’évaluation et de la prise en charge préopératoires ;
+• les stratégies proposées : stratégie chirurgicale (indication ou non de chirurgie, type d’intervention) et
+autres prises en charge (nutritionnelle, diétététique ou psychologique, reconditionnement à l’activité
+physique, etc.) ;
+• la conformité ou non de la stratégie proposée par rapport aux référentiels utilisés ;
+• la date de la décision.
+L’information du patient doit porter sur (accord professionnel) :
+• les risques de l’obésité ;
+• les différents moyens de prise en charge de l’obésité ;
+• les différentes techniques chirurgicales :
+ leur principe (explicité au mieux à l’aide de schémas),
+ leurs bénéfices respectifs : estimations sur la perte de poids à court et long terme, absence de données à long terme disponibles pour certaines techniques, bénéfices pour la santé et les comorbidités,
+ leurs risques et inconvénients respectifs : mortalité périopératoire, effets indésirables, complications
+précoces et tardives, conséquences nutritionnelles, réinterventions, irréversibilité, signes cliniques
+qui doivent alerter ;
+• les limites de la chirurgie (notamment en termes de perte de poids) ;
+• les bénéfices et inconvénients de la chirurgie sur la vie quotidienne, les relations sociales et familiales ;
+• les bénéfices et les inconvénients de la chirurgie en matière de grossesse et de contraception ;
+• la nécessité d’une modification du comportement alimentaire et du mode de vie avant et après
+l’intervention ;
+• la nécessité d’un suivi médical et chirurgical la vie durant, l’obésité étant une maladie chronique et en
+raison du risque de complications tardives ;
+• la nécessité de suivre un programme d’éducation thérapeutique ;
+• le soutien possible d’associations de patients ;
+• la possibilité de recours à la chirurgie réparatrice et reconstructrice.
+Information du patient
+Cette information doit être dispensée par les membres de l’équipe pluridisciplinaire, relayés par
+lemédecin traitant, les associations de patients et les réseaux quand ils existent. Elle doit être
+réalisée sous forme d’entretiens individuels, pouvant être complétés par des réunions collectives.
+(accord professionnel).
+Il est recommandé de fournir au patient une information écrite (Consulter la brochure d’information
+destinée aux personnes obèses qui envisagent la chirurgie de l’obésité) en plus d’une information
+orale. Il est nécessaire de s’assurer que le patient a bien compris cette information. L’information initiale
+doit être réitérée et complétée autant que de besoin avant et après l’intervention (accord professionnel).
+Avant chirurgie bariatrique, il est recommandé :
+• de réaliser des mesures anthropométriques : IMC, tour de taille (grade B) ;
+• de préciser le statut nutritionnel et vitaminique des patients : dosages d’albumine, hémoglobine, ferritine et coefficient de saturation en fer de la transferrine, calcémie, vitamine D, vitamine B1, B9, B12.
+Des dosages supplémentaires pourront être réalisés en cas de point d’appel clinique ou biologique
+(grade C). En cas de déficit, ceux-ci devront être corrigés avant l’intervention et des facteurs favorisants recherchés (accord professionnel) ;
+• d’évaluer le coefficient masticatoire et l’état dentaire (accord professionnel).
+État nutritionnel
+Avant chirurgie bariatrique, il est recommandé :
+• d’évaluer et prendre en charge les comorbidités cardio-vasculaires ou métaboliques, notamment HTA,
+diabète de type 2, dyslipidémie (grade B) ;
+• d’évaluer le risque thrombo-embolique (grade C) ;
+• de rechercher et prendre en charge un syndrome d’apnées hypopnées obstructives du sommeil
+(SAHOS) selon les recommandations en vigueur, un tabagisme ou d’autres pathologies respiratoires
+(grade C) ;
+• de réaliser une évaluation hépatique : celle-ci doit comporter au minimum un dosage des transaminases et de la gamma GT pour évoquer une stéatohépatite non alcoolique et déclencher si nécessaire
+une consultation d’hépato-gastro-entérologie (accord professionnel) ;
+• d’évaluer l’état musculo-squelettique et articulaire (accord professionnel).
+Comorbidités
+Avant chirurgie bariatrique, il est recommandé d’évaluer avec le patient le type de comportement
+alimentaire et l’existence d’un trouble du comportement alimentaire (historique, sévérité du
+trouble), l’association à des troubles mentaux (dépression, troubles psychotiques, addictions, etc.).
+Il est recommandé d’en tenir compte dans l’indication de la chirurgie mais aussi dans la prise en charge
+pluridisciplinaire pré et postopératoire (psychothérapie, médicaments, surveillance des complications
+mécaniques dans le cas de l’anneau, etc.) (grade C).
+Troubles du comportement alimentaire
+Avant toute intervention de chirurgie bariatrique, il est recommandé de réaliser une endoscopie
+œsogastroduodénale afin de dépister et traiter une infection à Helicobacter pylori (HP) et de
+rechercher une autre pathologie digestive associée (ex. : hernie hiatale importante, ulcère, gastrite, etc.)
+pouvant contre-indiquer certaines procédures ou nécessitant d’être prise en charge avant chirurgie (accord
+professionnel).
+Avant chirurgie excluant l’estomac, la réalisation de biopsies systématiques est recommandée à la
+recherche de lésions prénéoplasiques, quelle qu’en soit l’étiologie (infection à HP ou autre) (accord
+professionnel).
+La constatation d’une infection à HP nécessite son traitement et le contrôle de son éradication avant
+chirurgie (accord professionnel).
+La suspicion clinique ou paraclinique de troubles moteurs de l’œsophage peut faire discuter la réalisation
+d’une manométrie œsophagienne avant pose d’anneau gastrique (grade C).
+Aspect gastro-intestinal
+Il est recommandé d’établir avec le patient un programme d’éducation thérapeutique, de le mettre
+en œuvre avec l’équipe pluridisciplinaire avant l’intervention et de le poursuivre durant la période
+postopératoire (accord professionnel).
+Le programme est fondé sur (accord professionnel) :
+• une analyse des besoins et des attentes du patient (élaboration du diagnostic éducatif) ;
+• la définition d’un programme personnalisé comprenant les compétences les plus utiles à acquérir et
+les priorités d’apprentissage ;
+• la planification et la mise en oeuvre de séances d’éducation thérapeutique individuelles ou collectives
+(ou en alternance) ;
+• l’évaluation des compétences acquises et du déroulement du programme au minimum avant l’intervention chirurgicale.
+Ce programme a pour objectif d’aider le patient à acquérir des compétences visant notamment à (accord
+professionnel) :
+• modifier ses habitudes et son comportement alimentaire dès la période préopératoire dans la
+perspective de stabiliser le poids avant l’intervention, d’améliorer l’efficacité et la tolérance de la
+chirurgie ;
+• planifier un programme d’activité physique.
+Au plan diététique, le programme d’éducation thérapeutique doit être adapté à la technique chirurgicale et
+au patient.
+Les séances d’éducation thérapeutique devraient être dispensées par l‘équipe pluridisciplinaire, au mieux
+par la diététicienne ou le médecin nutritionniste, avec la participation de patients opérés (intervention dans
+les séances d’éducation thérapeutique en complémentarité avec la diététicienne).
+Mise en place d'un programme d'éducation thérapeutique
+Les associations de patients peuvent également apporter un soutien individuel au patient (accord professionnel).
+Le contenu des séances individuelles ou collectives doit porter notamment sur le choix des aliments, la réalisation d’un équilibre alimentaire sur le jour et la semaine, le choix et la mise en oeuvre de techniques
+culinaires adaptées (ateliers cuisine), des conseils dont certains pourront être mis en pratique lors de repas
+pris en commun (accord professionnel).
+Au plan de l’activité physique, le choix d’une activité adaptée et régulière après l’intervention doit être discuté individuellement avec chaque patient dès la période préopératoire. Le programme d’activité physique
+proposé doit être progressif et prendre en compte les conditions musculo-squelettiques et cardio-respiratoires du patient, son mode de vie et ses préférences (accord professionnel).
+L’évaluation psychologique et psychiatrique préopératoire doit concerner tous les patients candidats à la
+chirurgie bariatrique.
+Elle doit permettre (grade C) :
+• d’identifier les contre-indications psychiatriques à la chirurgie (troubles mentaux sévères, comportements d’addiction, etc.) ;
+• d’évaluer la motivation du patient, sa capacité à mettre en oeuvre les changements comportementaux
+nécessaires et à participer à un programme de suivi postopératoire à long terme ;
+• d’évaluer les déterminants et conséquences psychologiques de l’obésité ;
+• d’évaluer les connaissances du patient (en matière d’obésité et de chirurgie). Le patient doit avoir les
+ressources intellectuelles et les connaissances suffisantes pour fournir un consentement éclairé ;
+• d’évaluer la qualité de vie ;
+• de déterminer les facteurs de stress psychosociaux, la présence et la qualité du soutien sociofamilial ;
+• de proposer des prises en charge adaptées avant chirurgie et d’orienter le suivi en postopératoire.
+Cette évaluation doit être menée par un psychiatre ou un psychologue, membre de l’équipe pluridisciplinaire. Si une prise en charge psychothérapeutique avant l’intervention est nécessaire, elle peut être
+réalisée par un psychiatre ou un psychologue non membre de l’équipe pluridisciplinaire mais en concertation avec celle-ci (accord professionnel).
+Aspect psychologique / psychiatrique
+La chirurgie bariatrique est contre-indiquée chez les femmes enceintes (accord professionnel). Avant
+d’opérer, il est recommandé de rechercher systématiquement une grossesse chez les femmes en période
+d’activité génitale, en réalisant un dosage de beta-HCG plasmatique dans les 48 heures avant l’intervention (accord professionnel).
+Après chirurgie bariatrique :
+• avant tout projet de grossesse, une évaluation diététique et nutritionnelle, clinique et biologique, doit
+être effectuée ou à défaut au tout début de la grossesse (grade C) ;
+• en cas de grossesse, notamment après chirurgie malabsorptive, il est recommandé de faire une supplémentation en fer, folates, vitamine B12, vitamine D et calcium (grade C). La supplémentation en
+folates, conformément aux recommandations internationales, devra être mise en place dès le désir de
+grossesse (grade A) ;
+• en cas de grossesse après pose d’anneau, il est recommandé de discuter le desserrage de l’anneau
+entre l’équipe pluridisciplinaire et l’obstétricien (grade C) ;
+• pendant la grossesse et en post-partum, il est recommandé de programmer un suivi nutritionnel au sein
+de l’équipe pluridisciplinaire (accord professionnel).
+Une contraception est recommandée dès que la chirurgie bariatrique est programmée puis généralement pendant 12 à 18 mois après l’intervention (grade C). Une étude de faible niveau de preuve
+(série de cas) suggère une diminution de l’efficacité de la contraception orale après dérivation biliopancréatique. En cas de chirurgie malabsorptive, une autre méthode de contraception (préservatif, stérilet , etc.)
+doit être discutée (grade C).
+Grossesse et contraception
+Les techniques chirurgicales recommandées sont (accord professionnel) :
+• l’anneau gastrique ajustable (AGA) (Consulter la fiche technique) ;
+• la gastrectomie longitudinale (GL) (Consulter la fiche technique) ;
+• le bypass gastrique (BPG) (Consulter la fiche technique);
+• la dérivation biliopancréatique (DBP) (Consulter la fiche technique).
+La gastroplastie verticale calibrée (GVC) tend à ne plus être pratiquée.
+Le rapport bénéfice/risque des différentes techniques ne permet pas d’affirmer la supériorité d’une technique par rapport à une autre. La perte de poids attendue mais également la complexité de la technique,
+le risque de complications postopératoires, de retentissement nutritionnel et la mortalité augmentent avec
+les interventions suivantes : AGA, GVC, GL, BPG, DBP (grade B).
+Techniques chirurgicales recommandées
+La voie d’abord recommandée est la laparoscopie (grade B).
+Voie d’abord
+Choix des techniques chirurgicales
+Techniques chirurgicales
+recommandées
+Critères de choix
+des techniques
+Compétences des
+chirurgiens / des équipes
+Voie d’abord
+Le choix de la technique chirurgicale doit être fait conjointement par l’équipe pluridisciplinaire et
+le patient.
+Il doit prendre en compte un certain nombre de critères en plus du rapport bénéfice/risque de
+chaque intervention, tels que :
+• l’expérience et l’environnement technique du chirurgien et de l’équipe pluridisciplinaire et notamment
+de l’équipe d’anesthésie (grade B) ;
+• l’importance de l’obésité, l’IMC, l’âge (grade B) ;
+• les antécédents médicaux et chirurgicaux (grade C) ;
+• les pathologies digestives associées (grade C) ;
+• la présence d’un diabète de type 2 (accord professionnel) ;
+• les traitements en cours (AVK, etc.) (accord professionnel) ;
+• les troubles du comportement alimentaire (accord professionnel).
+Chez les sujets à risque opératoire élevé, notamment ceux dont l’IMC est ≥ 60kg/m², une stratégie en deux
+temps (procédure restrictive puis procédure malabsorptive) peut se discuter (grade C).
+Critères de choix des techniques
+Il est recommandé que la technique opératoire soit réalisée par un chirurgien justifiant d’une formation spécifique en chirurgie laparoscopique et en chirurgie bariatrique, travaillant au sein d’une
+équipe pluridisciplinaire ou d’un réseau d’établissements (accord professionnel). L’équipe pluridisciplinaire ou le réseau d’établissements doivent (accord professionnel) :
+• avoir l’expertise de la prise en charge de l’obésité morbide ;
+• être en mesure de proposer aux patients les différentes techniques de chirurgie bariatrique.
+Compétences des chirurgiens / des équipes
+Suivi et prise en charge postopératoires
+Suivi
+chirurgical
+Chirurgie
+réparatrice
+Aspects diététiques
+et nutritionnels
+Adaptation des
+posologies des traitements
+Supplémentation en
+vitamines et oligoéléments
+Prévention de
+la lithiase biliaire
+Suivi psychologique /
+psychiatrique
+Suivi la vie
+durant Suivi précoce
+Suivi des
+comorbidités
+Suivi éducatif
+Le suivi et la prise en charge du patient après chirurgie bariatrique sont assurés par l’équipe pluridisciplinaire qui a posé l’indication opératoire, en liaison avec le médecin traitant (Consulter le document
+d’information destinée aux médecins traitants) (accord professionnel).
+Ce suivi doit être assuré la vie durant, l’obésité étant une maladie chronique et en raison du risque
+de complications tardives (chirurgicales ou nutritionnelles dont certaines peuvent conduire à des atteintes
+neurologiques graves). Le patient doit être informé des conséquences potentiellement graves de l’absence
+de suivi (accord professionnel).
+Les patients devraient être vus au moins 4 fois la première année, puis au minimum 1 ou 2 fois par an après.
+La fréquence des visites devrait être adaptée à la procédure et au patient (accord professionnel).
+Suivi la vie durant
+Une prévention thrombo-embolique par lever précoce, bas de contention et héparine de bas poids
+moléculaire est recommandée (grade B). L’utilisation périopératoire de matériel de compression
+veineuse intermittente semble bénéfique (grade C).
+En cas de comorbidités cardio-respiratoires, le suivi postopératoire immédiat doit pouvoir être réalisé en
+unité de surveillance continue (accord professionnel).
+La gravité potentielle des complications après chirurgie bariatrique justifie un suivi chirurgical rapproché.
+Quelle que soit la technique, les principales complications à rechercher sont (études de niveau de preuve
+3 et 4) :
+• les perforations et les fuites digestives ;
+• les complications hémorragiques ;
+• les occlusions.
+Suivi précoce
+La suspicion d’une complication sur la présence de signes cliniques, notamment tachycardie, dyspnée,
+douleurs abdominales, confusion ou hyperthermie, en l’absence de signes péritonéaux – défense ou
+contracture – toujours tardifs, doit conduire à réintervenir précocement. La réalisation des examens paracliniques (TOGD, scanner, etc.) peut aider au diagnostic des complications, mais ne doit pas retarder
+l’éventuelle réintervention. Dans ce cas, l’abord laparoscopique a l’intérêt de faire immédiatement le diagnosticet très souvent d’en permettre le traitement (accord professionnel).
+L’importance et les modalités de réalimentation postopératoire doivent être expliquées au patient,
+le non-respect de ces modalités pouvant entraîner des complications chirurgicales graves (accord
+professionnel).
+Après chirurgie bariatrique, il est recommandé :
+• d’évaluer la perte de poids et sa cinétique (grade B) ;
+• de mener une enquête alimentaire et de réitérer les conseils diététiques (accord professionnel) ;
+• de rechercher des signes cliniques de dénutrition ou de carence vitaminique, notamment des signes
+d’atteinte neurologique (grade C) ;
+• de réaliser un bilan nutritionnel et vitaminique, orienté par la clinique (cinétique de la perte de poids,
+vomissements, etc.) et la technique. Celui-ci peut comporter un dosage d’albumine et de préalbumine,
+d’hémoglobine, de ferritine et coefficient de saturation en fer de la transferrine, de calcémie, de vitamine D, de PTH, de vitamine A, B1, B9, B12, de zinc ou de sélénium (grade C). Les dosages sont
+recommandés 3 et 6 mois après l’intervention, puis au moins annuellement (accord professionnel).
+L’hydratation et l’apport protidique par l’alimentation doivent être suffisants et réguliers (accord professionnel).
+Aspects diététiques et nutritionnels
+Après chirurgie bariatrique, il est recommandé de surveiller les comorbidités, notamment diabète de
+type 2, HTA, dyslipidémie, SAHOS, stéatohépatite non alcoolique, et d’adapter leur traitement (grade B).
+Suivi des comorbidités
+Après chirurgie bariatrique, il est recommandé d’adapter les posologies des traitements en cours :
+la chirurgie malabsorptive peut entraîner une malabsorption de divers médicaments et nécessite l’adaptation de leur posologie (par exemple les AVK, les hormones thyroïdiennes, les antiépileptiques, etc.) (accord
+professionnel).
+Adaptation des posologies des traitemements en cours
+En termes de supplémentation, il est recommandé de :
+• recourir à une supplémentation systématique après chirurgie malabsorptive dont la durée ne peut être
+précisée (à vie par défaut) : multivitamines, calcium, vitamine D, fer et vitamine B12 (grade C). Après
+chirurgie restrictive, la supplémentation doit se discuter en fonction du bilan clinique et biologique
+(accord professionnel) ;
+• renforcer la supplémentation en cas de situation particulière (B1 si vomissements ou complication chirurgicale avec nutrition parentérale ou amaigrissement rapide, B9 si grossesse, fer si femme réglée
+ou grossesse, etc.), en recourant si nécessaire aux formes parentérales (grade C) ;
+• prévenir les patients des risques auxquels ils sont exposés en cas de carence, des risques encourus
+en l’absence de prise des suppléments et des signes d’alarme faisant suspecter une carence grave,
+par exemple : signes neurologiques (survenue de paresthésies, etc.), perte de poids très rapide, fatigue
+intense, troubles sensoriels (baisse d’acuité visuelle, etc.) (grade C).
+Il est recommandé de donner au patient une carte ou un livret donnant des informations sur
+l’intervention réalisée et sur les supplémentations prescrites (accord professionnel).
+Supplémentation en vitamines et oligoéléments
+Le suivi psychologique et psychiatrique du patient après chirurgie bariatrique est recommandé
+pour les patients qui présentaient des troubles du comportement alimentaire ou des pathologies
+psychiatriques en préopératoire. Pour les autres patients, ce suivi peut être proposé au patient au cas
+par cas (grade C).
+Le suivi psychologique et psychiatrique postopératoire a pour objectifs (accord professionnel) :
+• d’évaluer le retentissement psychologique, social et familial de l’intervention et de la perte de poids ;
+• d’identifier d’éventuelles difficultés à mettre en oeuvre les changements comportementaux nécessaires et d’aider le patient à surmonter ces difficultés ;
+• d’accompagner le patient dans les réaménagements psychiques liés à la chirurgie et à la perte de
+poids (modification de l’image du corps, etc.) et si besoin, proposer une prise en charge adaptée.
+Il doit être assuré par un psychiatre ou un psychologue, membre ou non de l‘équipe pluridisciplinaire. S’il
+n’en fait pas partie, il doit travailler en concertation avec le psychiatre ou le psychologue de l’équipe pluridisciplinaire (accord professionnel).
+Suivi psychologique / psychiatrique
+Après chirurgie malabsorptive, en prévention de la lithiase biliaire et en l’absence de cholécystectomie, la
+prescription d’acide ursodesoxycholique à la dose de 600 mg/j pendant 6 mois peut être proposée (hors
+AMM) (grade B).
+Prévention de la lithiase biliaire
+Le suivi éducatif établi en préopératoire doit être poursuivi afin de s’assurer de la mise en place et du maintien des compétences acquises par le patient au plan de la diététique et de l’activité physique, et de faire
+le bilan de la manière dont il s’adapte à sa situation (accord professionnel).
+Suivi éducatif
+Le suivi chirurgical est recommandé après tout type de chirurgie bariatrique pour dépister les complications qui peuvent survenir tardivement. Douleur, vomissements, dysphagie sont les signes d’alarme
+devant conduire le patient à consulter le chirurgien de l’équipe pluridisciplinaire (grade C).
+Après pose d’un anneau gastrique ajustable, il est recommandé que son calibrage soit (accord professionnel) :
+• adapté à la perte pondérale, à la tolérance et au comportement alimentaires du patient ;
+• réalisé par un praticien expérimenté en chirurgie bariatrique ;
+• contrôlé radiologiquement afin de vérifier son ajustement et de dépister des complications (dilatation
+de poche, dilatation oesophagienne, malposition de l’anneau, etc.).
+Suivi chirurgical
+Il est recommandé que les patients soient informés du recours possible à la chirurgie réparatrice.
+Celle-ci peut être réalisée au plus tôt 12 à 18 mois après chirurgie bariatrique, en l’absence de dénutrition
+(accord professionnel).
+Il est recommandé que l’équipe de chirurgie réparatrice soit expérimentée dans la prise en charge
+de patients obèses. L’indication doit être discutée avec le patient, l’équipe de chirurgie réparatrice et
+l’équipe pluridisciplinaire de chirurgie bariatrique (accord professionnel).
+Chirurgie réparatrice
+La réalisation d’une seconde procédure de chirurgie bariatrique restrictive ou malabsorptive est
+indiquée en cas d’échec de la chirurgie bariatrique ou de dysfonctionnement du montage chirurgical.
+Dans ces cas, l’IMC à prendre en compte est l’IMC maximal documenté. Un IMC inférieur à 35 kg/m2 ne
+contre-indique pas la réintervention. L’échec peut être défini par une perte de poids jugée insuffisante par
+le patient et l’équipe soignante à long terme en fonction du contexte somatique et psychologique (accord
+professionnel).
+Indications
+La prise en charge des patients en vue d’une seconde procédure de chirurgie bariatrique doit être
+réalisée au sein d’équipes pluridisciplinaires comme il est recommandé lors d’une intervention
+initiale (accord professionnel).
+L’indication d’une seconde intervention de chirurgie bariatrique doit être posée après une évaluation et une
+prise en charge préopératoires comparables à celles réalisées avant une intervention initiale. Il est en
+particulier nécessaire d’identifier la cause de l’échec et de proposer une prise en charge adaptée. Les
+connaissances des patients doivent être réévaluées et une information complémentaire concernant les
+risques des réinterventions doit être délivrée au patient (accord professionnel).
+Prise en charge préopératoire
+Réinterventions de chirurgie bariatrique
+Prise en charge
+préopératoire
+Concertation
+pluridisciplinaire
+Choix de
+la technique
+Compétences des
+chirurgiens / des équipes
+Indications
+Le choix de la technique chirurgicale doit être fait conjointement par l’équipe pluridisciplinaire et
+le patient. Il doit prendre en compte (accord professionnel) :
+• le suivi du patient ;
+• la courbe pondérale ;
+• le type de l’intervention initiale ;
+• la cause de la réintervention ;
+• le rapport bénéfice/risque de chaque réintervention ;
+• les antécédents médicaux et chirurgicaux ;
+• les comorbidités ;
+• l’état nutritionnel ;
+• les troubles du comportement alimentaire ;
+• les constatations peropératoires.
+Choix de la technique
+Il est recommandé que la réalisation d’une seconde procédure de chirurgie bariatrique restrictive
+ou malabsorptive soit réalisée par une équipe chirurgicale expérimentée dans la réalisation des
+deux types de procédures, le risque des réinterventions étant plus élevé que celui des interventions
+initiales (accord professionnel).
+Compétences des chirurgiens / des équipes
+En cas d’échec ou de dysfonctionnement du montage chirurgical, la décision de réintervention doit
+être prise à l’issue d’une discussion et d’une concertation pluridisciplinaires.
+Les conclusions de cette concertation doivent (accord professionnel) :
+• être communiquées au patient, à tous les membres de l’équipe pluridisciplinaire et au médecin traitant ;
+• être transcrites dans le dossier du patient ;
+• notamment préciser le type de l’intervention initiale, la cause de la réintervention, l’adhésion au suivi
+postopératoire, le type de procédure, etc.
+Concertation pluridisciplinaire
+Il est recommandé que toutes les interventions de chirurgie bariatrique réalisées en France soient
+enregistrées dans un registre national dont les objectifs sont :
+• d’évaluer l’impact des recommandations sur la pratique et leur appropriation par les professionnels ;
+• de connaître les données d’efficacité et de sécurité à court et long terme des équipes médico-chirurgicales françaises, en dehors des grands essais thérapeutiques ;
+• de suivre l’évolution des techniques.
+Dans ce cadre, la Soffco a mis en place en 2007 un registre national des interventions de chirurgie bariatrique dont le contenu a été validé par la HAS.
+Ce registre concerne tous les types d’interventions et recueille des données sur les différentes étapes de
+la prise en charge des patients dans le cadre de la chirurgie :
+• préopératoire : bilan de l’obésité, comorbidités et antécédents ;
+• opératoire : type d’intervention, durée, suites ;
+• postopératoire : efficacité [pourcentage de perte d’excès de poids, amélioration des comorbidités,
+qualité de vie (score BAROS)] et sécurité (analyse des complications spécifiques et générales, à court
+et long terme).
+Enregistrement dans un registre national
+La recommandation de bonne pratique
+est consultable sur www.has-sante.fr
+www.has-sante.fr
+2 avenue du Stade de France 93218 Saint-Denis-La Plaine CEDEX
+Tél. : +33(0)1 55 93 70 00 - Fax : +33(0)1 55 93 74 00 © Haute Autorité de Santé - DCI / SDIP- Octobre 2011
+
+RECOMMANDER
+LES BONNES PRATIQUES
+RECOMMANDATION Diagnostic de la
+dénutrition chez la
+personne de 70 ans
+et plus
+
+Validé par le Collège le 10 novembre 2021
+
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 2
+Les recommandations de bonne pratique (RBP) sont définies dans le champ de la santé comme des propositions développées méthodiquement pour aider le praticien et le patient à rechercher les soins les plus appropriés dans des circonstances cliniques données.
+Les RBP sont des synthèses rigoureuses de l’état de l’art et des données de la science à un temps donné, décrites dans
+l’argumentaire scientifique. Elles ne sauraient dispenser le professionnel de santé de faire preuve de discernement dans
+sa prise en charge du patient, qui doit être celle qu’il estime la plus appropriée, en fonction de ses propres constatations
+et des préférences du patient.
+Cette recommandation de bonne pratique a été élaborée selon la méthode résumée dans l’argumentaire scientifique et
+décrite dans le guide méthodologique de la HAS disponible sur son site : Élaboration de recommandations de bonne
+pratique – Méthode recommandations pour la pratique clinique.
+Les objectifs de cette recommandation, la population et les professionnels concernés par sa mise en œuvre sont brièvement présentés en dernière page (fiche descriptive) et détaillés dans l’argumentaire scientifique.
+Ce dernier ainsi que la synthèse de la recommandation sont téléchargeables sur www.has-sante.fr.
+Grade des recommandations
+A
+Preuve scientifique établie
+Fondée sur des études de fort niveau de preuve (niveau de preuve 1) : essais comparatifs randomisés de forte
+puissance et sans biais majeur ou méta-analyse d’essais comparatifs randomisés, analyse de décision basée
+sur des études bien menées.
+B
+Présomption scientifique
+Fondée sur une présomption scientifique fournie par des études de niveau intermédiaire de preuve (niveau de
+preuve 2), comme des essais comparatifs randomisés de faible puissance, des études comparatives non randomisées bien menées, des études de cohorte.
+C
+Faible niveau de preuve
+Fondée sur des études de moindre niveau de preuve, comme des études cas-témoins (niveau de preuve 3), des
+études rétrospectives, des séries de cas, des études comparatives comportant des biais importants (niveau de
+preuve 4).
+AE
+Accord d’experts
+En l’absence d’études, les recommandations sont fondées sur un accord entre experts du groupe de travail,
+après consultation du groupe de lecture. L’absence de gradation ne signifie pas que les recommandations ne
+sont pas pertinentes et utiles. Elle doit, en revanche, inciter à engager des études complémentaires.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 3
+Descriptif de la publication
+Titre Diagnostic de la dénutrition chez la personne âgée de 70
+ans et plus
+Méthode de travail Recommandation pour la pratique clinique (RPC)
+Objectif(s) Définir la dénutrition
+Définir les critères permettant de diagnostiquer une dénutrition
+Améliorer le diagnostic de la dénutrition à l’aide d’outils adaptés et validés
+Cibles concernées Patients concernés par le thème : personnes âgées de 70 ans ou plus.
+Professionnels concernés par le thème :
+- les professionnels de santé concernés par la nutrition et par les soins aux personnes
+âgées ;
+- les professionnels du secteur médico-social concernés par la nutrition et/ou susceptibles
+de s’occuper de personnes âgées.
+Demandeur Fédération française de nutrition (FFN)
+Promoteur(s) Haute Autorité de santé (HAS), Fédération française de nutrition (FFN)
+Pilotage du projet Coordination : M. Alexandre Pitard, chef de projet à la HAS, service des bonnes pratiques
+(chef de service : Dr Pierre Gabach), Pr Agathe Raynaud-Simon, Pr Jacques Delarue et
+Pr Éric Fontaine, chefs de projet FFN. Secrétariat : Mme Jessica Layouni.
+Recherche documentaire De janvier 2017 à décembre 2020 (cf. stratégie de recherche documentaire décrite en
+annexe 1 de l’argumentaire scientifique). Réalisée par Mme Emmanuelle Blondet, avec
+l’aide de Laurence Frigère (chef du service documentation – veille : Mme Frédérique Pagès).
+Auteurs Chargés de projet : Dr Manuel Sanchez, Paris ; Dr Clément Lahaye, Clermont-Ferrand ;
+Pr Jean-Claude Desport, Limoges.
+Conflits d’intérêts Les membres du groupe de travail ont communiqué leurs déclarations publiques d’intérêts à la HAS. Elles sont consultables sur le site https://dpi.sante.gouv.fr. Elles ont été
+analysées selon la grille d’analyse du guide des déclarations d’intérêts et de gestion des
+conflits d’intérêts de la HAS. Les intérêts déclarés par les membres du groupe de travail
+ont été considérés comme étant compatibles avec leur participation à ce travail.
+Validation Version du 10 novembre 2021
+Actualisation
+Autres formats L’argumentaire et la synthèse de la recommandation de bonne pratique sont téléchargeables sur www.has-sante.fr
+Ce document ainsi que sa référence bibliographique sont téléchargeables sur www.has-sante.fr
+Haute Autorité de santé – Service communication information
+5, avenue du Stade de France – 93218 SAINT-DENIS LA PLAINE CEDEX. Tél. : +33 (0)1 55 93 70 00
+© Haute Autorité de santé – novembre 2021
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 4
+Sommaire
+Introduction 5
+Messages clés 7
+1. Définition de la dénutrition 8
+2. Diagnostic de la dénutrition chez la personne âgée de 70 ans et plus 9
+2.1. Diagnostic de la dénutrition 9
+2.2. Diagnostic de la dénutrition sévère 10
+2.3. Surveillance de l’état nutritionnel 11
+3. Cas particulier de la dénutrition chez la personne âgée de 70 ans et plus en
+situation d’obésité 12
+Table des annexes 13
+Participants 15
+Abréviations et acronymes 18
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 5
+Introduction
+Préambule
+La HAS et la Fédération française de nutrition (FFN) ont souhaité élaborer conjointement cette recommandation de bonne pratique dans le cadre d’une convention de partenariat.
+Cette recommandation s’inscrit dans la continuité des recommandations sur le diagnostic de la dénutrition de l’enfant et de l’adulte publiées en 2019 par la HAS et la FFN1
+.
+Cette recommandation de bonne pratique actualisera les parties concernant le diagnostic de la dénutrition des recommandations concernant les personnes âgées de la HAS de 20072
+.
+Patients concernés
+Personnes âgées de 70 ans ou plus. Ces recommandations concerneront l’ensemble des situations
+physiologiques ou pathologiques.
+Professionnels concernés
+‒ Tous les professionnels de santé concernés par la nutrition et par les soins aux personnes
+âgées.
+‒ Tous les professionnels du secteur médico-social concernés par la nutrition et/ou susceptibles
+de s’occuper des personnes âgées.
+Objectifs de la recommandation
+Les objectifs de cette recommandation sont de :
+‒ définir la dénutrition ;
+‒ définir les critères permettant de diagnostiquer une dénutrition ;
+‒ améliorer le diagnostic de la dénutrition à l’aide d’outils adaptés et validés.
+La prise en charge des patients dénutris n’entre pas dans le champ de ces recommandations.
+Questions
+Ces recommandations visent à répondre aux questions suivantes :
+‒ Quelle est la définition de la dénutrition ?
+‒ Comment établir le diagnostic de dénutrition chez la personne de 70 ans et plus ?
+‒ Comment établir le diagnostic de dénutrition sévère chez la personne de 70 ans et plus ?
+‒ Quelle est la surveillance de l’état nutritionnel de la personne de 70 ans et plus ?
+1 Haute Autorité de santé. Diagnostic de la dénutrition de l’enfant et de l’adulte. Saint-Denis La Plaine: HAS; 2019.
+2 Haute Autorité de santé. Stratégie de prise en charge en cas de dénutrition protéino-énergétique chez la personne âgée. SaintDenis La Plaine: HAS; 2007.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 6
+‒ Comment établir le diagnostic de dénutrition chez la personne de 70 ans et plus en situation
+d’obésité ?
+‒ Quelle est la surveillance de l’état nutritionnel de la personne de 70 ans et plus en situation
+d’obésité ?
+Les recommandations reposent sur des accords d’experts au sein du groupe de travail. L’absence
+de gradation ne signifie pas que les recommandations ne sont pas pertinentes et utiles ; mais elle
+doit en revanche inciter à des études complémentaires. Ces recommandations sont applicables à
+la majorité des cas, avec parfois une adaptation au cas par cas.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 7
+Messages clés
+Ces recommandations représentent une évolution des critères diagnostiques par rapport à ceux publiés en 2007 et s’inscrivent dans la continuité des critères publiés en 2019 pour l’enfant et l’adulte.
+Chez les personnes âgées de 70 ans et plus, comme chez l’adulte jeune et l’enfant, le diagnostic de
+dénutrition repose sur l’association d’un critère phénotypique et d’un critère étiologique.
+Le vieillissement s’accompagne d’une modification de la composition corporelle avec une diminution
+de la masse maigre et une augmentation de la masse grasse. Les données épidémiologiques montrent
+une surmortalité en dessous de 22 d’IMC dans la population âgée.
+Par ailleurs, la réduction de la force musculaire seule (sarcopénie probable selon les critères
+EWGSOP23
+), fréquente dans la population âgée, peut traduire les effets de pathologies diverses (arthrose, maladie de Parkinson…), indépendamment du statut nutritionnel. Pour évaluer le statut nutritionnel, il est donc nécessaire d’associer à la diminution de la force une diminution de la masse
+musculaire (sarcopénie confirmée) chez les sujets âgés.
+Ce critère de sarcopénie confirmée est particulièrement important lorsque la dénutrition est suspectée
+mais n’est pas confirmée par une perte de poids ou un IMC < 22.
+Ceci justifie que les critères de dénutrition soient adaptés aux personnes âgées .
+Les critères phénotypiques qui diffèrent de l’adulte jeune (HAS 2019) sont donc :
+‒ IMC < 22 ;
+‒ sarcopénie confirmée.
+Les seuils de pourcentage de perte de poids constituant un critère phénotypique sont identiques à
+ceux retenus chez l’adulte jeune.
+Le Mini Nutritional Assessment® est un outil de repérage de risque de dénutrition mais ne constitue
+plus un critère de diagnostic de dénutrition.
+Lorsque le diagnostic de dénutrition est établi, il est recommandé d’en évaluer la sévérité.
+La sévérité de la dénutrition est établie selon les seuils d’IMC ou de pourcentage de perte de poids ou
+d’albuminémie. L’hypoalbuminémie n’est pas un critère de diagnostic de la dénutrition, mais un critère
+de sévérité. La valeur pronostique de l’albumine ne dépend pas de l’existence d’un syndrome inflammatoire.
+Les personnes âgées âgés en situation d’obésité (IMC ≥ 30) peuvent être dénutris. Les critères de
+dénutrition sont les mêmes que chez les personnes âgées âgés non en situation d’obésité, à l’exception du seuil d’IMC.
+3 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322506/
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 8
+1. Définition de la dénutrition
+Il est recommandé de retenir la définition suivante de la dénutrition : la dénutrition représente l’état
+d’un organisme en déséquilibre nutritionnel. Le déséquilibre nutritionnel est caractérisé par un bilan
+énergétique et/ou protéique négatif.
+La dénutrition peut être liée à un ou à une association des facteurs suivants :
+‒ un déficit d’apport protéino-énergétique ;
+‒ une augmentation des dépenses énergétiques totales ;
+‒ une augmentation des pertes énergétiques et/ou protéiques.
+Le déséquilibre inhérent à la dénutrition conduit à des effets délétères sur les tissus avec des changements mesurables des fonctions corporelles et/ou de la composition corporelle, associés à une aggravation du pronostic des maladies, à une diminution de la qualité de vie et, plus particulièrement chez
+les personnes âgées, à une augmentation du risque de dépendance. Il s’installe une spirale délétère
+entre les causes et les conséquences de la dénutrition.
+La dénutrition partage des critères diagnostiques avec la fragilité, la sarcopénie et la cachexie. L’identification d’une de ces situations doit conduire à rechercher une dénutrition.
+Les carences en micronutriments sont souvent associées à la dénutrition, mais ne seront pas abordées
+dans ces recommandations.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 9
+2. Diagnostic de la dénutrition chez la
+personne âgée de 70 ans et plus
+2.1. Diagnostic de la dénutrition
+Le diagnostic de dénutrition nécessite la présence d’au moins : 1 critère phénotypique et 1 critère
+étiologique. Ce diagnostic est un préalable obligatoire avant de juger de sa sévérité. Les critères
+phénotypiques reposent exclusivement sur des critères non biologiques.
+Les critères phénotypiques sont les suivants (1 seul critère suffit) :
+‒ perte de poids ≥ 5 % en 1 mois ou ≥ 10 % en 6 mois ou ≥ 10 % par rapport au poids habituel
+avant le début de la maladie ;
+‒ IMC < 22 kg/m² ;
+‒ sarcopénie confirmée*.
+* Plusieurs définitions de la sarcopénie ont été proposées4
+. Les critères proposés sont ceux de l’EWGSOP 2 (European Working
+Group on Sarcopenia in Older People 2) de 20195
+.
+Consensus européen (EWGSOP 2019) définissant la sarcopénie confirmée comme l’association d’une
+réduction de la force et de la masse musculaire.
+Femme Homme
+Réduction de la force musculaire (au moins 1 critère)
+ 5 levers de chaise en secondes > 15
+ Force de préhension (dynamomètre) en kg < 16 < 27
+ET réduction de la masse musculaire (au moins 1 critère)*
+ Masse musculaire appendiculaire en kg < 15 < 20
+ Index de masse musculaire appendiculaire en kg/m² < 5,5 < 7
+* Les outils les plus fréquemment utilisés dans la littérature pour estimer la réduction de la masse
+musculaire sont la DEXA et l’impédancemétrie. D’autres techniques sont validées pour mesurer la
+masse musculaire (tels le scanner, l’IRM ou l’échographie musculaire), mais les seuils restent à définir
+dans la population âgée. Concernant l’anthropométrie, un tour de mollet < 31 cm est proposé.
+4 Rolland Y, Vellas B. Sarcopénie : épidémiologie, causes et conséquences. Dans: Hébuterne H, Alix E, Raynaud-Simon A, Vellas
+B, ed. Traité de nutrition de la personne âgée. Paris: SFNEP Springer; 2009. p. 175-87.
+5 Cruz-Jentoft AJ, Bahat G, Bauer J, Boirie Y, Bruyère O, Ceder-holm T, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age Ageing 2019;48:601.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 10
+Pour calculer l’IMC, le poids et la taille doivent être mesurés. La taille doit être mesurée en priorité par
+toise. En cas d’incapacité à tenir debout, il est recommandé d’utiliser la formule de Chumlea (taille du
+corps entier extrapolée à partir de la distance talon-genou).
+Femme : taille (cm) = 84,88 – 0,24 x âge (années) + 1,83 x taille de la jambe (cm).
+Homme : taille (cm) = 64,19 – 0,04 x âge (années) + 2,03 x taille de la jambe (cm)
+Les critères étiologiques sont les suivants (1 seul critère suffit) :
+‒ réduction de la prise alimentaire ≥ 50 % pendant plus d’1 semaine, ou toute réduction des apports pendant plus de 2 semaines par rapport :
+• à la consommation alimentaire habituelle,
+• ou aux besoins protéino-énergétiques ;
+‒ absorption réduite (malabsorption/maldigestion) ;
+‒ situation pathologique (avec ou sans syndrome inflammatoire) :
+• pathologie aiguë,
+• ou pathologie chronique,
+• ou pathologie maligne évolutive.
+Si, au cours du suivi, il y a une disparition du critère étiologique (reprise de l’alimentation, guérison
+d’une maladie), le diagnostic de dénutrition persiste tant que persiste le critère phénotypique.
+La dénutrition étant le plus souvent multifactorielle chez le sujet âgé, il est nécessaire, une fois le
+diagnostic de dénutrition porté, de réaliser un bilan étiologique complet à la recherche d’autres critères
+étiologiques, orienté par l’interrogatoire et l’examen clinique.
+2.2. Diagnostic de la dénutrition sévère
+Lorsque le diagnostic de dénutrition est établi, il est recommandé de déterminer la présence de critères
+de sévérité.
+Les critères de dénutrition sévère sont les suivants (1 seul critère suffit) :
+‒ IMC < 20 kg/m² ;
+‒ perte de poids :
+• ≥ 10 % en 1 mois,
+• ou ≥ 15 % en 6 mois,
+• ou ≥ 15 % par rapport au poids habituel avant le début de la maladie ;
+‒ albuminémie ≤ 30 g/L*.
+* Les méthodes fiables de mesure sont l’immunonéphélémétrie ou immunoturbidimétrie. L’estimation
+de l’albuminémie à partir de l’électrophorèse des protéines ne doit pas être utilisée.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 11
+2.3. Surveillance de l’état nutritionnel
+La surveillance nutritionnelle des personnes âgées implique :
+‒ le patient lui-même ;
+‒ les proches aidants ;
+‒ tous les professionnels de santé ;
+‒ tous les professionnels du secteur médico-social concernés par la nutrition ou susceptibles de
+s’occuper des personnes âgées.
+Quel que soit leur statut nutritionnel, la surveillance repose sur :
+‒ la mesure du poids ;
+‒ le calcul de l’IMC ;
+‒ l’évaluation de l’appétit ;
+‒ l’évaluation de la consommation alimentaire ;
+‒ la force musculaire.
+Il est recommandé que la mesure du poids soit toujours faite sur le même dispositif de pesée.
+Il est recommandé que l’appétit et la consommation alimentaire soient estimés :
+‒ par une échelle visuelle analogique ou verbale ;
+‒ par une échelle semi-quantitative (portions) ;
+‒ au mieux calculés par un diététicien.
+Il est recommandé de surveiller la force musculaire par mesure de la force de préhension ou test du
+lever de chaise.
+Il est recommandé de surveiller de manière régulière l’état bucco-dentaire, les capacités de mastication
+et de déglutition.
+Quel que soit le statut nutritionnel, Il est recommandé d’en surveiller l’évolution :
+‒ en ville : 1 fois par mois à domicile et à chaque consultation ;
+‒ à l’hôpital MCO et SSR : à l’entrée, puis au moins une fois par semaine, et à la sortie ;
+‒ en EHPAD et USLD : à l’entrée, puis au moins une fois par mois, et à la sortie.
+En cas d’évènement clinique intercurrent (infection, chirurgie…) ou de diminution de l’appétit ou des
+consommations alimentaires, il est recommandé de rapprocher la surveillance nutritionnelle à au moins
+une fois par semaine (poids, appétit et consommations alimentaires) en ville, en USLD ou en EHPAD.
+Il est recommandé de noter le poids mesuré (carnet de santé, dossier médical personnel, compte
+rendu, réunion de concertation pluridisciplinaire, courriers aux correspondants, outils numériques), ce
+qui permet de tracer une cinétique des paramètres de dénutrition (courbe de poids). Il est recommandé
+de faire figurer le poids d’entrée, le poids de sortie et, le cas échéant, le diagnostic de dénutrition et sa
+sévérité dans le compte rendu d’hospitalisation.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 12
+3. Cas particulier de la dénutrition chez la
+personne âgée de 70 ans et plus en
+situation d’obésité
+Un personne âgée en situation d’obésité peut être dénutri. Le diagnostic repose sur l’association d’1
+critère phénotypique et d’1 critère étiologique.
+Pour faire le diagnostic de dénutrition chez la personne âgée en situation d’obésité, il est recommandé
+d’utiliser les critères phénotypiques suivants (1 seul critère suffit) :
+‒ perte de poids ≥ 5 % en 1 mois ou ≥ 10 % en 6 mois ou ≥ 10 % par rapport au poids habituel
+avant le début de la maladie* ;
+‒ sarcopénie confirmée**.
+* En présence d’un critère étiologique, une telle perte de poids, qu’elle soit volontaire, à visée thérapeutique ou involontaire, est un critère phénotypique de dénutrition. Ce risque est plus élevé chez la
+personne âgée que chez l’adulte jeune. En cas de perte de poids à visée thérapeutique, l’évaluation
+individualisée de la balance bénéfice/risque est particulièrement importante.
+** À défaut de critères de sarcopénie définis spécifiquement chez la personne âgée en situation d’obésité, il est recommandé d’utiliser les critères de sarcopénie de l’EWGSOP2.
+Lorsque le diagnostic de dénutrition est établi, il est recommandé de déterminer la présence de critères
+de sévérité. Les critères de dénutrition sévère sont les suivants (1 seul critère suffit) :
+‒ perte de poids :
+‒ ≥ 10 % en 1 mois,
+‒ ou ≥ 15 % en 6 mois,
+‒ ou ≥ 15 % par rapport au poids habituel avant le début de la maladie ;
+‒ albuminémie ≤ 30 g/L*.
+* Les méthodes fiables de mesure sont l’immunonéphélémétrie ou immunoturbidimétrie.
+L’estimation de l’albuminémie à partir de l’électrophorèse des protéines ne doit pas être utilisée.
+La surveillance de l’état nutritionnel des personnes âgées en situation d’obésité est identique à celle
+des personnes âgées non en situation d’obésité et doit donc être régulière en ville, à l’hôpital et en
+EHPAD/USLD.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 13
+Table des annexes
+Annexe 1. Critères diagnostiques de dénutrition et modalités de surveillance nutritionnelle chez
+la personne âgée de 70 ans et plus 14
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 14
+Annexe 1. Critères diagnostiques de dénutrition et modalités de surveillance
+nutritionnelle chez la personne âgée de 70 ans et plus
+ Diagnostic de dénutrition
+≥ 1 critère phénotypique ≥ 1 critère étiologique Sévérité
+Perte de poids :
+‒ ≥ 5 % en 1 mois
+‒ ou ≥ 10 % en 6 mois
+‒ ou ≥ 10 % par rapport au poids habituel avant le début de
+la maladie
+Réduction de la prise alimentaire ≥
+50 % pendant plus d’1 semaine,
+ou toute réduction des apports
+pendant plus de 2 semaines par
+rapport :
+‒ à la consommation alimentaire habituelle
+‒ ou aux besoins protéinoénergétiques
+Perte de poids :
+‒ ≥ 10 % en 1 mois
+‒ ou ≥ 15 % en 6
+mois
+‒ ou ≥ 15 % par rapport au poids habituel avant le début
+de la maladie
+IMC < 22 kg/m² Absorption réduite (malabsorption/maldigestion)
+IMC < 20 kg/m²
+Sarcopénie confirmée Situation d’agression (avec ou
+sans syndrome inflammatoire) :
+‒ pathologie aiguë
+‒ ou pathologie chronique
+‒ ou pathologie maligne évolutive
+Albuminémie ≤ 30 g/L
+ Surveillance du statut nutritionnel
+ Paramètres Fréquence
+‒ la mesure du poids
+‒ le calcul de l’IMC
+‒ l’évaluation de l’appétit
+‒ l’évaluation de la consommation alimentaire
+‒ la force musculaire
+‒ en ville : 1 fois par mois à domicile et à
+chaque consultation
+‒ à l’hôpital MCO et SSR : à l’entrée,
+puis au moins une fois par semaine
+‒ en EHPAD et USLD : à l’entrée, puis
+au moins une fois par mois
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 15
+Participants
+Les organismes professionnels et associations de patients et d’usagers suivants ont été sollicités pour
+proposer des experts conviés à titre individuel dans les groupes de travail/lecture :
+CNP d’endocrinologie, diabétologie, nutrition
+Conseil national professionnel de gériatrie
+Conseil national professionnel de pneumologie *
+Conseil national professionnel d’oncologie
+Conseil national professionnel d’hépato-gastro-entérologie (CNP HGE)
+Conseil national professionnel de biologie médicale
+Collège infirmier français (CIF)
+Conseil national professionnel infirmier (CNPI)
+Conseil national professionnel des infirmier(e)s-anesthésistes (CNPIA)
+Conseil national professionnel des infirmier(e)s en pratique avancée (CNP IPA)*
+Société francophone nutrition clinique et métabolisme (SFNCM)*
+Société française de nutrition (SFN)
+Société française de gériatrie et de gérontologie (SFGG)*
+Association française des diététiciens nutritionnistes (AFDN)*
+Société de réanimation de langue française (SRLF)
+Fédération française de pneumologie (FFP)
+Société française de médecine physique et de réadaptation (SOFMER)*
+Société francophone de néphrologie, dialyse et transplantation*
+Société nationale française de médecine interne (SFNMI)*
+Collège de la médecine générale (CMG)*
+Société francophone d’onco-gériatrie (SOFOG)*
+Société française du cancer (SFC)
+(*) Cet organisme a proposé un ou plusieurs experts pour ce projet.
+Groupe de travail
+Pr Agathe Raynaud-Simon, gériatre nutritionniste, présidente FFN, Paris
+Pr Jacques Delarue, nutritionniste, vice-président FFN, Brest
+Pr Éric Fontaine, nutritionniste, membre de la FFN, La Tronche
+Pr Jean-Claude Desport, chargé de projet, nutritionniste, Limoges
+Dr Clément Lahaye, chargé de projet, gériatre interniste nutritionniste, Clermont-Ferrand
+Dr Manuel Sanchez, chargé de projet, gériatre endocrinologue nutritionniste, Paris
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 16
+M. Alexandre Pitard, chef de projet HAS, Saint-Denis
+Dr Guillaume André, pharmacien, La Roche-sur-Yon
+Dr Joseph John Baranes, chirurgien-dentiste, Paris
+Dr Boulahssass Rabia, gériatre, Nice
+Pr Frédéric Costes, médecin généraliste physiologie respiratoire, Clermont-Ferrand
+Dr Anne Galinier, médecin biologiste nutritionniste, Toulouse
+Pr Pierre Jésus, nutritionniste, Limoges
+Mme Claudie Kulak, directrice association « La compagnie
+des aidants », Ivry-sur-Seine
+Dr Martine Le Noc Soudani, gériatre, Paris
+Mme Émilie Lecoq, infirmière, Clichy
+Dr Élisabeth Ohayon, médecin généraliste nutritionniste, Paris
+Pr Didier Quilliot, gastro-entérologue nutritionniste, Vandœuvre-lès-Nancy
+Dr Bruno Raynard, gastro-entérologue nutritionniste, Villejuif
+Pr Yves Rolland, gériatre, Toulouse
+Mme Florence Rossi-Pacini, diététicienne, Marseille
+Mme Marie-France Vaillant, diététicienne nutritionniste, Grenoble
+Pr François Vrtovsnik, néphrologue urologue, Paris
+Groupe de lecture
+Dr Lilian Alix, médecin interniste, Rennes
+Pr Emmanuel Andrès, médecin interniste, Strasbourg
+Dr Vincent Attalin, nutritionniste, Montpellier
+Dr Isabelle Aubin-Auger, médecin généraliste, Soisy-sousMontmorency
+Dr Ivan Bertchansky, médecin interniste, Montpellier
+Pr Yves Boirie, médecin endocrinologie et métabolismes,
+Clermont-Ferrand
+Pr Marc Bonnefoy, gériatre et coordonnateur du groupe « experts nutrition » auprès de la SFGG, Lyon
+Pr Isabelle Bourdel-Marchasson, gériatre, Bordeaux
+Pr Olivier Bruyère, épidémiologiste, Liège
+Dr Caroline Camaré, médecin généraliste et biochimiste de
+la nutrition, Toulouse
+Dr Philippe Chauveau, néphrologue, Bordeaux
+Dr Cécile de Rouvray, médecin nutritionniste, Limoges
+Dr Claire Delleci, médecin physique et de réadaptation, Bordeaux
+Mme Camille Denon, IPA pathologies chroniques stabilisées,
+Saint-Brieuc
+Dr Édouard Desvaux, interniste spécialisé en gériatrie, Limoges
+Mme Sandrine Di Donato, diététicienne nutritionniste, Paris
+Pr Paolo Di Patrizio, médecin généraliste, Nancy
+Dr Philippe Fayemendy, nutritionniste, Limoges
+Mme Pascale Gossin-Veilleux, cadre supérieur de santé diététicienne, Marseille
+M. Ghislain Grodard-Humbert, diététicien nutritionniste, Besançon
+Dr Florent Guerville, gériatre, néphrologue, Bordeaux
+Mme Pascale Guégan, diététicienne nutritionniste, Paris
+Dr Adam Jirka, nutritionniste, Nantes
+Dr Jean Khémis, médecin nutritionniste, Beauvais
+Dr Laetitia Koppe, néphrologue, Lyon
+Dr Christophe Leroyer, pneumologue, Brest
+Dr Évelyne Liuu, gériatre, Poitiers
+Dr Aurélie Malgras, nutritionniste, Nancy
+Dr Marie Mathieu, gériatre, Nantes
+Dr Étienne Ojardias, médecin physique et de réadaptation,
+Saint-Étienne
+Pr Marie-Astrid Piquet, gastro-entérologue et nutritionniste,
+Caen
+M. Florian Piran, diététicien, Strasbourg
+Dr Sadjad Rafi, médecin généraliste, Champigny-sur-Marne
+Mme Loriane Saliège, infirmière en Pratique Avancée pathologies chroniques, Nîmes
+Pr Stéphane Schneider, gastro-entérologue et nutritionniste,
+Nice
+M. Damien Sczepanek, diététicien, Paris
+Mme Gaëlle Soriano, diététicienne-nutritionniste, Toulouse
+Dr Fabienne Tamion, anesthésiste, Rouen
+Dr Mélissa Tholomier, médecin généraliste, Arcueil
+Dr Guillaume Ulmann, pharmacien biologiste, Paris
+Mme Aurore Valenti-Fredon, diététicienne en gérontologie,
+Libourne
+Dr Damien Vansteene, oncologue médical, Saint-Herblain
+Mme Charlène Vieau, diététicienne, La Tronche
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 17
+Dr Hélène Vincent, onco-gériatre, Villejuif
+Remerciements
+La HAS tient à remercier l’ensemble des participants cités ci-dessus.
+HAS • Diagnostic de la dénutrition chez la personne de 70 ans et plus • novembre 2021 18
+Abréviations et acronymes
+EHPAD Établissement d’hébergement pour personnes âgées dépendantes
+EWGSOP European working group on sarcopenia in older people
+HAS Haute Autorité de santé
+FFN Fédération française de nutrition
+IMC Indice de masse corporelle
+MCO Médecine chirurgie obstétrique
+SSR Soins de suite et de réadaptation
+USLD Unité de soins de longue durée
+Retrouvez tous nos travaux sur
+www.has
+-sante.fr
+Développer la qualité dans le champ
+sanitaire, social et médico
+-social
+© Haute Autorité de santé – novembre 2021 
+
+1. BILAN DE SUIVI D’UNE CIRRHOSE NON COMPLIQUEE
+Surveillance des malades atteints de cirrhose non compliquée
+(patients de classe A du score de Child-Pugh)
+et prévention primaire des complications
+Septembre 2007
+OBJECTIF
+Diminuer la morbi-mortalité associée à la cirrhose par une surveillance régulière et la
+prévention primaire des complications quelle que soit la cause de l’hépatopathie.
+Encadré 1. Bilan de suivi d'une cirrhose non compliquée et fréquence
+des examens.
+Type d’examens Fréquence Commentaires
+- Bilirubine totale et
+activité des ASAT, ALAT
+et γGT
+- TP, albumine
+- NFS-plaquettes
+- Créatinine
+- Glucose à jeun
+annuel
+Examens
+biologiques
+alpha-fœtoprotéine semestriel
+Attention particulière
+à une augmentation
+de la bilirubine et
+une diminution du
+TP (aggravation de
+l’insuffisance
+hépatique)
+Échographie abdominale
+couplée au Doppler
+effectuée par un opérateur
+expérimenté
+semestriel Cf. Exemple de
+compte-rendu (a)
+Examens
+morphologiques Endoscopie œso-gastroduodénale
+- tous les 2 à 3
+ans en l’absence
+de VO
+- tous les 1 à 2 ans
+en cas de VO de
+stade 1
+Cf. Exemple de
+compte-rendu (b)
+(a) en annexe 3 du texte des recommandations ; (b) en annexe 4 du texte des recommandations.
+ASAT : aspartate-aminotransférase ; ALAT : alanine-aminotransférase ; γGT : gamma glutamyle transférase ;
+TP : taux de prothrombine ; VO : varices œsophagiennes ; NFS : numération formule sanguine.
+ Réévaluer périodiquement le score de Child-Pugh 1.
+
+1
+Cf. Haute Autorité de santé. Critères diagnostiques et bilan initial de la cirrhose non compliquée.
+Recommandations professionnelles. Saint-Denis La Plaine: HAS; 2006.
+SYNTHESE DES RECOMMANDATIONS PROFESSIONNELLES
+ Planifier la surveillance de la cirrhose par la collaboration entre le médecin
+généraliste et le médecin spécialiste (hépato-gastro-entérologue).
+ Traiter la cause de la cirrhose et prendre en charge les facteurs aggravants
+(consommation d’alcool, surpoids, diabète, poursuite de la consommation de
+drogues par voie veineuse)
+ Prévenir le risque d’hémorragie digestive en cas de varices œsophagiennes de
+moyenne ou grosse taille (dites de stade 2 ou 3) détectées à l’endoscopie, par l’une
+des 2 méthodes suivantes:
+ Administration de bêtabloquants non cardiosélectifs (propranolol 160 mg/jour,
+nadolol 80 mg/jour ; posologie à adapter en fonction de la tolérance), maintenue
+à vie, sans contrôle endoscopique ultérieur systématique
+ ligature endoscopique, avec contrôle endoscopique, notamment en cas
+d’intolérance ou de contre-indications aux bêtabloquants
+ Orienter vers une consultation spécialisée en cas de lésions focales hépatiques
+(nodules et autres lésions quel que soit leur aspect) détectées à l’échographie ou
+d’une augmentation substantielle du taux sérique d'alpha-fœtoprotéine (même en
+l'absence d'image focale à l'échographie)
+ Prévenir les infections bactériennes par des mesures d’hygiène au quotidien, des
+soins bucco-dentaires et cutanés, limiter tout geste invasif, et traiter très rapidement
+toute infection bactérienne 2, car elles peuvent provoquer la décompensation de la
+cirrhose
+ Vacciner précocement contre les virus de l’hépatite A (vérifier l’absence
+d’immunité par une recherche préalable d’IgG anti-VHA), de l’hépatite B, de la
+grippe et contre le pneumocoque
+ Accompagner le patient et son entourage par le biais des réseaux de soins ou de
+contact avec les associations de malades (soutien médical, psychologique et social,
+informations concernant les complications, repérage et prise en charge des usages
+abusifs avec ou sans dépendance)
+
+2
+Cf. Haute Autorité de santé. Prise en charge des complications chez les malades atteints de cirrhose.
+Recommandations professionnelles. Saint-Denis La Plaine: HAS; 2007.
+2. PRÉVENTION PRIMAIRE DES COMPLICATIONS CHEZ TOUT
+PATIENT ATTEINT DE CIRRHOSE NON COMPLIQUÉE
+ Adapter la posologie de certains médicaments en raison d’une diminution du
+métabolisme hépatique et/ou d’une susceptibilité accrue (cf. Encadré 2) ; en cas de
+signes d’hypertension portale, ne pas prescrire certains médicaments, si ce n’est au
+regard du bénéfice/risque pour le patient (cf. Encadré 3)
+ Envisager de manière élective tout acte chirurgical chez un malade atteint de
+cirrhose hors situation d’urgence ; informer le chirurgien, l’anesthésiste, et
+demander un avis hépatologique afin d’optimiser la prise en charge pré et
+postopératoire
+ Réaliser une ostéodensitométrie en présence d’un facteur de risque osseux afin de
+traiter le cas échéant, en fonction de l’âge, l’existence de fractures par fragilité, les
+résultats de l’ostéodensitométrie et les facteurs de risque de fracture associés,
+selon la stratégie de décision proposée par l’Afssaps 3
+
+Encadré 2. Adapter la posologie des médicaments (a) suivants chez le
+patient cirrhotique (liste non exhaustive).
+Anti-inflammatoires non stéroïdiens
+Antidépresseurs tricycliques
+Antivitamines K
+Antirétroviraux (b)
+Barbituriques
+Benzodiazépines (c)
+Carbamates
+Clindamycine
+Cyclines
+Flécaïnide
+Inhibiteurs de l'enzyme de
+conversion
+Isoniazide
+Lincomycine
+Métronidazole
+Péfloxacine
+Pyrazinamide
+Rifampicine
+Sulfamides
+Théophylline
+(a) Conformément au résumé des caractéristiques du produit ; (b) Chez les patients atteints de cirrhose virale B
+ou C : Cf. Yeni P. Prise en charge médicale des personnes infectées par le VIH. Rapport 2006.
+Recommandations du groupe d'experts. Paris: Flammarion Médecine-Sciences; 2006 ; (c) L’utilisation de
+composés conjugués (oxazépam, lorazépam) est à privilégier.
+
+3
+Cf. Agence française de sécurité sanitaire des produits de santé. Traitement médicamenteux de
+l'ostéoporose postménopausique. Actualisation 2006. Saint-Denis: AFSSAPS; 2006.
+3. SURVEILLANCE PARTICULIÈRE À ADAPTER EN FONCTION DU
+PATIENT
+Encadré 3. Ne pas prescrire les médicaments (a) suivants en cas de
+cirrhose sévère (classes B et C du score de Child-Pugh) (liste non
+exhaustive).
+Neurosédatifs et psychotropes (b)
+Aminosides
+Anti-inflammatoires non stéroïdiens
+Antirétroviraux (c)
+Antivitamines K
+Ergotamine
+Inhibiteurs de l'enzyme de
+conversion
+Tétracyclines et dérivés
+(a) Conformément au résumé des caractéristiques du produit ; (b) Antiémétiques centraux compris ; (c) Chez les
+patients atteints de cirrhose virale B ou C : Cf. Yeni P. Prise en charge médicale des personnes infectées par
+le VIH. Rapport 2006. Recommandations du groupe d'experts. Paris : Flammarion Médecine-Sciences; 2006.
+Ce document présente les points essentiels des recommandations professionnelles :
+« Surveillance des malades atteints de cirrhose non compliquée (patients de classe A du score de Child-Pugh) et
+prévention primaire des complications » – Recommandation pour la pratique clinique – septembre 2007).
+Ces recommandations et l’argumentaire sont consultables dans leur intégralité
+sur www.has-sante.fr
+© Haute Autorité de Santé – 2006 – Imprimé par IME – FS (Copyright – 9pts) 
+
+Synthèse à destination du
+médecin traitant
+Février 2021
+Centre de référence des Maladies héréditaires du métabolisme
+Extraite du Protocole National de Diagnostic et de Soins (PNDS)
+Glycogénose de Type III
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+2
+Sommaire
+Synthèse à destination du médecin traitant................................................................3
+1. Introduction ..........................................................................................................3
+2. Clinique.................................................................................................................3
+3. Paraclinique..........................................................................................................3
+4. Confirmation diagnostique..................................................................................3
+5. Évolution et complications..................................................................................4
+6. Prise en charge ....................................................................................................4
+7. Prise en charge en urgence.................................................................................6
+8. Situations particulières........................................................................................6
+9. Suivi des patients.................................................................................................7
+10. Conseil génétique ................................................................................................7
+11. Informations et contacts utiles............................................................................7
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+3
+Synthèse à destination du médecin traitant
+1. Introduction
+La glycogénose de type III (GSD III pour Glycogen Storage Disease Type III) est une maladie
+héréditaire du métabolisme du glycogène caractérisée par une accumulation intracellulaire
+d’un glycogène de structure anormale, par déficit de l’enzyme débranchante. Ceci entraîne un
+défaut de libération du glucose à partir du glycogène du foie et parfois du muscle sans
+anomalie de la néoglucogenèse. La glycogénose de type III est une maladie autosomique
+récessive rare. Sa prévalence est estimée à une naissance sur 100 000.
+2. Clinique
+Les premières manifestations cliniques apparaissent dans les premiers mois de vie avec une
+hépatomégalie et des hypoglycémies de jeûne court sans hyperlactatémie ainsi qu’un retard
+de croissance staturopondérale. Ces symptômes métaboliques auront tendance à s’améliorer
+avec l’âge.
+Certains patients développent une atteinte musculaire, qui peut se manifester par une
+fatigabilité anormale dès l’enfance et évoluer dans certains cas vers une faiblesse musculaire,
+dont le retentissement sur la vie quotidienne est variable mais peut aller jusqu’à une myopathie
+invalidante (avec marche autonome impossible). Souvent, les patients présentent une
+faiblesse musculaire proximale, une dextérité manuelle altérée avec un manque de précision
+calligraphique, une force de préhension diminuée (avec amyotrophie des mains chez les
+patients sévères). A noter que les patients se plaignent plus rarement de douleurs importantes
+lors des efforts, et ne présentent jamais de rhabdomyolyse aigüe.
+Une atteinte cardiaque, principalement à type de cardiomyopathie hypertrophique, d’intensité
+variable et d’évolution difficile à prévoir, peut être présente, y compris dès la petite enfance.
+Des troubles du rythme peuvent également être observés.
+3. Paraclinique
+Les patients présentent des hypoglycémies de jeûne plutôt court accompagnées d’une cétose
+et d’une hypolactacidémie. On note également une hypertriglycéridémie, une augmentation
+des transaminases (qui sont habituellement relativement élevées durant la première décennie
+de vie et décroissent ultérieurement), et une élévation des CPK parfois même chez des
+malades sans manifestation musculaire clinique initialement.
+L’échographie abdominale retrouve une hépatomégalie hyperéchogène.
+L’atteinte cardiaque (hypertrophie ventriculaire gauche) sera visible en échographie et sur
+l’ECG.
+4. Confirmation diagnostique
+Le diagnostic de la GSD III sera initialement suspecté devant l’association de symptômes
+cliniques et de résultats biologiques simples, facilement réalisables en routine. La confirmation
+biologique du diagnostic reposera ensuite sur deux approches complémentaires 9 pouvant
+être réalisées de manière séquentielle, concomitante ou dissociée. Cette confirmation sera
+généralement réalisée par un centre référent. La première approche est biochimique et repose
+sur la mesure de l’activité de l’enzym1.
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+4
+Kishnani PS, Austin SL, Arn P, Bali DS, Boney A, Case LE, et al. Glycogen Storage Disease
+Type III diagnosis and management guidelines. Genet Med. 2010 Jul;12(7):446–63.
+2. Dagli A, Sentner CP, Weinstein DA. Glycogen Storage Disease Type III. In: Adam MP,
+Ardinger HH, Pagon RA, Wallace SE, Bean LJ, Stephens K, et al., editors. GeneReviews®
+[Internet]. Seattle (WA): University of Washington, Seattle; 1993 [cited 2020 Apr 17]. Available
+from: http://www.ncbi.nlm.nih.gov/books/NBK26372/
+3. Krahn M, Biancalana V, Cerino M, Perrin A, Michel-Calemard L, Nectoux J, et al. A National
+French consensus on gene lists for the diagnosis of myopathies using next-generation
+sequencing. Eur J Hum Genet EJHG. 2019;27(3):349–52.
+4. ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories.
+ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002 Jul
+1;166(1):111–7.
+e débranchante (amylo-1,6-glucosidase) dans les leucocytes le plus souvent. La deuxième
+approche est moléculaire et peut être réalisée d’emblée (suite aux explorations fonctionnelles
+ou en présence d’un antécédent familial) ou en confirmation d’un résultat biochimique anormal.
+Les biopsies musculaires ou hépatiques ne sont plus réalisées à visée diagnostique.
+Les principaux diagnostics différentiels sont les autres glycogénoses hépatiques : type I, VI ou
+IX (voir Annexe 7).
+5. Évolution et complications
+Sur le plan hépatique, la tolérance au jeûne s’améliore avec l’âge. Cependant, l’évolution
+cirrhogène est possible (environ 15 % des patients). La cirrhose peut se compliquer
+d’hypertension portale, d’insuffisance hépatique terminale, voire d’hépato-carcinome. La
+survenue d’adénomes hépatiques est également possible.
+Sur le plan musculaire, certains patients présenteront des symptômes de sévérité variable à
+l’âge adulte, mais pouvant conduire parfois à une faiblesse musculaire permanente
+invalidante.
+Sur le plan endocrinien, les enfants présentent un retard de croissance staturo-pondérale qu’ils
+rattraperont la plupart du temps pour atteindre une taille normale à l’âge adulte. Le surpoids
+n’est pas rare (environ 25% des patients), de même que le diabète de type 2. Enfin, les
+patientes présentent souvent un syndrome des ovaires polykystiques, toutefois sans
+retentissement jusqu’ici mis en évidence sur la fertilité à l’âge adulte.
+Sur le plan osseux, l’ostéopénie, voire l’ostéoporose sont fréquentes et résultent de l’addition
+de plusieurs facteurs tels que la myopathie, le déséquilibre métabolique (notamment
+l’hypercholestérolémie et l’hypertriglycéridémie), et éventuellement l’existence d’une cétose
+chronique en cas d’hypoglycémies récurrentes.
+Sur le plan cardiaque, l’atteinte est souvent relativement stable, voire régressive dans certains
+cas après traitement approprié.
+6. Prise en charge
+La prise en charge diététique est prépondérante dans le traitement de ces patients, avec
+application d’un régime spécifique à des horaires de repas stricts. L’objectif du traitement
+diététique dans l’enfance est de prévenir les hypoglycémies et assurer un équilibre
+métabolique permettant une croissance staturo-pondérale satisfaisante. Les glycémies
+doivent systématiquement être supérieures à 0,50 g/L (2,8 mmol/L) et pour un équilibre
+métabolique optimal, elles doivent être comprises entre 0,60 g/L (3,3 mmol/L) et 1.2 g /L (6.6
+mmol/L). Pour répondre à ces objectifs, le régime dans l’enfance est à tendance
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+5
+hyperglucidique, avec prise d’amidons cuits et crus (Maïzena® ou Glycosade®), sauf en cas
+d’atteinte cardiaque (cf prise en charge cardiaque).
+• Le fractionnement des prises alimentaires est établi à des horaires définis en fonction
+de la tolérance au jeûne, pendant le nycthémère. Il tient compte également du rythme
+de vie de la famille. En pratique, les patients auront entre 6 à 4 prises alimentaires
+régulières pendant la journée, toutes les 3 à 4 heures. La nuit, une nutrition entérale à
+débit constant (NEDC) pourra être nécessaire pendant l’enfance, remplacée par une
+ou deux collations à l’âge adulte (généralement vers 23h-minuit puis en tout début de
+matinée).
+• L’équilibre entre les nutriments est modifié par rapport aux recommandations de la
+population générale. Il est adapté en fonction des tranches d’âge et de l’histoire
+naturelle de la GSD III : à tendance hyperglucidique pendant la petite enfance pour
+prévenir l’hypoglycémie, l’alimentation évolue progressivement vers des apports
+hyperprotéiques, à partir de l’âge d’un an. Les apports en protéines sont augmentés
+au détriment des glucides, afin de favoriser la voie de la néoglucogenèse, et de limiter
+le stockage du glycogène, dans le foie et les muscles.
+• Concernant le type d’aliments recommandés, chaque repas doit comporter au
+minimum des aliments riches en glucides complexes (ajout de céréales infantiles sans
+sucres dans les biberons et de pommes de terre dans les purées pendant l’enfance)
+et en protéines de bonne valeur biologique (viandes, poissons, oeufs et tous les dérivés
+du lait). Les aliments riches en saccharose (sucre) doivent être évités au maximum
+pour limiter l’apport énergétique et éviter des pics d’hyperglycémie. Les apports
+protéiques peuvent être complétés par de la poudre de protéines dès l’enfance.
+• Pour les nourrissons, tout type de lait infantile (maternel ou en poudre) convient, mais
+ils seront enrichis en maltodextrine pour augmenter le temps de jeûne. Vers l’âge de 2
+ans, ces laits seront remplacés par du lait de vache ½ écrémé ou entier.
+• L’introduction d’amidon de maïs cru (MaïzenaÒ ou GlycosadeÒ) dans la ration
+intervient vers l’âge de 10 à 12 mois et permet d’augmenter le temps de jeûne. Cette
+introduction est progressive et les quantités sont adaptées à chaque enfant en fonction
+de son poids et de sa tolérance au jeûne (selon l’analyse du cycle glycémique). A partir
+de l’adolescence, les quantités sont diminuées progressivement, pour arriver à
+supprimer l’amidon à l’âge adulte.
+• Le suivi diététique sera donc très régulier surtout chez les enfants et adolescents, et
+se fera systématiquement en centre de référence ou de compétence avec un
+diététicien métabolicien spécialisé. Le régime sera à chaque fois adapté au rythme de
+vie du patient, ainsi qu’à son équilibre glycémique et métabolique. Une éducation
+thérapeutique ciblée et spécifique sera ainsi délivrée au patient à chaque consultation.
+Sur le plan cardiaque, les traitements habituellement utilisés dans l’insuffisance cardiaque
+pourront être indiqués selon l’atteinte du patient. A noter que les béta-bloquants sont à utiliser
+avec précaution du fait du risque d’hypoglycémies. Un défibrillateur implantable pour limiter la
+survenue de troubles du rythme pourra se discuter chez les patients ayant une
+cardiomyopathie hypertrophique sévère. Un régime hyperprotidique, hypoglucidique et normocalorique ainsi que du béta-hydroxy-butyrate de sodium (corps cétoniques de synthèse) seront
+généralement prescrits pour améliorer l’atteinte cardiaque.
+Sur le plan musculaire, la prise en charge dépendra du bilan musculosquelettique. Des
+séances de kinésithérapie travailleront les déficits propres à chaque patient et des exercices
+spécifiques à la pathologie devront être proposés. L’ergothérapie peut s’avérer nécessaire en
+cas de déficits fonctionnels (déficits dans les gestes de motricité fine, adaptation à la conduite
+automobile, positionnement d’un éventuel fauteuil roulant, etc.). Un suivi en médecine
+physique et rééducation pourra être utile (coordination de la rééducation, semelles
+orthopédiques, releveurs de pieds, etc.).
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+6
+Sur le plan hépatique, la transplantation du foie peut s’avérer nécessaire en cas de cirrhose
+décompensée ou d’hépato-carcinome. Elle corrigera les symptômes métaboliques mais n’aura
+en revanche aucun effet sur les atteintes musculaires et cardiaques.
+Une prise en charge psychologique pourra être nécessaire car cette pathologie a fréquemment
+des conséquences sur l’équilibre psychologique et émotionnel des patients. Par ailleurs, des
+difficultés cognitives peuvent exister et un bilan neuropsychologique permettra alors d’orienter
+la prise en charge et les adaptations nécessaires à l’école ou sur le lieu de travail. Comme
+toute maladie chronique débutant dans l’enfance, la transition enfant-adulte doit être préparée
+et faite de la façon la plus sereine possible pour éviter la rupture du suivi et favoriser
+l’observance future des patients adultes.
+Sur le plan médico-social, la GSD III fait partie des maladies métaboliques héréditaires
+nécessitant un traitement prolongé spécialisé de la liste des Affections de Longue Durée (ALD)
+définies par l'article L 324 du Code de la Sécurité Sociale. En fonction de leur degré d’atteinte
+12 musculaire, certains patients adultes peuvent bénéficier d’un statut de travailleur handicapé
+et des prestations qui en découlent. Pour les patients pédiatriques, le lien avec l’école doit être
+fait et un Projet D’Accueil Individualisé (PAI) devra être établi.
+7. Prise en charge en urgence
+Un document personnalisé (ou une prescription) est remis au patient et sa famille avec la carte
+d’urgence suite au diagnostic de la maladie. Ce document comprendra les mesures à
+appliquer en cas d’hypoglycémie (re-sucrage) ou en cas de circonstances à risque
+d’hypoglycémies (hospitalisation et perfusion de soluté glucosé polyionique). Ces mesures
+seront normalement connues par le patient ou sa famille. Toute situation entraînant un jeûne
+plus prolongé que d’habitude ou une prise alimentaire insuffisante doit être considérée comme
+à risque d’hypoglycémie sévère. De même, toute chirurgie ou mise à jeun pré opératoire doit
+être accompagnée d’une perfusion de soluté glucosé polyionique tant que la reprise complète
+du régime habituel n’est pas possible.
+8. Situations particulières
+En raison de leurs interférences avec le métabolisme glucidique et de leur propension à
+favoriser le développement d’adénomes hépatiques ou de rhabdomyolyses, les
+corticostéroides au long cours, l’hormone de croissance et les oestrogènes sont contreindiqués. Les statines sont à éviter mais leur utilisation sera discutée au cas par cas. De plus,
+tous les médicaments pouvant entraîner des hypoglycémies doivent être évités ou du moins
+utilisés avec précaution s’ils s’avèrent indispensables. Aucune vaccination n’est contreindiquée.
+Une contraception par progestatifs seuls est possible, mais peut majorer le risque
+d’ostéopénie. La grossesse est possible chez les patientes atteintes de GSD III. Celle-ci
+modifie l’équilibre métabolique et glycémique et nécessite donc une surveillance plus
+rapprochée des glycémies et une adaptation du schéma nutritionnel. Une consultation préconceptionnelle systématique en centre de référence ou de compétence est recommandée.
+La grossesse peut également accélérer le développement d’adénomes hépatiques qui
+impliquent de ce fait le renforcement de leur surveillance échographique. Une échographie
+cardiaque sera systématique au cours du 2ème trimestre. L’accouchement doit être planifié,
+si possible dans un centre de niveau 3. Une perfusion de sérum glucosé pendant le travail et
+jusqu’à la reprise d’une alimentation normale doit être proposée, pour éviter la survenue
+d’hypoglycémie.
+Tout voyage à l’étranger doit être planifié et préparé en amont avec le centre de référence ou
+de compétence.
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+7
+L’activité physique est possible et recommandée, mais devra être adaptée aux capacités
+musculaires, cardiaques et métaboliques du patient, et sera le plus souvent précédée d’une
+collation à base de lait et d’amidon cru.
+9. Suivi des patients
+Le suivi se fera de façon annuelle à l’âge adulte et tous les 3 à 6 mois chez l’enfant, dans un
+centre référent de la pathologie, par une équipe multidisciplinaire. Chaque consultation sera
+l’occasion d’un entretien médico-diététique et d’un bilan sanguin standard de la maladie. De
+façon annuelle, des examens biologiques et d’imagerie seront également réalisés. Le suivi
+inclura donc une évaluation :
+• Métabolique et diététique, à la fois clinique et biologique,
+• Hépatique, sur le plan biologique et radiologique (dépistage de cirrhose, d’adénomes
+ou d’hépatocarcinome via l’échographie ou l’IRM hépatique).
+• Musculaire, par un neurologue et un kinésithérapeute
+• Cardiaque, avec surveillance échographique, biologique et rythmique (Holter ECG et
+ECG).
+• Osseuse, avec réalisation régulière d’une ostéodensitométrie.
+10. Conseil génétique
+Il s’agit d’une pathologie de transmission autosomique récessive. Un conseil génétique doit
+être proposé au couple après les résultats de l’étude génétique. Les mutations de novo sont
+rares et les parents sont en général porteurs à l’état hétérozygote d’une des 2 mutations
+retrouvées chez leur enfant. Le risque de récurrence est de 25% à chaque grossesse. Lorsque
+les variants pathogènes ont été identifiés et caractérisés chez les parents, un diagnostic
+prénatal sur villosités choriales ou sur liquide amniotique est réalisable.
+11. Informations et contacts utiles
+http://www.filiere-g2m.fr/filiere/acteurs-de-la-filiere/les-centres-de-g2m/
+Maladies héréditaires du métabolisme
+CRMR coordonnateur : Marseille - AP-HM, Hôpital Timone Enfants : Pr CHABROL Brigitte
+8 CRMR constitutifs :
+Lyon - Hospices Civils de Lyon : Dr GUFFON Nathalie
+Lille - Hôpital J.de Flandres - CHU Lille : Dr DOBBELAERE Dries
+Nancy - CHU de Nancy : Pr FEILLET François
+Paris - APHP, Hôpital Necker : Pr DE LONLAY Pascale
+Paris - APHP, Hôpital Pitié-Salpêtrière : Dr MOCHEL Fanny
+Toulouse - CHU de Toulouse : Dr BROUE Pierre
+Tours - CHU de Tours : Pr LABARTHE François
+20 CCMR Centres de Compétence Maladies Rares :
+Angers - CHU Angers : Dr BARTH Magalie
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+8
+Amiens - CHU Amiens : Dr MORIN Gilles
+Besançon - CHU Besançon : Dr ALTUZARRA Cécilia
+Bordeaux - CHU Bordeaux : Dr LAMIREAU Delphine
+Brest - CHU Brest : Dr DE PARSCAU Loïc
+Caen - CHU Caen Côte de Nacre : Dr ARION Alina
+Dijon - CHU Dijon : Pr HUET Frédéric
+Grenoble - CHU Grenoble : Dr BESSON Gérard
+Lille - CHU Lille - Dr MOREAU Caroline
+Limoges - CHU Limoges : Dr LAROCHE Cécile
+Marseille - AP-HM : Pr LANCON Christophe
+Montpellier - CHU Montpellier : Dr ROUBERTIE Agathe
+Nantes - CHU Nantes : Dr KUSTER Aline
+Poitiers - CHU Poiters : Dr GILBERT-DUSSARDIER Brigitte
+Reims - CHU Reims : Dr BEDNAREK Nathalie
+Rennes - CHU Rennes : Dr DAMAJ Léa
+Rouen - CHU Rouen : Dr TORRE Stéphanie
+Saint-Etienne - CHU Saint-Etienne : Dr GAY Claire
+Strasbourg - CHU Strasbourg : Dr ANHEIM Mathieu
+Strasbourg - Hôpitaux Univ. Strasbourg : Dr ABI WARDE Marie-Thérèse
+Maladies Héréditaires du Métabolisme Hépatique
+CR coordonnateur : Paris - APHP, Hôpital Antoine Béclère : Pr LABRUNE Philippe
+2 CCMR Centres de Compétence Maladies Rares :
+Paris - APHP, Hôpital Bretonneau : Dr BIOSSE DUPLAN Martin
+Paris - APHP, Hôpital Kremlin Bicêtre : Pr GONZALES Emmanuel
+Maladies musculaires et neuro-musculaires
+Centre de référence des maladies neuromusculaires PACA- Réunion- Rhône Alpes
+Site coordonnateur :
+AP-HM - La Timone Marseille (Pr Shahram Attarian)
+Sites constitutifs :
+CHU de La Réunion SUD (Dr Ariane Choumert)
+HC Lyon (Dr Carole Vuillerot)
+CHU de Saint-Etienne (Pr Jean Christophe Antoine)
+CHU de Nice (Pr Sabrina Sacconi)
+Centres de compétence :
+CHU de Grenoble (Dr Klaus Dieterich)
+CH de Cannes (Dr Christophe Perrin)
+Hôpital d'Enfants - Association Saint François d'Assise Saint Denis La Réunion (Dr Anne
+Pervillé)
+Hôpital d'Instruction des Armées de Toulon (Dr Anthony Faivre)
+CHU de Clermont-Ferrand (Dr Catherine Sarret)
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+9
+Centre de référence des maladies neuromusculaires Nord/Est/Ile de France
+Site coordonnateur :
+APHP- Raymond Poincaré Garches (Pr Pascal Laforêt)
+Sites constitutifs :
+APHP- Pitié Salpêtrière Paris (Dr Tanya Stojkovic)
+APHP- Trousseau Paris (Dr Arnaud Isapof) Pédiatrie
+APHP- Pitié Salpêtrière Paris (Pr Bertrand Fontaine) Canalopathies
+APHP- Necker Paris (Pr Isabelle Desguerre) Pédiatrie
+APHP- Cochin Paris (Dr Karim Wahbi) Cardiologie
+APHP- Henri Mondor Paris (Dr François Jérôme Authier)
+CHU de Lille (Dr Sylvie Nguyen The Tich)
+Hôpitaux Universitaires de Strasbourg (Dr Aleksandra Nadaj-Pakleza)
+CHU de Nancy (Dr Marc Debouverie)
+CHU de Reims (Pr François Constant Boyer)
+Centres de compétence :
+APHP- Fondation Rothschild Paris (Dr Philippe Thoumie) ORL
+APHP- Hôpital Marin de Hendaye (Dr Brigitte Soudrie)
+CHU de Rouen (Dr Lucie Guyant Marechal)
+CHRU de Tours (Dr Sybille Pellieux)
+CHU de Côte de Nacre – Caen (Dr Nathalie Bach)
+CHU d’Amiens (Dr Anne Gaëlle Le Moing)
+CHU de Dijon (Dr Agnès Jacquin-Piques)
+CHU de Besançon (Pr Laurent Tatu)
+Centre de soins de suite et de réadaptation Marc Sautelet de Villeneuve-d'Ascq (Dr Marie
+Céline Gellez)
+Centre de référence des maladies neuromusculaires Atlantique Occitanie Caraïbe
+(AOC)
+Site coordonnateur :
+CHU de Bordeaux (Dr Guilhem Solé)
+Sites constitutifs :
+CHU de Toulouse (Pr Pascal Cintas)
+CHU de Montpellier (Pr François Rivier)
+CHU de Nantes (Pr Yann Péréon)
+CHU d’Angers (Dr Marco Spinazzi)
+CHRU de Brest (Dr Sylvain Brochard)
+CHU de la Martinique (Dr Rémi Bellance)
+Centres de compétence :
+CHU de Pointe à Pitre/ Abymes (Pr Annie Lannuzel)
+CH de la Côte Basque (Dr Olivier Flabeau)
+CHU de Nîmes (Dr Dimitri Renard)
+Synthèse à destination du médecin traitant – Syndrome Hémolytique et Urémique (SHU)
+Centre de référence des Maladies héréditaires du métabolisme / Février 2021
+10
+CHU de Rennes (Dr Mélanie Fradin)
+CHRU de Tours (Dr Sylvie Pellieux)
+CH Bretagne Atlantique – Vannes (Dr Florence Demurger)
+CHU de Poitiers (Pr Jean Philippe Neau)

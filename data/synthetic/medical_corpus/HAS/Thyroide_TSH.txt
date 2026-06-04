@@ -1,0 +1,2984 @@
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+ ACTES ET PRESTATIONS- AFFECTION DE LONGUE DURÉE
+Actualisation Octobre 2012
+r
+ALD 30 – Tumeur maligne, affection maligne du
+tissu lymphatique ou hématopoïétique
+Cancer de la thyroïde
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+Ce document est téléchargeable sur
+www.has-sante.fr et sur www.e-cancer.fr
+Haute Autorité de Santé
+2 avenue du Stade de France - F 93218 Saint-Denis La Plaine CEDEX
+Tél. :+ 33 (0)1 55 93 70 00 - Fax :+33 (0)1 55 93 74 00
+Institut National du Cancer
+52, avenue André Morizet - 92513 Boulogne-Billancourt Cedex
+Tél. : + 33 (0) 1 41 10 50 00 - Fax : + 33 (0) 1 41 10 50 20
+Ce document a été validé par le Collège de la Haute Autorité de Santé en octobre 2012
+© Haute Autorité de Santé – 2012
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 3 -
+Sommaire
+1. Avertissement....................................................4
+2. Critères médicaux d’admission en vigueur
+(Décrets n° 2011-74-75-77 du 19 janvier 2011 et
+n° 2011-726 du 24 juin 2011) ....................... ......6
+3. Professionnels impliqués dans le parcours de
+soins ..............................................................7
+4. Biologie ............................................................10
+5. Actes techniques.............................................11
+6. Traitements......................................................12
+6.1 Traitements pharmacologiques.....................................12
+6.2 Autres traitements.........................................................14
+6.3 Dispositifs médicaux, aliments diététiques destinés à des
+fins médicales spéciales et appareils divers d’aide à la vie .....15
+Mise à jour des actes et prestations ALD (APALD)
+Les actes et prestations ALD (APALD) sont actualisés une fois par an
+et disponible sur le site Internet de la HAS (www.has-sante.fr) et celui
+de l’INCa (www.e-cancer.fr)
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 4 -
+1. Avertissement
+Contexte Affection de longue durée (ALD)
+Les ALD sont des affections nécessitant un traitement prolongé et
+une thérapeutique particulièrement coûteuse (article L.324-1).
+Depuis la loi n° 2004-810 du 13 août 2004 relative à l’Assurance
+Maladie, l’exonération du ticket modérateur pour l’assuré, est
+soumise à l’admission en ALD à l’aide d’un protocole de soins établi
+de façon conjointe entre le médecin traitant et le médecin-conseil de
+la Sécurité sociale, signé par le patient.
+Missions de la HAS en matière d’ALD
+Conformément à ses missions,( (article L 161-37-1 et art. R. 161-71
+3), la Haute Autorité de Santé formule des recommandations sur les
+actes et prestations nécessités par le traitement des affections
+mentionnées à l’article L.324-1 pour lesquelles la participation de
+l’assuré peut être limitée ou supprimée, en application du 3° et 4° de
+l’article L.322-3:
+Par ailleurs, elle :
+- émet un avis sur les projets de décret pris en application du 3° de
+l’article L. 322-3 fixant la liste des affections de longue durée ;
+- formule des recommandations sur les critères médicaux utilisés
+pour la définition de ces mêmes affections ;
+- formule des recommandations sur les actes médicaux et
+examens biologiques que requiert le suivi des affections relevant
+du 10° de l'article L.322-3.
+Élaboration HAS/INCa des guides ALD 30
+Tumeur maligne, affection maligne du tissu
+lymphatique ou hématopoïétique
+La loi n° 2004-806 du 9 août 2004 relative à la pol itique de santé
+publique a créé l’Institut National du Cancer.
+L’Institut est chargé de coordonner les actions de lutte contre le
+cancer. À ce titre, il a notamment pour missions : la « définition de
+référentiels de bonnes pratiques et de prise en charge en
+cancérologie », l’« information des professionnels et du public sur
+l’ensemble des problèmes relatifs au cancer » et le « développement
+et suivi d’actions communes entre opérateurs publics et privés en
+cancérologie dans les domaines de la prévention, de l’épidémiologie,
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 5 -
+du dépistage, de la recherche, de l'enseignement, des soins et de
+l'évaluation ».
+Ainsi dans le cadre de l’élaboration des guides de l’ALD 30 Tumeur
+maligne, affection maligne du tissu lymphatique ou hématopoïétique,
+l’Institut National du Cancer apporte son expertise et définit le
+contenu médical du guide ALD selon la méthodologie définie par la
+Haute Autorité de Santé et sous son pilotage
+Objectif du document actes et prestations ALD
+Le document actes et prestations ALD est une aide à l’élaboration
+du protocole de soins établi pour l’admission en ALD d’un
+patient, ou son renouvellement. Il est proposé comme élément de
+référence pour faciliter le dialogue entre le malade, le médecin
+traitant et le médecin conseil.
+Ce n’est ni un outil d’aide à la décision clinique, ni un résumé
+du guide médecin.
+Contenu du document actes et prestations ALD
+Ce document comporte les actes et prestations nécessités par le
+traitement de l’affection, pris en charge par l'assurance maladie
+obligatoire, selon les règles de droit commun ou des mesures
+dérogatoires. Ainsi les utilisations hors AMM ou hors LPPR n’y
+seront inscrites qu’en cas de financement possible par un dispositif
+dérogatoire en vigueur. Il faut noter que les prescriptions hors AMM, y
+compris dans ces dispositifs dérogatoires, sont assorties de
+conditions, notamment une information spécifique du patient.
+Le document actes et prestations n’a pas de caractère limitatif.
+Dans le guide médecin correspondant à une ALD, certaines
+situations particulières ou complications faisant notamment l’objet
+d’hospitalisation peuvent être à l’origine d’actes et de soins non
+précisés. De même, toutes les co-morbidités en relation avec
+l’affection ne peuvent être détaillées. Par ailleurs, le guide médecin
+peut comporter des actes ou prestations recommandés mais ne
+bénéficiant pas d'une prise en charge financière. Aussi l’adaptation
+du protocole de soins à la situation de chaque patient relève du
+dialogue entre le malade, le médecin traitant et le médecin
+conseil de l’assurance maladie.
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 6 -
+2. Critères médicaux d’admission en
+vigueur (Décrets n° 2011-74-75-77 du
+19 janvier 2011 et n° 2011-726 du 24
+juin 2011)
+ALD 30 « Tumeur maligne, affection maligne du tissu lymphatique ou
+hématopoïétique »
+Relèvent d'une exonération du ticket modérateur les affections malignes
+caractérisées par :
+– des arguments objectifs indiscutables : histologie, perturbations
+hématologique ou humorale caractéristiques ;
+– ou, en l'absence de preuve directe, un faisceau d'arguments cliniques,
+radiologiques ou biologiques convergents et emportant la décision
+médicale.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable
+dès lors que la poursuite d'une thérapeutique ou la prise en charge
+diagnostique et thérapeutique des séquelles liées à la maladie ou aux
+traitements, notamment l'usage permanent d'appareillages, sont
+nécessaires.
+Toute récidive ou apparition d'une séquelle tardive grave dont le lien de
+causalité avec le traitement est établi conduit à la reprise de l'exonération du
+ticket modérateur.
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 7 -
+3. Professionnels impliqués dans le
+parcours de soins
+Bilan initial
+Professionnels Situations particulières
+Médecin généraliste Tous les patients – bilan initial
+Endocrinologue Tous les patients – bilan initial
+Chirurgien Tous les patients – bilan initial
+Pathologiste Tous les patients – bilan initial
+Biologiste Tous les patients – bilan initial
+Radiologue Tous les patients – bilan initial – certains
+traitements à la demande
+ORL Tous les patients – bilan initial
+Médecin de médecine
+nucléaire
+Tous les patients – bilan initial
+Anesthésiste Tous les patients – bilan initial
+Recours selon besoin
+Oncologue médical Selon besoin (formes médullaires ou
+anaplasiques)
+Oncologue
+radiothérapeute
+Selon besoin (formes médullaires ou
+anaplasiques)
+Gériatre Selon besoin
+Pédiatre Selon besoin
+Généticien Selon besoin
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 8 -
+Médecin algologue Selon besoin
+Orthophoniste Évaluation initiale, si dysphonie
+Autres spécialistes Selon besoin, en fonction notamment des
+complications, séquelles ou formes
+(localisations) de la maladie, des comorbidités.
+Traitement et suivi
+Professionnels Situations particulières
+Médecin généraliste Tous les patients – traitement – surveillance et
+suivi
+Endocrinologue Tous les patients – traitement – surveillance et
+suivi
+Chirurgien Tous les patients – traitement – surveillance et
+suivi
+Pathologiste Tous les patients – récidives
+Biologiste Tous les patients – suivi
+Radiologue Tous les patients –certains traitements à la
+demande – surveillance et suivi
+Recours selon besoins
+Oncologue médical Selon besoin (formes médullaires ou
+anaplasiques)
+Oncologue
+radiothérapeute
+Selon besoin (formes médullaires ou
+anaplasiques)
+Orthophoniste Rééducation si dysphonie
+Médecin algologue Selon besoin
+Infirmier Selon besoin, soins à domicile,
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 9 -
+Psychologue Selon besoin
+Prestation dont le remboursement n’est pas
+prévu par la législation (prise en charge possible
+dans le cadre de structures hospitalières ou d’un
+réseau)
+Autres spécialistes Selon besoin, en fonction notamment des
+complications, séquelles ou formes
+(localisations) de la maladie, des comorbidités.
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 10 -
+4. Biologie
+Examens Situations particulières
+TSH Tous les patients – bilan initial - suivi
+T3 libre Tous les patients – suivi
+Parfois utilisé en relai de T4 libre lors du
+traitement isotopique
+T4 libre Tous les patients – suivi
+Tg et anticorps anti-Tg Tous les patients – bilan initial – suivi
+Calcémie Tous les patients – bilan initial – suivi
+Hémogramme Tous les patients – bilan préopératoire – suivi
+en cas d’irathérapie répétée
+Bilan d’hémostase,
+TP, TCA
+Tous les patients – bilan préopératoire
+Calcitonine Formes médullaires– bilan initial – suivi
+Systématique avant toute thyroïdectomie
+Antigène carcinoembryonnaire
+Formes médullaires – bilan initial - suivi
+Autres examens Bilan initial, prise en charge et suivi – selon le
+terrain et la nature du traitement ou le type
+histologique
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 11 -
+5. Actes techniques
+Actes Situations particulières
+Actes d’anatomie et de
+cytologie
+pathologiques
+Tous les patients – bilan initial - récidive
+Ponction et
+Cytoponction
+Selon indications
+Échographie cervicale Tous les patients – bilan initial - suivi
+Tomodensitométrie Bilan initial et suivi selon indications
+Imagerie par
+résonance magnétique
+Bilan initial et suivi selon indications
+Laryngoscopie Selon indications, en préopératoire
+Tomographie par
+émission de positons
+au FDG
+Selon indications – bilan initial dans certaines
+formes – suivi
+Tomographie par
+émission de positons à
+la FDOPA
+Récidive du cancer médullaire
+Scintigraphie au
+Tc-99 m
+Bilan initial
+Scintigraphie iode-131 Selon indications – suivi
+Scintigraphie iode-123 Bilan initial
+Densitométrie osseuse Suivi à long terme (patients sur-dosés en
+thyroxine)
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 12 -
+6. Traitements
+6.1 Traitements pharmacologiques (
+1
+)
+Traitements Situations particulières
+LT4 Tous les patients
+LT3 Selon indication
+rh-TSH Selon indication
+Calcium et Vitamine D Selon besoin, suite de chirurgie
+Antinéoplasiques Indication exceptionnelle avec
+argumentation ou essai clinique
+Antiémétiques Effets indésirables de la chimiothérapie
+Antidiarrhéiques Effets indésirables de la chimiothérapie
+Antibiotiques Effets indésirables de la chimiothérapie
+Antifongiques Effets indésirables de la chimiothérapie
+Antiviraux Effets indésirables de la chimiothérapie
+Bains de bouche à base
+de chlorhexidine
+Traitement local d’appoint des infections
+de la cavité buccale réservé aux patients
+ne pouvant assurer une hygiène correcte
+par le brossage des dents.
+Facteurs de croissance
+granulocytaire
+Effets indésirables de la chimiothérapie
+Facteurs de croissance
+érythrocytaires
+Effets indésirables de la chimiothérapie
+
+1
+Les guides mentionnent généralement une classe thérapeutique. Le prescripteur doit
+s’assurer que les médicaments prescrits appartenant à cette classe disposent d’une indication
+validée par une autorisation de mise sur le marché (AMM).
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 13 -
+Traitements Situations particulières
+Facteurs de croissance
+granulocytaires
+Effets indésirables de la chimiothérapie
+Transfusion de culot
+globulaire et plaquettes
+Effets indésirables de la chimiothérapie et
+radio-iodothérapie
+Antalgiques de paliers 1 à 3 Adaptation selon l’intensité des douleurs
+Corticoïdes Effets indésirables de la chimiothérapie ou
+de l’irathérapie, traitement symptomatique
+de localisations métastatiques.
+Antihistaminiques Prévention de chimiothérapie allergisante
+Antidépresseurs :
+Amitriptyline
+Clomipramine
+Imipramine
+Douleurs neuropathiques
+Antiépileptiques :
+Gabapentine
+Prégabaline
+Carbamazepine
+Douleurs neuropathiques
+Benzodiazépines Selon besoin, situations d’anxiété
+Bisphosphonates (acide
+pamidronique, acide
+zolédronique, acide
+clodronique)
+Ostéolyse maligne
+Émulsions à base de
+trolamine
+Traitement de l’érythrodermie postradiothérapie en précisant le cadre légal
+dérogatoire de la prise en charge (prise en
+charge dérogatoire dans le cadre de
+l’article L.162-17-2-1 selon les modalités
+de l’arrêté du 1er avril 2010)
+Laxatifs oraux Selon besoin, notamment sous traitement
+opioïde, ou à visée palliative
+Bromure de méthylnaltrexone Selon besoin, lorsque la réponse aux
+laxatifs habituels a été insuffisante
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 14 -
+Traitements Situations particulières
+Solutions pour nutrition
+parentérale
+Lorsque l'alimentation orale ou entérale est
+impossible, insuffisante ou contre-indiquée
+6.2 Autres traitements
+Traitements chirurgicaux Selon indications
+Radiothérapie Selon indications
+Radiothérapie métabolique à
+l’iode-131
+Selon indications
+Éducation thérapeutique L’éducation thérapeutique s’inscrit dans le
+parcours du patient. Les professionnels de
+santé en évaluent le besoin avec le
+patient. Elle n’est pas opposable au
+malade, et ne peut conditionner le taux de
+remboursement de ses actes et des
+médicaments afférents à sa maladie (Art.
+L. 1161-1 du Code de la santé publique).
+Prise en charge financière possible dans
+le cadre des programmes autorisés par les
+Agences Régionales de Santé (ARS).)
+Actes et prestations - ALD 30 « Cancer de la thyroïde »
+HAS / Service des maladies chroniques et dispositifs d’accompagnement des
+malades / INCa/Département des recommandations pour les professionnels de santé
+ Octobre 2012 - 15 -
+6.3 Dispositifs médicaux, aliments diététiques
+destinés à des fins médicales spéciales et
+appareils divers d’aide à la vie
+Chambre à cathéter
+implantable
+Chimiothérapie éventuellement à domicile
+Postiche (prothèse capillaire) Effet indésirable de la chimiothérapie
+Aliments diététiques destinés
+à des fins médicales
+spéciales (ADDFMS) régis
+par l’arrêté du 20/09/2000
+(liste actualisée chaque
+année). Dispositifs
+d’administration et prestations
+associées
+Traitement de la dénutrition par voie orale
+et entérale (selon les critères définis à la
+LPP)
+Neurostimulation
+transcutanée
+Selon besoin
+Dispositifs d’aide à la vie
+aliments et pansements
+(matériel de perfusion,
+d’aspiration, chambre
+d’inhalation, nébuliseur,
+matériel d’aspiration buccale
+et sonde, pansements et
+équipement nécessaire à
+l’hygiène, etc.)
+Selon besoin, soins palliatifs,
+chimiothérapie à domicile
+Toutes les publications de l’HAS sont téléchargeables sur
+www.has-sante.fr
+Toutes les publications de la HAS et de l’INCa sont téléchargeables
+sur www.has-sante.fr et www.e-cancer.fr
+
+ÉVALUER
+LES TECHNOLOGIES DE SANTÉ
+RAPPORT Activité du
+séquençage haut
+débit ciblé en
+génétique
+somatique des
+cancers financée
+dans le cadre du
+RIHN
+
+23 juillet 2024
+
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 2
+Table des figures
+Figure 1 : Retour des structures sollicitées 12
+Figure 2 : Plateformes hospitalières de génétique moléculaire des cancers labellisées par
+l’INCa qui ont participé à l’enquête de pratique de la HAS 13
+Figure 3 : Situations cliniques rapportées par les structures 14
+Figure 4 : Répartition des situations cliniques par structure sollicitée (N = 577) 14
+Figure 5 : Regroupement des situations cliniques rapportées par les structures en fonction de
+la localisation tumorale (N = 555 situations cliniques) 16
+Figure 6 : L’utilité clinique du recours au séquençage haut débit ciblé (NGS) rapportée par les
+structures dans la stratégie de prise en charge des patients (N = 555 situations cliniques) 17
+Figure 7 : Utilités cliniques du séquençage haut débit ciblé rapportées par les structures dans
+les tumeurs solides (A) et les hémopathies malignes (B) 18
+Figure 8 : Activité de recherche du recours au séquençage haut débit ciblé dans les situations
+cliniques rapportées par les structures (N = 85 situations cliniques) 19
+Figure 9 : Situations cliniques sans précision sur le stade et/ou le type de cancer 20
+Figure 10 : Situations cliniques regroupant plusieurs indications (N = 66 situations cliniques)
+20
+Figure 11 : Principales sources bibliographiques prises en compte par les structures pour
+l’utilisation du séquençage haut débit ciblé 21
+Figure 12 : Fabricants de matériels de séquençage haut débit rapportés par les structures (N =
+177/555 situations cliniques) 29
+Figure 13 : Tests antérieurs au séquençage haut débit ciblé rapportés par les structures (N =
+555 situations cliniques) 30
+Figure 14 : Typologie des tests de génétique somatique réalisés antérieurement au
+séquençage haut débit ciblé (N = 308 situations cliniques) 30
+Figure 15 : Les situations cliniques pour lesquelles aucun test antérieur au séquençage haut
+débit ciblé n’a été rapporté par les structures (N = 157 situations cliniques) 31
+Figure 16 : Tests antérieurs au NGS rapportés par les structures dans les tumeurs solides 32
+Figure 17 : Tests antérieurs au NGS rapportés par les structures dans les hémopathies
+malignes 32
+Figure 18 : Substitution des tests antérieurs par le NGS rapportée par les structures (N = 308
+situations cliniques) 33
+Figure 19 : Degré de substitution par le séquençage haut débit ciblé pour chaque modalité de
+tests antérieurs rapporté par les structures (N = 308 situations cliniques) 33
+Figure 20 : Substitution des tests antérieurs par le séquençage haut débit ciblé dans les
+tumeurs solides 35
+Figure 21 : Substitution des tests antérieurs par le séquençage haut débit ciblé dans les
+hémopathies malignes 36
+Figure 22 : Les avantages du séquençage haut débit ciblé rapportés par les structures 37
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 3
+Figure 23 : Les limites du séquençage haut débit ciblé rapportés par les structures 38
+Table des tableaux
+Tableau 1 : Acte de NGS ciblé en génétique somatique des cancers inscrit au RIHN 7
+Tableau 2 : Nombre d’actes de NGS ciblé en génétique somatique des cancers (données de la
+DGOS) 8
+Tableau 3 : Nombre de situations cliniques rapportées par structure 15
+Tableau 4 : Nombre minimum de panels de gènes rapportés par situation clinique 22
+Tableau 5 : Situations cliniques sans panel de gènes rapportés par les structures (N = 64) 22
+Tableau 6 : Pourcentage d'occurrence des gènes séquencés dans le cancer du poumon 23
+Tableau 7 : Pourcentage d'occurrence des gènes séquencés en cas de tumeurs stromales
+gastro-intestinales (GIST) 24
+Tableau 8 : Pourcentage d'occurrence des gènes séquencés dans la LLC associée ou non à
+d’autres hémopathies malignes 25
+Tableau 9 : Pourcentage d'occurrence des gènes séquencés dans la LLC 26
+Tableau 10 : Volume annuel d’activité du séquençage haut débit ciblé rapporté par les
+structures dans les tumeurs solides 27
+Tableau 11 : Volume annuel d’activité du séquençage haut débit ciblé rapporté par les
+structures dans les hémopathies malignes. 28
+Tableau 12 : Types de séquenceurs haut débit utilisés par les structures 29
+Tableau 13 : Situations cliniques où le NGS ne substitue pas les tests antérieurs (N = 115
+situations cliniques) 34
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 4
+Descriptif de la publication
+Titre Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN
+
+Méthode de travail Enquête de pratique par l’utilisation d’un questionnaire auprès des structures de biologie
+moléculaire concernées par le sujet.
+Objectif(s) Objectifs de l’enquête :
+− Connaître l’état actuel de la pratique du séquençage haut débit en génétique somatique des cancers en soins courants.
+Objectif du travail :
+− Préciser les indications cliniques et les altérations génétiques recherchées en soins
+courants en génétique somatique des cancers.
+Cibles concernées − Institutions publiques de santé ;
+− Plateformes hospitalières de biologie moléculaire des cancers labellisées par l’Institut
+national du cancer ;
+− Groupes privés de laboratoires de biologie moléculaire et cabinets d’anatomocytopathologie ;
+− Organismes professionnels concernés par la génétique somatique des cancers ;
+− Patients atteints de cancers et associations de patients.
+Demandeur Autosaisine de la Haute Autorité de santé dans le cadre de la demande d’évaluation du
+référentiel des actes innovants hors nomenclature de biologie et d'anatomopathologie par
+le ministère de la santé / la Direction générale de l’offre de soins
+Promoteur(s) Haute Autorité de santé (HAS), Service d’évaluation des actes professionnels (SEAP)
+Pilotage du projet Marie DACLIN, Melissa HACHEM et Audrey NGANBOU (cheffes de projet, service évaluation des actes professionnels - SEAP), sous la direction de Denis Jean DAVID (adjoint
+au chef de service) et de Cédric CARBONNEIL (chef de service) et avec la contribution
+de Suzie DALOUR (assistante, SEAP)
+Auteurs Audrey NGANBOU (cheffe de projet), sous la responsabilité de Cédric CARBONNEIL, chef
+de service SEAP.
+Conflits d’intérêts Cette enquête de pratique ne nécessite pas de déclaration de conflits d'intérêts.
+Validation Version du 23 juillet 2024
+Actualisation
+Autres formats Les illustrations présentées dans ce rapport ont été réalisées avec BioRender
+Ce document ainsi que sa référence bibliographique sont téléchargeables sur www.has-sante.fr
+Haute Autorité de santé – Service communication et information
+5 avenue du Stade de France – 93218 SAINT-DENIS LA PLAINE CEDEX. Tél. : +33 (0)1 55 93 70 00
+© Haute Autorité de santé – juillet 2024 – ISBN :
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 5
+Sommaire
+Sommaire 5
+1. Contexte 7
+1.1. Saisine de la Direction générale de l’offre de soins 7
+1.2. Nécessité d’une enquête de pratique préalablement aux évaluations 8
+2. Méthodologie 9
+2.1. Les structures sollicitées 9
+2.2. Le questionnaire d’enquête 10
+3. Résultats de l’enquête 12
+3.1. Participation des structures sollicitées 12
+3.2. Situations cliniques rapportées par les structures 13
+3.3. Répartition par localisation tumorale des situations cliniques rapportées par les structures
+sollicitées 16
+3.4. Utilités cliniques du séquençage haut débit ciblé rapportées par les structures 16
+3.5. Recours au séquençage haut débit ciblé dans le cadre d’activité de recherche dans les
+situations cliniques rapportées par les structures 19
+3.6. Situations cliniques sans précision sur le stade et/ou le type de cancer 20
+3.7. Situations cliniques regroupant plusieurs types de cancers 20
+3.8. Recommandations de bonnes pratiques utilisées par les structures 21
+3.9. Hétérogénéité des pratiques de séquençage des gènes dans les situations cliniques 21
+3.9.1. Focus n°1 : fréquence des gènes séquencés dans le cancer du poumon 23
+3.9.1.1. Panels de gènes rapportés par les structures dans la prise en charge du cancer
+du poumon 23
+3.9.1.2. Panel de gènes retenus par la HAS, qui présente un intérêt clinique en soins
+courants dans la prise en charge du cancer du poumon 24
+3.9.2. Focus 2 : fréquence des gènes séquencés en cas de tumeurs stromales gastrointestinales (GIST) 24
+3.9.2.1. Panels de gènes rapportés par les structures dans la prise en charge des GIST 24
+3.9.2.2. Panel de gènes retenus par la HAS, qui présente un intérêt clinique en soins
+courants dans la prise en charge des tumeurs stromales gastro-intestinales 25
+3.9.3. Focus n°3 : fréquence des gènes séquencés en cas de leucémie lymphoïde
+chronique (LLC) associée ou non à d’autres hémopathies lymphoïdes 25
+3.9.4. Focus n°4 : La fréquence des gènes séquencés en cas de leucémie lymphoïde
+chronique (LLC) 26
+3.9.4.1. Panel de gènes retenus par la HAS, qui présente un intérêt clinique en soins
+courants dans la prise en charge de la leucémie lymphoïde chronique 27
+3.10. Volume d’activité du séquençage haut débit ciblé rapporté par les structures 27
+3.11. Matériels de séquençage haut débit ciblé utilisés par les structures 28
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 6
+3.12. Tests de génétique somatique réalisés préalablement au déploiement du séquençage haut
+débit ciblé pour chaque structure 29
+3.12.1. Typologie des tests de génétique somatique réalisés antérieurement au
+séquençage haut débit ciblé et rapportés par types de situations cliniques 31
+3.12.2. Degré de substitution par le séquençage haut débit ciblé des tests de génétique
+somatique antérieurs 33
+3.12.1. Substitution par le séquençage haut débit ciblé des tests de génétique somatique
+antérieurs dans les tumeurs solides et hémopathies malignes 35
+3.13. Avantages et limites du séquençage haut débit ciblé rapportés par les structures 37
+4. Forces et limites de l’enquête 39
+4.1. Les forces de l’enquête 39
+4.2. Les limites de l’enquête 39
+5. Conclusions et perspectives 40
+Participants 41
+Abréviations et acronymes 42
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 7
+1. Contexte
+1.1. Saisine de la Direction générale de l’offre de soins
+La Haute Autorité de santé (HAS) a été saisie par la Direction générale de l’offre de soins (DGOS) et
+le ministère de la Santé et de la prévention en 2021 afin de procéder à l’évaluation pluriannuelle des
+actes les plus coûteux de biologie médicale ou d’anatomopathologie inscrits sur le Référentiel des
+actes innovants hors nomenclature (RIHN).
+Cette saisine concerne notamment deux domaines :
+‒ la détection du génome infectieux :
+1. les techniques d’amplification des acides nucléiques (TAAN) multiplex (tout type d’agent
+infectieux) et TAAN simplex (agent d’origine fongique ou parasitaire) ;
+‒ la détection du génome humain :
+1. le séquençage haut débit ciblé d’un panel de gènes en génétique constitutionnelle postnatale ;
+2. le séquençage haut débit ciblé d’un panel de gènes en génétique somatique des cancers.
+Actuellement, ces examens sont pris en charge financièrement par la Mission enseignement recherche
+référence et innovation (MERRI) G03 via leur inscription sur le RIHN.
+Ce document concerne uniquement le séquençage haut débit ciblé d’un panel de gènes en
+génétique somatique des cancers.
+Le séquençage haut débit ciblé en génétique somatique des cancers est inscrit au RIHN, sous trois
+libellés présentés dans le Tableau 1 ci-dessous.
+Tableau 1 : Acte de NGS ciblé en génétique somatique des cancers inscrit au RIHN
+Liste Code acte hors nomenclatures Libellé de l’acte
+14-3- Détection du génome humain
+14-3-2-Génétique somatique des cancers
+RIHN N452 Forfait séquençage haut débit (NGS) < 20 kb
+RIHN N453 Forfait séquençage haut débit (NGS) > 20 kb et < 100 kb
+RIHN N454 Forfait séquençage haut débit (NGS) > 100 kb et < 500 kb
+Kb : kilobase ; NGS : Next Generation Sequencing ; RIHN : référentiel des actes innovants hors nomenclature.
+Compte tenu de :
+‒ l’imprécision des libellés1 de ces actes du RIHN (cf. Tableau 1) ;
+‒ l’absence de précisions apportées par la saisine (aucune information concernant notamment le
+ou les gènes séquencés, les contextes médicaux (cancers), les volumes ou les lieux de réalisation) ;
+il n’était donc pas possible de définir le périmètre des évaluations d’actes à mener et donc de
+démarrer les évaluations en l’état des éléments disponibles.
+1 Formulations génériques ne précisant ni les gènes analysés, ni les altérations recherchées, ni les indications. Seules sont précisées les longueurs des gènes séquencés, en kilobases.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 8
+1.2. Nécessité d’une enquête de pratique préalablement aux
+évaluations
+En effet, les seules informations disponibles concernaient le nombre d’actes de séquençage haut débit
+ciblé en génétique somatique des cancers prescrits en France dans le cadre du RIHN est résumé dans
+le Tableau 2 ci-dessous.
+Tableau 2 : Nombre d’actes de NGS ciblé en génétique somatique des cancers (données de la DGOS)
+Nombre d’actes prescrits
+Code Libellé 2017 2018 2019 2021
+RIHN N452 Forfait séquençage haut débit (NGS) <
+20 kb
+96 446 270 826 184 848 88 268
+RIHN N453 Forfait séquençage haut débit (NGS) >
+20 kb et < 100 kb
+9 169 39 330 19 911 101 995
+RIHN N454 Forfait séquençage haut débit (NGS) >
+100 kb et < 500 kb
+5 245 6 276 12 570 22 158
+*Les données pour l’année 2020 ne sont pas disponibles en raison de la pandémie de la COVID-19.
+Face à cette situation, et afin de pouvoir réaliser les évaluations, il s’est donc avéré indispensable de
+disposer d’un état des lieux préalable de la pratique française actuelle en matière de séquençage haut débit ciblé en génétique somatique des cancers, dans le cadre du RIHN (donc théoriquement, hors recherche), notamment en matière de contextes médicaux dans lesquels se plaçaient
+ce séquençage, d’altérations génétiques recherchées, d’une estimation des volumes d’actes réalisés
+et du nombre de structures réalisant chacun de ces actes.
+C’est pourquoi, pour répondre à cet objectif, la HAS a tout d’abord réalisé à partir de janvier 2022
+une enquête de pratique en sollicitant les professionnels de santé réalisant ces actes (« effecteurs ») : Conseils nationaux professionnels (CNP), plateformes hospitalières de génétique moléculaire des cancers labellisées par l’Institut national du cancer (INCa), des groupes privés de laboratoires
+de biologie médicale et de cabinets d’anatomocytopathologie.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 9
+2. Méthodologie
+2.1. Les structures sollicitées
+La HAS a sollicité les principaux acteurs « effecteurs » du séquençage haut débit ciblé en France. Ont
+ainsi été sollicités :
+‒ la totalité des 28 plateformes hospitalières de génétique moléculaire des cancers labellisées
+par l’INCa :
+• la plateforme d’Amiens ;
+• la plateforme d’Angers ;
+• la plateforme AP-HP ;
+• la plateforme de Besançon ;
+• la plateforme de Brest ;
+• la plateforme de Bordeaux-La Réunion ;
+• la plateforme de Caen ;
+• la plateforme de Clermont-Ferrand ;
+• la plateforme de Dijon ;
+• la plateforme de Grenoble ;
+• la plateforme de l’Institut Gustave Roussy ;
+• la plateforme de Lyon ;
+• la plateforme de l’Institut Curie ;
+• la plateforme de Lille ;
+• la plateforme de Limoges ;
+• la plateforme de Marseille ;
+• la plateforme de Montpellier-Nîmes ;
+• la plateforme de Nancy ;
+• la plateforme de Nantes ;
+• la plateforme de Nice ;
+• la plateforme de Poitiers ;
+• la plateforme de Rennes ;
+• la plateforme de Reims ;
+• la plateforme de Rouen ;
+• la plateforme de Saint-Etienne ;
+• la plateforme de Strasbourg-Colmar-Mulhouse ;
+• la plateforme de Toulouse ;
+• la plateforme de Tours-Orléans ;
+‒ les groupes privés de laboratoires de biologie moléculaire et les cabinets d’anatomocytopatholgie :
+• Cypath ;
+• Medipath ;
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 10
+• IMAGENOME LABOSUD2
+;
+• IHP Group ;
+‒ les Conseils nationaux professionnels (CNP) :
+• le CNP de biologie médicale ;
+• le CNP de génétique clinique, chromosomique et moléculaire ;
+• le CNP d’hématologie ;
+• le CNP d’anatomocytopathologie ;
+‒ les sociétés savantes :
+• l’Association des cytogénéticiens de langue française (ACLF) ;
+• l’Association nationale des praticiens de génétique moléculaire (ANPGM) ;
+• la Société française de pathologie (SFP) ;
+• la Société française de cytologie clinique (SFCC) ;
+• le Groupe des biologistes moléculaires des hémopathies malignes (GBMHM) ;
+• le Groupe francophone de cytogénomique oncologique (GFCO) ;
+• le Groupe génétique et cancer (GGC)3
+;
+• la Société française de lutte contre les cancers et les leucémies de l'enfant et de l'adolescent
+(SFCE).
+2.2. Le questionnaire d’enquête
+La HAS a coconstruit avec les structures un questionnaire afin de connaître les pratiques sur l’utilisation du séquençage haut débit ciblé en soins courants.
+Un test sur la lisibilité du questionnaire a été réalisé lors de la réunion d’information du 14 juin 2022
+avec les structures sollicitées. Les éléments testés étaient la complétude, la clarté, la compréhension
+et l’appropriation du questionnaire.
+Le questionnaire a été adapté à la suite des différentes remarques et modifications apportées par les
+structures. La version « définitive » du questionnaire final était composée de deux chapitres :
+1. le premier chapitre était consacré à identifier les situations cliniques faisant actuellement l’objet
+d’un séquençage haut débit (ou NGS, pour Next Generation sequencing) ciblé d’un panel de gènes
+dans le cadre des soins courants. Chaque situation clinique était définie par trois composantes :
+‒ le cancer concerné ;
+‒ le(s) gène(s) séquencé(s) pour ce cancer ;
+‒ le(s) gène(s) analysé(s) pour ce cancer ;
+2. le deuxième chapitre était dédié à caractériser chaque situation clinique rapportée dans le premier chapitre :
+‒ le contexte médical, l’indication et les finalités cliniques nécessitant le recours au NGS ;
+‒ les références bibliographiques sur lesquelles s’appuie la pratique du NGS ;
+‒ l’ancienneté de la pratique du NGS ;
+‒ le volume d’activité du NGS ;
+‒ l’utilisation de matériels commercialisés dédiés ;
+2 Cette structure s’est portée spontanément volontaire pour participer à l’enquête.
+3 Le Groupe de génétique et cancer à répondu à l’enquête RIHN en génétique constitutionnelle.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 11
+‒ la place du NGS par rapport à la technique antérieure et le degré de substitution de la technique
+par le NGS ;
+‒ les avantages et les limites du NGS.
+Le chapitre 2 du questionnaire était à dupliquer pour chaque situation clinique renseignée en chapitre 1.
+Le questionnaire a été envoyé par courriel électronique le 7 juillet 2022 aux structures sollicitées. La
+date limite des retours des questionnaires était le 8 septembre 2022.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 12
+3. Résultats de l’enquête
+3.1. Participation des structures sollicitées
+Sur les 43 structures qui ont été sollicitées, 34 ont répondu au questionnaire, soit un très bon taux de
+participation de 79 %. Par ailleurs, mis à part la région Grand-Est, les acteurs localisés sur l’ensemble
+des autres régions ont répondu, garantissant ainsi une très bonne représentativité géographique
+de l’enquête au niveau français (cf. Figure 1 et Figure 2).
+Figure 1 : Retour des structures sollicitées
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 13
+Figure 2 : Plateformes hospitalières de génétique moléculaire des cancers labellisées par l’INCa qui ont participé à
+l’enquête de pratique de la HAS
+*Les plateformes en bleu ont répondu à l’enquête.
+*Les plateformes surlignées en violet n’ont pas répondu à l’enquête.
+3.2. Situations cliniques rapportées par les structures
+Au total, 577 situations cliniques ont été rapportées par les structures sollicitées.
+Dans certaines situations cliniques (n = 22), les structures ont mentionné avoir recours au :
+‒ séquençage ciblé de plus de 500 kb ;
+‒ séquençage du génome entier (ou WGS pour Whole genome sequencing) ;
+‒ séquençage de l’exome entier (ou WES pour Whole exome sequencing) ;
+‒ et au séquençage très haut débit (STHD).
+Les situations mentionnées ci-dessus étant hors RIHN (et principalement prises en compte dans le
+cadre de pré-indications du Plan France Médecine Génomique (PFMG) 2025, elles ont donc été exclues des analyses.
+In fine, 555 situations cliniques ont donc été analysées dans l’enquête de pratique (cf. Figure 3).
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 14
+Figure 3 : Situations cliniques rapportées par les structures
+WES : Whole exome sequencing ; WGS : Whole genome sequencing.
+Les situations cliniques étaient majoritairement rapportées par les plateformes de génétique moléculaire labellisées par l’INCa (cf. Figure 4 et Tableau 3).
+Figure 4 : Répartition des situations cliniques par structure sollicitée (N = 577)
+458
+59
+40 20
+Plateformes labellisées par l'INCa Sociétés savantes Groupes privés CNP
+Situations cliniques rapportées : 577
+Situations cliniques rapportées par structure :
+‒ Minimum 5
+‒ Maximum 45
+‒ Moyenne 18
+Situations cliniques exclues des analyses : 22 ; RNA Seq, de WGS, de WES ou
+de NGS > 500 kb
+Situations cliniques analysées : 555
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 15
+Tableau 3 : Nombre de situations cliniques rapportées par structure
+Structures sollicitées Nombre de situations cliniques rapportées
+Plateformes labellisées par
+l’INCa
+Lyon 45
+Limoges 36
+Caen 32
+AP-HP 25
+Grenoble 25
+Gustave Roussy 23
+Toulouse 21
+Institut Curie 21
+Marseille 21
+Bordeaux 21
+Clermont-Ferrand 20
+Rennes 20
+Poitiers 17
+Amiens 17
+Dijon 16
+Angers 16
+Montpellier-Nîmes 16
+Tours-Orléans 14
+Lille 13
+Nice 11
+Nantes 10
+Rouen 7
+Brest 6
+Besançon 5
+CNP CNP des Pathologistes 20
+Sociétés savantes SFCE 6
+GBMHM 32
+GFCO 21
+Groupes privés IMAGENOME 9
+Medipath 18
+Cypath 13
+GBMHM : Groupe des biologistes moléculaires des hémopathies malignes ; GFCO : Groupe francophone de cytogénomique oncologique ;
+SFCE : Société française de lutte contre les cancers et les leucémies de l'enfant et de l'adolescent.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 16
+3.3. Répartition par localisation tumorale des situations cliniques
+rapportées par les structures sollicitées
+Les situations cliniques rapportées ont été regroupées par localisation tumorale. Les groupes de cancers les plus mentionnés étaient les hémopathies malignes, les cancers digestifs, les cancers de
+l’appareil reproductif féminin (le cancer de l’ovaire et le cancer de l’utérus) et le cancer du poumon
+(cf. Figure 5).
+Figure 5 : Regroupement des situations cliniques rapportées par les structures en fonction de la localisation tumorale (N = 555 situations cliniques)
+* Autres cancers : cancer de primitif inconnu, cancers métastatiques à mauvais pronostic et/ou en échec thérapeutique, indications
+agnostiques (les tumeurs solides, tumeurs solides métastatiques, indications avec plusieurs types de cancers), cancers rarement renseignés.
+Sarcomes : sarcomes y compris les tumeurs stromales gastro-intestinales.
+3.4. Utilités cliniques du séquençage haut débit ciblé rapportées par
+les structures
+Selon le retour des structures, le recours au séquençage haut débit ciblé était principalement utilisé
+pour une fonction prédictive (finalité de guidage thérapeutique), ainsi que pour des fonctions diagnostiques ou pronostiques (cf. Figure 6).
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 17
+Figure 6 : L’utilité clinique du recours au séquençage haut débit ciblé (NGS) rapportée par les structures dans la
+stratégie de prise en charge des patients (N = 555 situations cliniques)
+*Le NGS peut avoir plusieurs fonctions pour une même situation clinique.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 18
+Figure 7 : Utilités cliniques du séquençage haut débit ciblé rapportées par les structures dans les tumeurs solides
+(A) et les hémopathies malignes (B)
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 19
+3.5. Recours au séquençage haut débit ciblé dans le cadre d’activité
+de recherche dans les situations cliniques rapportées par les
+structures
+Les structures ont mentionné recourir au séquençage haut débit ciblé pour une activité de recherche dans 15 % des situations cliniques rapportées, avec la mention suivante : « identification
+de cibles permettant d’orienter le choix thérapeutique (des médicaments avec une Autorisation de mise
+sur le marché (AMM), hors AMM ou essais cliniques) », (cf. Figure 8).
+Figure 8 : Activité de recherche du recours au séquençage haut débit ciblé dans les situations cliniques rapportées
+par les structures (N = 85 situations cliniques)
+Sarcomes y compris les tumeurs stromales gastro-intestinales.
+0% 2% 4% 6% 8% 10% 12%
+Cancers de primitif inconnu (N=1)
+Hémopathies lymphoïdes matures (N=1)
+Indications agnostiques (N=1)
+Hémopathies myéloïdes (N=2)
+Cancer du sein (N=2)
+Cancer de l'utérus (N=3)
+Cancer de la thyroïde (N=4)
+Cancer du pancréas (N=4)
+Cholangiocarcinome (N=4)
+Cancer de la vessie (N=4)
+Tumeurs neuro-oncologiques (N=4)
+Tumeurs solides (N=4)
+Sarcomes (N=5)
+Cancer colorectal (N=7)
+Mélanome (N=7)
+Cancer du poumon (N=7)
+Cancer de la prostate (N=8)
+Cancers en échec thérapeutique (N=8)
+Cancer de l'ovaire (N=9)
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 20
+3.6. Situations cliniques sans précision sur le stade et/ou le type de
+cancer
+Parmi les 555 situations cliniques rapportées, les structures n’ont pas mentionné le stade ou le type
+spécifique du cancer dans 325 situations cliniques, soit 58 % (Figure 9).
+Figure 9 : Situations cliniques sans précision sur le stade et/ou le type de cancer
+Hémopathies malignes : absence de précision sur le type spécifique de cancer.
+Sarcomes y compris les tumeurs stromales gastro-intestinales (GIST).
+Autres cancers : cancers en échec thérapeutique ; tumeurs solides et les cancers rarement rapportés.
+3.7. Situations cliniques regroupant plusieurs types de cancers
+Parmi les situations cliniques rapportées par les structures, 66 regroupaient plusieurs types de cancers
+ou groupes de cancers sans précision, par exemple « tumeurs solides (poumon, digestif, urologique) »,
+« leucémie aigüe myéloïde, syndromes myéloprolifératifs, néoplasies myéloprolifératives » (cf. Figure
+10).
+Figure 10 : Situations cliniques regroupant plusieurs indications (N = 66 situations cliniques)
+Autres cancers : cancers en échec thérapeutique.
+0
+20
+40
+60
+80
+100
+120
+140
+Situations cliniques sans précision Situations cliniques rapportées
+40 14
+7
+5
+Hémopathies malignes Cancers en échec thérapeutique Autres cancers Tumeurs solides
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 21
+3.8. Recommandations de bonnes pratiques utilisées par les
+structures
+Les structures sollicitées (qui, rappelons-le, ont des profils « effecteurs » et non prioritairement « prescripteurs ») ont été interrogées sur les sources bibliographiques utilisées pour l’utilisation du séquençage haut débit ciblé. Comme l’illustre la Figure 11, les principales sources bibliographiques sont les
+recommandations des sociétés savantes nationales, puis internationales/européennes.
+Figure 11 : Principales sources bibliographiques prises en compte par les structures pour l’utilisation du séquençage haut débit ciblé
+Sociétés savantes nationales : CNPath, GFCO, GBMHM et autres sociétés savantes.
+Institutions nationales : INCa, Plan cancer et HAS (uniquement pour le cancer de la thyroïde).
+3.9. Hétérogénéité des pratiques de séquençage des gènes dans les
+situations cliniques
+Il est à noter que :
+‒ les résultats rapportés ici concernent uniquement les gènes séquencés, car les gènes analysés ont été mal renseignés. Certaines structures ont mentionné les gènes séquencés tandis
+que d’autres n’ont pas renseigné cette donnée. D’autres structures ont indiqué que les gènes
+séquencés étaient les mêmes que ceux analysés ;
+‒ plusieurs structures ont renseigné de multiples panels de gènes différents pour une
+même situation clinique, traduisant ainsi une hétérogénéité de pratique sur le territoire français.
+ - Le nombre de situations cliniques au minimum un panel de gènes = 491/555.
+ - Nombre maximum de panels de gènes rapportés pour une même situation clinique = 17.
+ - Dix-sept panels de gènes ont été rapportés pour le cancer du poumon.
+ - Douze panels de gènes ont été rapportés pour le cancer colorectal.
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45%
+Recommandations de l'ASCO (N= 32)
+Essais cliniques / Revues systématiques (N=48)
+Recommandations des institutions nationales (N=52)
+Recommandations de l'ESMO (N=109)
+Recommandations internationales (N=129)
+Recommandations des sociétés savantes nationales
+(N=235)
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 22
+Tableau 4 : Nombre minimum de panels de gènes rapportés par situation clinique
+Nombre minimum de panels de gènes Nombre de situations cliniques
+1 panel 491
+2 panels 120
+3 panels 32
+4 panels 20
+5 panels 12
+6 panels 9
+7 panels 7
+8 panels 5
+9-12 panels 2
+13-17 panels 1
+Tableau 5 : Situations cliniques sans panel de gènes rapportés par les structures (N = 64)
+Types de cancers Nombre de réponses
+Cancer de l’ovaire 12
+Cancer de la thyroïde 9
+Sarcomes 7
+Cancers de primitif inconnu 6
+Cancers en échec thérapeutique 5
+Gliomes/glioblastomes 3
+Cancer du pancréas 2
+Tumeurs stromales gastro-intestinales (GIST) 2
+Hémopathies lymphoïdes matures (hors LLC) 2
+Neuroblastomes 2
+Cancer du poumon 2
+Syndrome de Lynch 2
+Cancer colorectal 1
+Cancer de l'estomac 1
+Cholangiocarcinome 1
+Hémopathies myéloïdes 1
+Indications agnostiques 1
+Mélanome 1
+Cancer de sein 1
+Syndromes myélodysplasiques 1
+Tumeurs du système nerveux 1
+Cancer de la vessie 1
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 23
+3.9.1. Focus n°1 : fréquence des gènes séquencés dans le cancer du
+poumon
+3.9.1.1. Panels de gènes rapportés par les structures dans la prise en charge du
+cancer du poumon
+Nombre total de gènes séquencés dans les 49 situations cliniques rapportées par les structures :
+ - nombre de panels de gènes = 74 ;
+ - nombre total de gènes mentionnés dans les 74 panels = 231 gènes ;
+ - nombre minimum de gènes mentionnés dans un même panel = 3 gènes ;
+ - nombre maximum de gènes mentionnés dans un même panel = 87 gènes ;
+ - médiane du nombre de gènes par panel = 23 gènes ;
+ - moyenne du nombre de gènes par panel = 27 gènes.
+Tableau 6 : Pourcentage d'occurrence des gènes séquencés dans le cancer du poumon
+Liste de gènes Fréquence de(s) gènes
+dans les 74 panels (%)
+BRAF, EGFR 93 %
+ALK 91 %
+MET 89 %
+KRAS 81 %
+ERBB2 76 %
+PIK3CA, RET, ROS1, FGFR1, FGFR2, FGFR3, NRAS 61 % - 70 %
+MAP2K1, AKT1 51 % - 60 %
+CTNNB1, PDGFRA, TP53, HRAS, KIT, NTRK1, IDH1, IDH2, NTRK2, NTRK3 41 % - 50 %
+ERBB4, DDR2, STK11 31 % - 40 %
+GNAS, NRG1, PTEN, RAF1, GNA11, GNAQ, CDKN2A, ESR1, FBXW7, PPARG, SMAD4 21 % - 30 %
+TERT, CDK4, AXL, POLE, HIST1H3B, FOXL2, H3F3A, NOTCH1, AR, DICER1, PTPN11,
+RAC1, AKT3, CCND1, ERBB3, H3F3B, MAP2K2, MYOD1 10 % - 20 %
+FGFR4, HER2, NUTM1, ERG, MYC, SF3B1, SMO, ARAF, CHEK2, EGFRvIII, ETV1, ETV4,
+ETV5, JAK2, KEAP1, MTOR, THADA, AKT, BRCA1, BRCA2, CHMP2A, EWSR1, H3C2,
+JAK3, MSH2, MYCN, RAB7A, ABL1, AKT2, BIRC3, BRIP1, CASP2, CD274, CDK6, FLT3,
+H3-3A, JAK1, MAML2, MLH1, MSH6, MYB, PDGFRB, PLAG1, PMS2, POLD1, PRKCA,
+ROS, RSPO2, VCP, ARID1A, ATM, BCOR, BRD3, BRD4, CAMTA1, CCNB3, CDK12,
+CDKN2B, CHEK1, CIC, CLIP1, CSF1, EGFR2, EPC1, ETV6, FANCA, FGR, FOXO1, GLI1,
+GPI, H3-3B, HMGA2, HPRT1, INSR, JAZF1, LTK, MAST1, MAST2, MEAF6, MKL2, MSMB,
+MTORRAF1, MUSK, NBN, NCOA2, NOTCH2, NR4A3, NTKR3, NUMBL, PALB2, PAX3,
+PHF1, PKN1, PRKCB, RAD51C, RAD51D, RELA, RSPO3, SS18, ACVR1, AKL, APC,
+ARHGAP26, ARHPGAP26, ATRX, B2M, BAP1, BARD1, CALCA, CCND3, CDH1, CIITA,
+CND1, COL6A3, CREB3L1, CRTC1, CSF1R, DDIT3, DICER, DNAJB1, DNMT3A, DUSP22,
+EIF1AX, ESRRA, EZH2, FANCL, FGF, FGFR, FGR3, FOXO4, FUS, GRP7, H3F3, KANSL1,
+MALT1, MDM2, MILIN2, MN1, MRE11, MYBL1, MYH10, NTRK, PDCD1LG2, PDGFB,
+PDGFD, ZNF276, PI3KR1, PIK3CB, PIK3R1, PRKACA, RAD51B, RAD54L, RB1, REB3L2,
+SEC63, SETD2, SLC7A8, SMARCB1, STAT6, STT3A, TAF15, TCF12, TFE3, TFEB, TFG,
+TMPRSS2, TP53, TP63, TSHR, USP6, WT1, YAP1, YWHAE
+< 10 %
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 24
+Il existe donc une hétérogénéité majeure de composition des différents panels utilisés dans le
+cancer du poumon entre les différentes structures interrogées.
+3.9.1.2. Panel de gènes retenus par la HAS, qui présente un intérêt clinique en
+soins courants dans la prise en charge du cancer du poumon
+À titre informatif, le panel de gènes remboursables, validé par la HAS dans son évaluation
+dans le cadre du cancer du poumon, est composé des gènes suivants : EGFR, ALK, ROS1,
+BRAF, RET et KRAS.
+3.9.2. Focus 2 : fréquence des gènes séquencés en cas de tumeurs
+stromales gastro-intestinales (GIST)
+3.9.2.1. Panels de gènes rapportés par les structures dans la prise en charge des
+GIST
+Nombre total de gènes séquencés dans les 23 situations cliniques rapportées par les structures :
+ - nombre de panels de gènes = 40 ;
+ - nombre total de gènes mentionnés dans les 40 panels = 171 gènes ;
+ - nombre minimum de gènes mentionnés dans un même panel = 1 gène ;
+ - nombre maximum de gènes mentionnés dans un même panel = 59 gènes ;
+ - médiane du nombre de gènes par panel = 25 gènes ;
+ - moyenne du nombre de gènes par panel = 24 gènes.
+Tableau 7 : Pourcentage d'occurrence des gènes séquencés en cas de tumeurs stromales gastro-intestinales (GIST)
+Liste de gènes Fréquence de(s) gènes (%)
+dans les 40 panels rapportés
+BRAF 83 %
+PDGFRA 80 %
+KIT 70 %
+ALK, EGFR, MET, FGFR2, ERBB2, FGFR3, KRAS 60 - 69 %
+FGFR1, NRAS, PIK3CA, CTNNB1, RET 50 - 59 %
+ROS1, AKT1, IDH1, IDH2, HRAS, MAP2K1 40 - 49 %
+ERBB4, TP53, DDR2, GNA11, GNAQ, HISTH3B 30 - 39 %
+RAF1, CDKN2A, GNAS, H3F3A, TERT, CDK4, ESR1, NTRK1, NTRK2, NTRK3,
+PTEN, STK11 20 - 29 %
+POLE, FBXW7, FOXL2, PPARG, PTPN11, RAC1, SMAD4, DICER1, ERBB3, H3F3B,
+MAP2K2, MYC, SF3B1, ABL1, AR, AXL, FGFR4, JAK2, MYCN, MYOD1, NRG1 10 - 19 %
+AKT3, CDK6, ERG, ETV1, ETV4, ETV5, JAK1, JAK3, MTOR, POLD1, SDH, SMO,
+AKT, ARAF, CHEK2, CND1, FGR3, KEAP1, MAP2K1(MEK1), NOTCH1, PDGFRB,
+PI3KR1, ACVR1, AKT2, AKT3/ERG, ARID1A, ATM, ATR, ATRX, BARD1, BCOR,
+BCR, BIRC3, BLM, BRCA1, BRCA2, BRIP1, CASP2, CBFB, CBL, CCND1, CDK12,
+CDKN2B, CHEK1, C-KIT, CSF1, DEK, DNMT3A, EGFR2, EGFRvIII, EIF1AX, ETV6,
+EWSR1, EZH2, FANCA, FANCB, FANCC, FANCE, FANCF, FANCL, FLT3, FUS,
+GLI1, GLIS2, H3-3B, HAUS1, HDAC2, HIST1H3C, INPP4B, KMT2A, LIG4, MAP3K8,
+< 10 %
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 25
+Liste de gènes Fréquence de(s) gènes (%)
+dans les 40 panels rapportés
+MDM2, MECOM, MGEA5, MLF1, MRE11A, NBN, NCOA2, NOTCH2, NOTCH3,
+NPM1, NRK1, NTKR3, NUP214, NUTM1, PALB2, PAX5, PDGFB, PDGFD, PML,
+PPP2R2A, PRRC2B, RADS0, RADS1, RADS1B, RADS1C, RADS1D, RADS4L,
+RARA, ROS, RUNX1, RUNX1T1, SS18, STAG2, STAT6, TFG, TGFBR3, TSHR,
+TYK2, WHSC
+Il existe donc une hétérogénéité majeure de composition des différents panels utilisés dans les
+GIST entre les différentes structures interrogées.
+3.9.2.2. Panel de gènes retenus par la HAS, qui présente un intérêt clinique en
+soins courants dans la prise en charge des tumeurs stromales gastro-intestinales
+À titre informatif, le panel de gènes remboursables, validé par la HAS dans son évaluation
+dans le cadre des GIST, est composé des gènes suivants : KIT, PDGFRA et NTRK1/2/3 (pour
+ce dernier, uniquement pour les tumeurs stromales gastro-intestinales sauvages pédiatriques au stade
+localement avancé ou métastatique, et réfractaires ou en rechute pouvant bénéficier d’un traitement).
+3.9.3. Focus n°3 : fréquence des gènes séquencés en cas de leucémie
+lymphoïde chronique (LLC) associée ou non à d’autres hémopathies
+lymphoïdes
+Nombre total de gènes séquencés dans les quatorze situations cliniques rapportées par les
+structures :
+ - nombre de panels de gènes = 14 ;
+ - nombre total de gènes mentionnés dans les quatorze panels = 125 gènes ;
+ - nombre minimum de gènes mentionnés dans un même panel = 1 gène ;
+ - nombre maximum de gènes mentionnés dans un même panel = 69 gènes ;
+ - moyenne du nombre de gènes par panel = 17 gènes ;
+ - médiane du nombre de gènes par panel = 7 gènes.
+Tableau 8 : Pourcentage d'occurrence des gènes séquencés dans la LLC associée ou non à d’autres hémopathies
+malignes
+Liste de gènes Fréquence de(s) gènes (%) dans les 14 panels rapportés
+TP53 71 %
+BTK 57 %
+BCL2, BRAF 50 %
+CXCR4, BIRC3, ATM, MYD88, NOTCH1 43 %
+PLCG2, SF3B1, CD79B 36 %
+IGHV, CD79A, NOTCH2, FBXW7 29 %
+NFKBIE, EZH2, CARD11, DNMT3A 21 %
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 26
+Liste de gènes Fréquence de(s) gènes (%) dans les 14 panels rapportés
+CREBBP, FLT3, IDH2, BCOR, IDH1, NPM1, CALR, POT1,
+EGR2, XPO1, RPS15, ZMYM3, TET2, MPL, ARID1A,
+JAK2, RUNX1, PDGFRA, TNFAIP3, CACNA1A, PTEN,
+EGR1, SRSF2, ASXL1, CECR1, EIF3H, CUX1, EPHA3,
+RB1, ETV6/TEL, SIN3A, ASL, SUMF2, FAT4, WT1, CBL,
+NRAS, CBLB, PLCG1, GATA1, PRDM1, GATA2, RAD21,
+GNAS, RHOA, HRAS, DCC, CBLC, SMC3, CCND3,
+STAT3, IGHD, TBL1XR1, IGHJ, TRAF3, CCNE1, CEBPA,
+IKBKB, ATRX, IKZF1, PCDH10, IRF4, PHF6, XBP1,
+CSF3R, CCR4, POU6F1, CD28, PROS1, ABL1, PTPN11,
+KLF2, RASSF6, KLHL6, REL, KMT2D, B2M, KRAS,
+SETBP1, MAP3K14, SF3B2, MAPK1, SMC1A, MDM2,
+SOX5, MIR15A, STAG2, MIR16, STAT5B, MLL, SWAP70,
+BCORL1, DDX3X, MYC, DLEU1, ATP2A3, U2AF1,
+MYOM1, DLEU2, CDKN2A, ZAR1, JAK3, ZRSR2,
+KDM6A/UTX, KIT
+14 % - 7 %
+Il existe donc une hétérogénéité majeure de composition des différents panels utilisés dans la
+LLC associée ou non à d’autres hémopathies malignes entre les différentes structures interrogées.
+3.9.4. Focus n°4 : La fréquence des gènes séquencés en cas de leucémie
+lymphoïde chronique (LLC)
+Nombre total de gènes séquencés dans les huit situations cliniques rapportées par les structures :
+ - nombre de panels de gènes = 8 ;
+ - nombre total de gènes mentionnés dans les huit panels = 23 gènes ;
+ - nombre minimum de gènes mentionnés dans un même panel = 1 gène ;
+ - nombre maximum de gènes mentionnés dans un même panel = 45 gènes ;
+ - moyenne du nombre de gènes par panel = 10 gènes ;
+ - médiane du nombre de gènes par panel = 4 gènes.
+Tableau 9 : Pourcentage d'occurrence des gènes séquencés dans la LLC
+Liste de gènes Fréquence de(s) gènes (%) dans les
+14 panels rapportés
+TP53 63 %
+IGHV 50 %
+ATM, BTK 38 %
+BCL2, BIRC3, MYD88, NOTCH1 25 %
+CXCR4, RPS15, PLCG2, FBXW7, NFKBIE, SF3B1, NOTCH2, BRAF, POT1,
+CD79A, EGR2, CD79B, SF3B2, IGHD, IGHJ 13 %
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 27
+3.9.4.1. Panel de gènes retenus par la HAS, qui présente un intérêt clinique en
+soins courants dans la prise en charge de la leucémie lymphoïde chronique
+À titre informatif, le panel de gènes remboursables, validé par la HAS dans son évaluation
+dans le cadre la leucémie lymphoïde chronique, est composé des gènes suivants : TP53,
+IGHV, BTK, PLCG2 et BCL2.
+3.10. Volume d’activité du séquençage haut débit ciblé rapporté par
+les structures
+Le volume annuel d’activité présenté dans les Tableau 10 et Tableau 11 est issu des réponses des
+plateformes hospitalières de génétique moléculaire labellisées par l’INCa, des groupes privés de laboratoires de biologie moléculaires et des cabinets d’anatomocytopathologie.
+Comme mentionné au chapitre 3.2, sur les 577 situations cliniques rapportées, 22 ont été exclues des
+analyses car elles ne relevaient pas du périmètre de l’enquête. Parmi les 555 situations restantes,
+481 provenaient des plateformes hospitalières et des groupes privés, avec 20 % de données manquantes (soit 94 situations). Les 74 autres situations provenaient des CNP et des sociétés savantes,
+dont 78 % (soit 58 situations) n’étaient pas renseignées.
+Ainsi, le volume d’activité a été calculé uniquement à partir des données complètes rapportées par les
+plateformes hospitalières et les groupes privés. Les CNP et les sociétés savantes ont rapporté uniquement des données au niveau national.
+Tableau 10 : Volume annuel d’activité du séquençage haut débit ciblé rapporté par les structures dans les tumeurs
+solides
+Tumeurs solides Nombre total de situations cliniques Nombre total d’actes
+rapportés
+Cancer du poumon 51 23 801
+Cancer de l'ovaire 38 5 844
+Cancer colorectal 31 7 509
+Mélanome 31 4 822
+Cancer de la thyroïde 30 855
+Cholangiocarcinome 28 844
+Tumeurs stromales gastro-intestinales (GIST) 26 1 004
+Gliomes/glioblastomes 21 3 978
+Tumeurs neuro-oncologiques 14 1 117
+Cancer de la prostate 21 827
+Cancer de l'utérus 20 2 265
+Cancer du sein 20 2 739
+Sarcomes hors GIST 25 1 156
+Cancer du pancréas 18 771
+Cancer de la vessie 16 535
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 28
+Tumeurs solides Nombre total de situations cliniques Nombre total d’actes
+rapportés
+Cancer de primitif inconnu 8 56
+Cancer des glandes salivaires 2 139
+Tumeurs épidermoïdes 1 88
+Cancers en échec thérapeutique 7 2 687
+Lorsqu’une structure avait rapporté le volume d’activité sur plusieurs années, la moyenne des actes rapportés a été prise en compte dans
+les analyses.
+Tableau 11 : Volume annuel d’activité du séquençage haut débit ciblé rapporté par les structures dans les hémopathies malignes.
+Hémopathies malignes Nombre total de situations cliniques Nombre total d’actes rapportés
+Néoplasies myéloprolifératives 16 3 574
+Syndromes myélodysplasiques 4 2 220
+Hémopathies lymphoïdes matures 37 8 922
+Myélome multiple 2 250
+Leucémie myéloïde chronique 4 1 275
+Leucémie lymphoïde chronique 8 4 282
+Leucémie aigüe myéloïde 8 649
+Leucémie aigüe lymphoïde 8 1 241
+Hémopathies myéloïdes rares 6 47
+Hémopathies myéloïdes 13 2 215
+Hémopathies malignes 6 3 741
+Errance diagnostique devant une
+suspicion d'hémopathie 1 500
+Aplasie médullaire 1 2
+Lorsqu’une structure avait rapporté le volume d’activité sur plusieurs années, la moyenne des actes rapportés a été prise en compte dans
+les analyses.
+3.11. Matériels de séquençage haut débit ciblé utilisés par les
+structures
+Dans 59 % des situations cliniques rapportées, les structures ont mentionné le recours aux matériels
+de séquençage mixtes, c’est-à-dire « maisons » et industriels, pour la réalisation du séquençage haut
+débit ciblé. Dans 6 % des situations cliniques rapportées, les structures ont mentionné uniquement
+l’utilisation de matériels industriels.
+Les fabricants et le type de matériels utilisés pour la réalisation du séquençage haut débit ciblé ont été
+mentionnés dans 32 % des situations cliniques rapportées par les structures et sont rapportés dans la
+Figure 12 et le Tableau 12.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 29
+Figure 12 : Fabricants de matériels de séquençage haut débit rapportés par les structures (N = 177/555 situations
+cliniques)
+Autres fabricants* : Qiagen, Invitae, Invivoscribe.
+Tableau 12 : Types de séquenceurs haut débit utilisés par les structures
+Fabricants Types de séquenceurs haut débit
+Illumina Illumina Nextseq 500, Illumina Miseq, Illumina Novaseq 6000
+Thermo Fisher Scientific Panel RUO, Ion Torrent S5 Sequencer, 3500xL, Ion PGM Dx System
+Aligent 4200 TapeStation System, Magnis DX NGS
+Hamilton company NGS STAR
+Archer DX FusionPlex
+InvivoScribe Panel LymphoTrack Dx TRG, Panel LymphoTrack Dx IGK, Panel LymhoTrack Dx IGH
+3.12. Tests de génétique somatique réalisés préalablement au
+déploiement du séquençage haut débit ciblé pour chaque
+structure
+Dans 55,5 % des situations cliniques rapportées, les structures ont mentionné l’utilisation
+d’autres tests génétiques antérieurement à l’accès au séquençage haut débit ciblé dans la
+structure, pour la recherche des altérations moléculaires (cf. Figure 13).
+0% 10% 20% 30% 40% 50% 60% 70%
+Archer DX (N=5)
+Autres fabricants (N=7)
+Euroclonality (N=9)
+Hamilton company (N=10)
+Sophia genetics (N=22)
+Aligent (N=27)
+ThermoFisher (N=66)
+Illumina (N=111)
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 30
+Figure 13 : Tests antérieurs au séquençage haut débit ciblé rapportés par les structures (N = 555 situations cliniques)
+Les différents tests de génétique somatique réalisés antérieurement au séquençage haut débit ciblé
+sont présentés en Figure 14.
+Figure 14 : Typologie des tests de génétique somatique réalisés antérieurement au séquençage haut débit ciblé
+(N = 308 situations cliniques)
+Plusieurs tests antérieurs pouvaient être rapportés pour une même situation clinique.
+FISH : fluorescent in situ hybridization ; PCR : Polymerase Chain Reaction ; PCR : regroupe toutes les techniques de PCR
+rapportées par les structures (HRM, Snapshot, Taqman, RT-MLPA, ddPCR, RT-PCR, qPCR, etc.) ; puce à ADN : SNP array,
+CGH array, Mass array.
+Dans 28,3 % des situations cliniques rapportées, la recherche des altérations moléculaires a été initiée
+dans la structure avec l’accès au séquençage haut débit ciblé, sans recours préalable à d’autres tests.
+La ventilation des situations cliniques pour lesquelles aucun test antérieur n’a été rapporté par la structure est présentée en Figure 15.
+308
+157
+90
+Autres tests en dehors du NGS Aucun test avant le NGS Données manquantes
+0 20 40 60 80 100 120 140 160 180 200
+Discrimination allélique
+Immunohistochimie
+Puce à ADN
+Pyroséquençage
+Analyse de fragments
+FISH
+Séquençage Sanger
+PCR
+Nombre de tests antérieurs au NGS
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 31
+Figure 15 : Les situations cliniques pour lesquelles aucun test antérieur au séquençage haut débit ciblé n’a été
+rapporté par les structures (N = 157 situations cliniques)
+GIST : Tumeurs stromales gastro-intestinales.
+3.12.1. Typologie des tests de génétique somatique réalisés
+antérieurement au séquençage haut débit ciblé et rapportés par
+types de situations cliniques
+La ventilation, par situation clinique, du recours à d’autres tests de génétique somatique antérieurement au séquençage haut débit ciblé est rapportée pour les tumeurs solides en Figure 16, et pour les
+hémopathies malignes en Figure 17. Parmi les multiples tests utilisés, sont fréquemment mentionnés
+la PCR, le séquençage Sanger, le pyroséquençage, la FISH ou encore l’analyse de fragments.
+Concernant les tumeurs solides, le cancer du poumon, le cancer colorectal et le mélanome étaient les
+situations cliniques les plus mentionnées par les structures utilisant des tests de génétique somatique
+antérieurs au séquençage haut débit ciblé. À titre d’exemple, dans le cancer du poumon, 32 structures
+ont rapporté que la PCR était utilisée pour la recherche des altérations moléculaires avant le recours
+au séquençage haut débit ciblé.
+Concernant les hémopathies malignes, ce sont les hémopathies lymphoïdes matures, les leucémies
+aigues myéloïdes et les hémopathies myéloïdes qui ont été les situations cliniques les plus mentionnées par les structures utilisant des tests de génétique somatique antérieurs au séquençage haut débit
+ciblé.
+0
+5
+10
+15
+20
+25
+Cancer de l'ovaire
+Cholangiocarcinome
+Cancer de la prostate
+Cancer de la thyroïde
+Hémopathies lymphoïdes…
+Néoplasies myéloprolifératives
+Cancer du sein
+Cancer de la vessie
+Cancer du pancréas
+Cancer de l'utérus
+Cancer de primitif inconnu
+Hémopathies myéloïdes rares
+Cancers en échec…
+GIST
+Gliomes/gliobastomes
+Poumon
+Sarcomes
+Hémopathies myéloïdes
+Syndromes myélodysplasiques
+Tumeurs neuro-oncologiques
+Aplasies médullaires
+Cancer colorectal
+Cancer du thymus
+Suspicion d’hémopathie
+Hématopièse clonale
+Hémopathies malignes
+Lésions vasculaires
+Leucémie aigue…
+Leucémie aiguë myéloïde
+Leucémie lymphoïde chronique
+Tumeurs DMMR Lynch-like
+Nombre de situations cliniques
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 32
+Figure 16 : Tests antérieurs au NGS rapportés par les structures dans les tumeurs solides
+Plusieurs tests antérieurs pouvaient être rapportés pour une même situation clinique.
+GIST : tumeurs stromales gastro-intestinales ; FISH : fluorescent in situ hybridization ; PCR : Polymerase Chain Reaction ; puce à ADN :
+SNP array, CGH array, Mass array ; PCR : regroupe toutes les techniques de PCR rapportées par les structures (HRM, Snapshot, Taqman,
+RT-MLPA, ddPCR, RT-PCR, qPCR, etc.)
+Figure 17 : Tests antérieurs au NGS rapportés par les structures dans les hémopathies malignes
+Plusieurs tests antérieurs pouvaient être rapportés pour une même situation clinique.
+FISH : fluorescent in situ hybridization ; PCR : Polymerase Chain Reaction ; PCR : regroupe toutes les techniques de PCR rapportées par
+les structures (HRM, Snapshot, Taqman, RT-MLPA, ddPCR, RT-PCR, qPCR, etc.) ; Puce à ADN : SNP array, CGH array, Mass array.
+0 10 20 30 40 50 60 70 80 90 100
+Tumeurs des glandes salivaires
+Tumeurs épidermoïdes
+Cancer de la vessie
+Cancer de la prostate
+Cancer du pancréas
+Cancer de l'utérus
+Cancer de l'ovaire
+Cancer du sein
+Cholangiocarcinome
+Tumeurs neuro-oncologiques
+Cancer de la thyroide
+Gliomes/Glioblastomes
+GIST
+Mélanome
+Cancer colorectal
+Cancer du poumon
+Nombre de structures
+Discrimination allélique Immunohistochimie Puce à ADN Pyroséquençage
+Analyse de fragment FISH Séquençage Sanger PCR
+0 5 10 15 20 25 30 35 40 45 50
+Hémopathies myéloides rares
+Myélome Multiple
+Leucémie myéloïde chronique
+Syndrome myélodysplasique
+Hémopathies malignes
+Leucémie lymphoïde chronique
+Leucémie aigue lymphoïde
+Néoplasies myéloprolifératives
+Hémopathies myéloides
+Leucémie aigue myéloïde
+Hémopathies lymphoïdes matures
+Nombre de structures
+Cytométrie en flux Discrimination allélique Puce à ADN Pyroséquençage
+Analyse de fragment FISH Séquençage Sanger PCR
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 33
+3.12.2. Degré de substitution par le séquençage haut débit ciblé des tests
+de génétique somatique antérieurs
+Les structures ont ensuite été interrogées sur leur degré de substitution par le séquençage haut débit
+ciblé des tests antérieurs, lorsque ces derniers avaient été mentionnés. Dans 58,4 % des cas, les
+autres tests de génétique somatique ont été substitués par le séquençage haut débit ciblé (cf.
+Figure 18).
+Figure 18 : Substitution des tests antérieurs par le NGS rapportée par les structures (N = 308 situations cliniques)
+Cette substitution par le séquençage haut débit ciblé a principalement concerné la discrimination allélique (100 % de substitution rapportée), le séquençage Sanger (88 % de substitution rapportée), l’analyse de fragment (84 % de substitution rapportée) et le pyroséquençage (80 % de substitution
+rapportée). A l’inverse, les techniques classiques d’anatomocytopathologie ont peu été substituées
+(33 % pour la FISH et 31 % pour l’immunohistochimie) (cf. Figure 19).
+Figure 19 : Degré de substitution par le séquençage haut débit ciblé pour chaque modalité de tests antérieurs rapporté par les structures (N = 308 situations cliniques)
+FISH : fluorescent in situ hybridization ; PCR : Polymerase Chain Reaction ; puce à ADN : SNP array, CGH array, Mass array.
+180
+115
+13
+Le NGS substitue le test antérieur Le NGS ne substitue pas le test antérieur Données manquantes
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Discrimination allélique (N=16)
+Immunohistochimie (N=19)
+Puce à ADN (N=22)
+Pyroséquençage (N=41)
+Analyse de fragments (N=56)
+FISH (N=60)
+Séquençage Sanger (N=179)
+PCR (N=182)
+Pourcentage de substitution des tests antérieurs
+Le NGS substitue le test antérieur Le NGS ne substitue pas le test antérieur
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 34
+Les arguments rapportés par les structures concernant la non-substitution des tests antérieurs par le
+séquençage haut débit ciblé sont :
+‒ en cas d’urgence diagnostique ou thérapeutique ;
+‒ dans les situations cliniques où un seul test monogénique suffit pour prendre en charge les
+patients ;
+‒ lorsque la qualité du tissu tumoral n’était pas optimale pour la réalisation du séquençage haut
+débit ciblé ;
+‒ pour la recherche d’anomalies difficiles à analyser par séquençage haut débit ciblé, telles que
+la recherche des gènes de fusion ou hotspot.
+Le Tableau 13 détaille les situations cliniques pour lesquelles les structures ont déclaré ne pas substituer des tests de génétique somatique par du séquençage haut débit ciblé.
+Tableau 13 : Situations cliniques où le NGS ne substitue pas les tests antérieurs (N = 115 situations cliniques)
+Types de cancers
+Nombre de situations cliniques rapportées où le séquençage haut débit ciblé
+ne substitue pas les tests antérieurs
+Nombre total de situations
+cliniques
+Cancer du poumon 20 51
+Mélanome 13 31
+Hémopathies lymphoïdes matures 12 37
+Cancer colorectal 9 31
+Sarcomes hors GIST 9 25
+Hémopathies myéloïdes 6 13
+Cancer du sein 5 20
+GIST 4 26
+Cancer de la prostate 3 21
+Cancer de la thyroïde 3 30
+Cancer de l'utérus 3 20
+Gliomes/glioblastomes 3 21
+Leucémie aiguë myéloïde 3 8
+Cancer de l'ovaire 3 38
+Cancer du pancréas 2 18
+Cancers en échec thérapeutique 2 7
+Cholangiocarcinome 2 28
+Tumeurs des glandes salivaires 2 2
+Tumeurs neuro-oncologiques 3 14
+Cancer de la vessie 2 16
+Hémopathies malignes 1 6
+Tumeur solide 1 7
+Rétinoblastomes 1 1
+Syndromes myélodysplasiques 1 4
+Tumeurs digestifs (hors colon) 1 1
+Tumeurs épidermoïdes 1 1
+NB : Les résultats présentés dans le tableau 13 s’appliquent aux situations cliniques où un test de génétique somatique antérieur au
+séquençage haut débit ciblé a été rapporté par les structures sollicitées.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 35
+3.12.1. Substitution par le séquençage haut débit ciblé des tests de
+génétique somatique antérieurs dans les tumeurs solides et
+hémopathies malignes
+Lorsque les structures ont mentionné des situations cliniques pour lesquelles les tests antérieurs
+étaient substitués par le séquençage haut débit ciblé, il a également été possible d’apprécier le degré
+de substitution par séquençage haut débit ciblé pour chaque test précédemment utilisé, et ce pour
+différents groupes de situations cliniques. Ceci est présenté pour les tumeurs solides (cf. Figure 20) et
+les hémopathies malignes (cf. Figure 21).
+Figure 20 : Substitution des tests antérieurs par le séquençage haut débit ciblé dans les tumeurs solides
+FISH : fluorescent in situ hybridization ; PCR : Polymerase Chain Reaction ; puce à ADN : SNP array, CGH array, Mass array ; GIST :
+tumeurs stromales gastro-intestinales.
+Méthode de calcul pour la substitution d’un test antérieur par le NGS ciblé : le nombre de structures ayant déclaré que le NGS substitue le
+test antérieur rapporté au nombre total du test antérieur déclaré
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+67%
+50%
+50%
+100%
+100%
+67%
+88%
+73%
+100%
+50%
+100%
+100%
+60%
+87%
+100%
+100%
+100%
+100%
+100%
+67%
+100%
+100%
+100%
+100%
+100%
+100%
+50%
+57%
+33%
+100%
+100%
+68%
+100%
+92%
+100%
+100%
+95%
+60%
+90%
+100%
+88%
+66%
+100%
+60%
+100%
+100%
+50%
+53%
+70%
+67%
+100%
+50%
+83%
+80%
+53%
+75%
+71%
+100%
+100%
+83%
+50%
+MÉLANOME
+TUMEURS ÉPIDERMOIDES
+CANCER COLORECTAL
+CANCER DU PANCRÉAS
+CHOLANGIOCARCINOME
+GIST
+CANCER DE LA THYROIDE
+GLIOMES/GLIOBLASTOMES
+TUMEURS NEURO-ONCOLOGIQUES
+CANCER DU POUMON
+CANCER DU SEIN
+SARCOMES
+TUMEURS DES GLANDES SALIVAIRES
+PROSTATE
+CANCER DE L'UTÉRUS
+CANCER DE L'OVAIRE
+CANCER DE LA VESSIE
+Discrimination allélique Immunohistochimie Puce à ADN Pyroséquençage
+Analyse de fragment FISH Séquençage Sanger PCR
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 36
+Figure 21 : Substitution des tests antérieurs par le séquençage haut débit ciblé dans les hémopathies malignes
+FISH : fluorescent in situ hybridization ; PCR : Polymerase Chain Reaction.
+Méthode de calcul pour la substitution d’un test antérieur par le NGS ciblé : le nombre de structures ayant déclaré que le NGS substitue le
+test antérieur rapporté au nombre total du test antérieur déclaré.
+.
+100%
+100%
+100%
+100%
+100%
+71%
+100%
+67%
+80%
+100%
+50%
+100%
+100%
+100%
+100%
+86%
+100%
+63%
+71%
+100%
+100%
+83%
+80%
+100%
+100%
+50%
+33%
+50%
+33%
+NÉOPLASIES MYÉLOPROLIFÉRATIVES
+LEUCÉMIE AIGUE LYMPHOÏDE
+LEUCÉMIE MYÉLOÏDE CHRONIQUE
+MYÉLOME MULTIPLE
+LEUCÉMIE LYMPHOÏDE CHRONIQUE
+HÉMOPATHIES LYMPHOÏDES MATURES
+SYNDROME MYÉL ODYSPL ASIQUE
+HÉMOPATHIES MYÉLOIDES
+LEUCÉMIE AIGUE MYÉLOÏDE
+HÉMOPATHIES MALIGNES
+HÉMOPATHIES MYÉLOIDES RARES
+Cytométrie en flux Discrimination allélique Analyse de fragment FISH Séquençage Sanger PCR
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 37
+3.13. Avantages et limites du séquençage haut débit ciblé rapportés
+par les structures
+Enfin, les structures ont été interrogées sur les avantages (cf. Figure 22) et les limites (cf. Figure 23)
+de l’utilisation du séquençage haut débit ciblé.
+Figure 22 : Les avantages du séquençage haut débit ciblé rapportés par les structures
+Les avantages de l’utilisation du séquençage haut débit ciblé les plus fréquemment rapportés sont :
+‒ l’approche intégrée multigénique (multiplexage des cibles permettant de rechercher simultanément plusieurs altérations moléculaires à partir d’un seul échantillon prélevé) ;
+‒ une meilleure sensibilité (notamment analytique) ;
+‒ des gains de temps (technique et médical) et financier.
+A l’inverse, les limites de l’utilisation du séquençage haut débit ciblé les plus fréquemment rapportées
+sont :
+‒ les délais de rendu de résultats ;
+‒ les difficultés bio-informatiques ;
+‒ le coût des équipements et des réactifs.
+0
+50
+100
+150
+200
+Approche intégrée
+multigénique
+Meilleure sensibilité
+Gain de temps technique,
+gain de temps médical, et
+gain financier
+Exhaustivité
+Économie des échantillons
+tissulaires
+Rationalisation des
+équipements
+Automatisable
+Possibilité de chercher les
+réarrangements
+intragéniques
+Intégration de marqueurs
+d’identitovigilance
+Pipeline d'analyse plus
+sécurisé (moins de nonconformité)
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 38
+Figure 23 : Les limites du séquençage haut débit ciblé rapportés par les structures
+0
+50
+100
+150
+200
+250
+Délai de rendu, contrôle des
+délais de réponse
+Bio-informatique
+Coût (réactifs, équipements)
+Sensibilité limitée
+Contrôle histologique pour
+valider la qualité des
+échantillons
+Nécessite des compétences
+techniques et théoriques
+Ne permet pas une étude de
+l'hétérogénéité intra-tumorale
+des anomalies recherchées
+Nécessite une cellularité
+tumorale suffisante
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 39
+4. Forces et limites de l’enquête
+Cette enquête, réalisée en 2022, a permis de mobiliser les différents acteurs « effecteurs » du séquençage haut débit ciblé en génétique somatique des cancers, afin de connaître l’état actuel de la pratique
+en France.
+4.1. Les forces de l’enquête
+Cette enquête, focalisée sur les effecteurs du séquençage haut débit ciblé, a sollicité la majorité des
+acteurs impliqués en génétique somatique des cancers : plateformes de génétique moléculaire labelisées par l’INCa, Conseil nationaux professionnels, sociétés savantes, groupes privés d’anatomocytopathologie.
+Avec un taux de participation à 79 (34 réponses sur 43 structures sollicitées), ces résultats sont
+représentatifs de l’utilisation du séquençage haut débit ciblé au niveau national.
+Cette enquête est également représentative par son ampleur : 555 situations cliniques rapportées
+par les acteurs ont été recensées et analysées, permettant de dessiner une image précise de l’utilisation du séquençage haut débit ciblé, que ce soit pour les tumeurs solides ou les hémopathies malignes.
+De plus, cette enquête a permis de caractériser finement l’utilisation du séquençage haut débit
+ciblé, permettant ainsi d’objectiver de manière transversales les multiples hétérogénéités d’utilisation du séquençage haut débit ciblé, que ce soit en matière de finalités, d’indications, de composition des panels, d’avantages ou d’inconvénients.
+Grâce à ces éléments, cette enquête de pratique a permis de fournir à la HAS les éléments préalables indispensables pour pouvoir définir le périmètre des évaluations du séquençage haut
+débit ciblé à mener par la HAS, ainsi que la priorisation de ces dernières afin d’établir un programme pluriannuel d’évaluations.
+4.2. Les limites de l’enquête
+Cette enquête présente plusieurs limites, certaines intrinsèques (comme exemple le caractère déclaratif des réponses apportées, ou la phase de test des questionnaires effectuée uniquement par e-mail),
+d’autres extrinsèques, liées au degré de complétude et de précision des réponses apportées. Par
+exemple, la distinction entre les gènes séquencés et les gènes analysés n’était pas bien rapportée par
+les structures. L’étude des panels de gènes séquencés rapportés par les structures a révélé une
+grande hétérogénéité des pratiques.
+La période d’envoi des questionnaires a été concomitante avec celle d’autres enquêtes/rapports à
+compléter par les acteurs, tels que les rapports d’activités de l’Agence de la biomédecine et les rapports d’activité Piramig pour le ministère chargé de la santé. Les participants à l’enquête étaient mobilisés sur plusieurs rapports, ce qui pourrait expliquer l’absence de participation des 21 % des structures
+sollicitées.
+Enfin, plusieurs établissements de santé ont répondu à titre collectif au questionnaire en apportant une
+réponse unique, ce qui a pu entraîner une sous-estimation du nombre de réponses pour certaines
+situations cliniques.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 40
+5. Conclusions et perspectives
+Cette enquête de pratique, réalisée en 2022, a permis de de caractériser finement l’utilisation du
+séquençage haut débit ciblé en génétique somatique des cancers en France.
+Elle a particulièrement permis d’identifier les indications et les altérations géniques intégrées
+dans les panels utilisés en 2022 en France.
+Grâce à ces informations, cette enquête a permis à la HAS avec la participation des parties prenantes,
+d’établir le cadre global et le programme pluriannuel d’évaluation des actes de séquençage
+haut débit ciblé en génétique somatique des cancers par la HAS.
+Par ailleurs, selon les résultats de cette enquête, le séquençage haut débit ciblé est principalement
+utilisé pour une fonction prédictive et également pour des fonctions diagnostiques et pronostiques en fonction des indications considérées.
+L’enquête a également donné lieu à l’identification des matériels utilisés en séquençage haut débit
+ciblé, des différentes techniques de génétique moléculaire utilisées en génétique somatique des cancers, et ainsi répertorier les différentes alternatives et comparateurs au séquençage haut débit
+ciblé par situation clinique.
+L’enquête a également mis en évidence les sources de recommandations sur lesquelles les structures
+s'appuient pour la réalisation du séquençage haut débit ciblé.
+L’enquête a également identifié les avantages du séquençage haut débit ciblé, rapportés par les structures (approche intégrée multigénique, meilleure sensibilité, gains de temps et financiers), ainsi que
+ses inconvénients (délai des rendus de résultats, problèmes bio-informatiques, coûts des équipements
+et des réactifs).
+Bien que le but l’enquête était de réaliser un état des lieux sur l’utilisation du séquençage haut débit
+ciblé avec une finalité sanitaire, il a été mis en évidence une utilisation à des fins de recherche
+(principalement clinique) d’actes de séquençage haut débit ciblé financés par le RIHN (donc
+hors du périmètre du RIHN).
+Mais au-delà de ces éléments qui vont permettre à la HAS de mener ses évaluations, le principal
+enseignement de cette enquête est la mise en évidence d’une hétérogénéité majeure dans la
+pratique du séquençage haut débit ciblé en génétique somatique des cancers en France. Cette
+hétérogénéité porte sur de multiples dimensions : composition des panels de gènes utilisés,
+indications du séquençage haut débit ciblé, finalités d’utilisation, place dans la stratégie de
+prise en charge…
+Cette enquête a donc démontré la nécessité de déterminer et d’harmoniser l’utilisation du séquençage haut débit ciblé au niveau national afin de donner la même chance à tous les patients
+d’avoir accès à des soins adaptés à leurs profils génétiques.
+Il est nécessaire de déterminer la composition des panels de gènes ciblés remboursables par l’Assurance maladie sur la recherche d’altérations moléculaires dont l’utilité clinique est prouvée dans la prise
+en charge des patients. L’harmonisation des pratiques permettra de donner la même chance à
+tous les patients d’avoir accès aux mêmes tests quelles que soient leurs zones d’habitation.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 41
+Participants
+Plateformes hospitalières de génétique moléculaires labélisées par l’INCa
+Plateforme de Clermont-Ferrand Plateforme de l’Institut Gustave Roussy
+Plateforme de Grenoble Plateforme de Caen
+Plateforme de Lyon Plateforme de Rouen
+Plateforme de Besançon Plateforme de Bordeaux - La Réunion
+Plateforme de Dijon Plateforme de Limoges
+Plateforme de Brest Plateforme de Poitiers
+Plateforme de Rennes Plateforme de Montpellier - Nîmes
+Plateforme d'Amiens Plateforme de Toulouse
+Plateforme de Lille Plateforme d'Angers
+Plateforme de l'AP-HP Plateforme de Nantes
+Plateforme de l'Institut Curie Plateforme de Marseille
+Plateforme de Tours-Orléans Plateforme de Nice
+Conseils Nationaux Professionnels
+‒ CNP d’hématologie
+‒ CNP des pathologistes
+Sociétés savantes
+‒ Groupe francophone de cytogénomique oncologique (GFCO)
+‒ Groupe des biologistes moléculaires des hémopathies malignes (GBMHM)
+‒ Société française de pathologie (SFP)
+‒ Société française de cytologie clinique (SFCC)
+‒ Société française des cancers et leucémies de l’enfant et de l’adolescent (SFCE)
+Laboratoires et groupes privés d’anatomocytopathologie
+‒ Cabinet Cypath
+‒ Cabinet Médipath
+‒ Imagenome LABOSUD
+Remerciements
+La HAS tient à remercier l’ensemble des participants cités ci-dessus.
+HAS • Activité du séquençage haut débit ciblé en génétique somatique des cancers financée dans le cadre du RIHN • juillet 2024 42
+Abréviations et acronymes
+ADN Acide désoxyribonucléique
+AMM Autorisation de mise sur le marché
+ASCO American Society for Clinical Oncology
+CGH Comparative Genomic Hybridization
+CCAM Classification commune des actes médicaux
+DGOS Direction générale de l'offre des soins
+ESMO European Society for Medical Oncology
+FISH Fluorescence in situ hybridization
+GBMHM Groupe de biologie moléculaire et des hémopathies malignes
+GFCO Groupe francophone de cytogénomique oncologique
+GIST Tumeurs stromales gastro-intestinales
+HAS Haute Autorité de santé
+INCa Institut national du cancer
+MERRI Mission enseignement recherche référence et innovation
+NABM Nomenclature des actes de biologie médical
+NGS Next Generation Sequencing
+PCR Polymerase Chain Reaction
+PFMG Plan France Médecine Génomique
+RIHN Référentiel des actes innovants hors nomenclature
+STHD Séquençage très haut débit
+TAAN Techniques d’amplification des acides nucléiques
+WES Wide Exome Sequencing
+WGS Wide Genome Sequencing
+Retrouvez tous nos travaux sur
+www.has
+-sante.fr
+Développer la qualité dans le champ
+sanitaire, social et médico
+-social
+© Haute Autorité de santé – juillet 2024
+
+Synthèse à destination du
+médecin traitant
+Mars 2021
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux
+Extraite du Protocole National de Diagnostic et de Soins (PNDS)
+Syndrome de Pendred
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+2
+Synthèse à destination du médecin traitant
+Le syndrome de Pendred est une maladie d’origine génétique. Sa prévalence est estimée à 1-
+9/ 100 000.
+Ce syndrome associe deux signes principaux : une surdité de perception précoce et un goitre.
+Le pronostic est en premier lieu auditif, puisque la gravité de la surdité va limiter la réception
+de la parole et gêner l’appropriation de la langue orale, entrainant un retentissement social.
+Le premier signe clinique est une surdité de perception congénitale ou d’apparition
+précoce (avant 3 ans). Celle-ci est le plus souvent bilatérale et asymétrique. S’il n’est pas
+d’emblée profond, le déficit auditif est en général fluctuant et évolutif dans le temps. Des
+épisodes d’aggravation brusque peuvent survenir à tout moment. La surdité de perception est
+systématiquement associée à une malformation bilatérale de l’oreille interne (dont une
+dilatation bilatérale de l’aqueduc du vestibule) visible sur un scanner ou une IRM des rochers.
+La mise en évidence de cette malformation de l’oreille interne lors de la prise en charge d’une
+surdité de perception permet de suspecter le diagnostic du syndrome de Pendred avant
+l’apparition des signes thyroïdiens. Des signes d’atteinte vestibulaire peuvent être associés
+chez un nombre important des patients. Ils se manifesteront soit par un retard des acquisitions
+motrices si le dysfonctionnement vestibulaire est congénital et bilatéral, soit par des crises
+vertigineuses en cas de dysfonctionnement plus tardif.
+Le diagnostic et la prise en charge des troubles de l’audition et de l’équilibre du jeune enfant
+doivent être effectués dans un centre référent d’ORL pédiatrique. Le diagnostic repose sur des
+tests audiométriques objectifs et subjectifs adaptés à l’âge.
+La prise en charge de la surdité repose sur des dispositifs audioprothétiques (contours d’oreille
+ou implant cochléaire en fonction de la sévérité) et une rééducation orthophonique. La prise
+en charge des troubles vestibulaires associe des traitements médicamenteux et une
+kinésithérapie spécifique. En raison du caractère évolutif, le bilan audiologique doit être répété
+lors du suivi, au moins annuel si la surdité est stable, voire plus fréquent en fonction des
+symptômes du patient.
+Les troubles thyroïdiens surviennent le plus souvent autour de l’adolescence. Ils sont
+diagnostiqués devant l’apparition d’un goitre eu- ou hypothyroïdien ou des signes aspécifiques
+d’hypothyroïdie. Le dysfonctionnement thyroïdien peut également être diagnostiqué lors d’une
+surveillance systématique d’un enfant porteur d’une surdité due à des mutations du gène
+SLC26A4. En cas d’hypothyroïdie, le traitement repose sur la L-thyroxine orale, dès le
+diagnostic posé et à vie. En l’absence de signe compressif et de pathologie nodulaire, une
+surveillanceclinique et échographique du goitre peut être proposée (1 fois/an à l’âge
+pédiatrique et 1 fois/2 ans à l’âge adulte). La thyroïdectomie doit être évitée si possible,
+notamment chez l’enfant, afin de limiter le risque de complication post-opératoire. Son
+indication et sa réalisation relèvent des centres experts après concertation pluri-disciplinaire.
+Le diagnostic de syndrome de Pendred est confirmé par une analyse génétique demandée
+par le généticien clinicien devant l’association d’une surdité de perception à une dilatation de
+l’aqueduc du vestibule bilatérale. Le gène SLC26A4 est responsable de quasiment 100 % des
+cas de syndrome de Pendred mais également d’une forme isolée de surdité ayant les mêmes
+caractéristiques sans atteinte thyroïdienne. On estime que 10% des enfants ayant des
+mutations bialléliques de SLC26A4 vont développer un syndrome de Pendred avec une surdité
+et une atteinte thyroidienne. Le syndrome de Pendred se transmet selon un mode de
+transmission autosomique récessif. Un couple de parents, ayant un enfant atteint d’un
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+3
+syndrome de Pendred, a donc un risque sur quatre d’avoir un enfant atteint à chaque
+grossesse que ce soit un garçon ou une fille.
+Il n’existe aucune autre pathologie connue à ce jour associant tous les signes du syndrome de
+Pendred : surdité neurosensorielle, dilatation bilatérale des aqueducs du vestibule et goitre.
+Aucun traitement médical spécifique du syndrome de Pendred n’est actuellement disponible.
+La thérapie génique reste du domaine de la recherche.
+L’annonce diagnostique de ce syndrome doit être organisée dans un centre spécialisé ou par
+des professionnels en lien avec un centre spécialisé (annexe 2 du Texte du PNDS).
+Adresses et Sites internet utiles
+
+Centres de référence des surdités génétiques
+https://www.sensgene.com/les-centres-de-reference/centre-surdites-genetiques-centre-dereference-des-surdites-genetiques
+AP-HP Hôpital Necker – Enfants malades, Service de génétique – Dr Sandrine MARLIN
+149 rue de Sèvres, 75743, Paris Cedex 15
+Tél. 01 71 39 60 04
+Centre de référence des surdités génétiques (centre constitutif) :
+AP-HP Hôpital Universitaire Pitié Salpêtrière – Dr Isabelle MOSNIER
+47-83 boulevard de l'Hôpital, 75651, Paris
+Tél. 01 42 17 74 40
+CHRU Lille – Dr Catherine VINCENT-DELORME
+2 avenue Oscar Lambret, 59037, Lille Cedex
+Tél. 03 20 44 49 11
+Centre de référence des surdités génétiques (centre de compétence) :
+AP-HM CHU Timone Enfant – Dr Sabine SIGAUDY
+80 rue Brochier, 13354, Marseille Cedex 5
+Tél. 04 94 38 67 49
+AP-HP HU Robert Debre – Dr Laurence PERRIN-SABOURIN
+48 boulevard Sérurier, 75019, Paris
+Tél. 01 40 03 36 18
+CHU Grenoble Alpes – Pr Klauss DIETRICH
+Bd de la Chantourne CS 10217, 38000, Grenoble
+Tél. 04 76 76 72 85
+CHU Nantes – Hôtel Dieu – Dr Vincent MARIE
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+4
+5 allée de l'Ile Gloriette BP 1005, 44093, Nantes Cedex 1
+Tél. 02 40 08 32 45
+CHU Limoges Hôpital Mère-Enfant – Dr Justine LERAT
+2 avenue Martin Luther King, 87042, Limoges Cedex
+Tél. 05 55 05 55 55
+CHU Rouen – Dr Anne-Marie GERRAULT
+1 rue de Germont, 76031, Rouen Cedex
+Tél. 02 32 88 87 47
+CHU St Etienne – Hôpital Nord – Dr Renaud TOURAINE
+Avenue Albert Raimond, 42055, Saint Etienne
+Tél. 04 77 82 81 16
+CHU Toulouse Purpan – Pr Patrick CALVAS
+2 rue Viguerie, 31059, Toulouse Cedex 09
+Tél. 05 61 77 90 79
+CHU Dijon – Hôpital d’enfants – Dr Sophie NAMBOT
+1 bd Jeanne d'Arc, 21079, Dijon Cedex
+Tél. 03 80 29 53 13
+CHRU Tours – Hôpital Bretonneau – Pr Annick TOUTAIN
+2 boulevard Tonnelé, 37044, Tours Cedex 9
+Tél. 02 47 47 47 99
+CH La Réunion GHSR – Dr Marie Line JACQUEMONT
+11 rue de l'Hôpital, 97460, Saint Paul
+Tél. 02 62 35 92 48
+CH Le Mans – Dr Dominique MARTIN-COIGNARD
+194 avenue Rubillard, 72037, Le Mans Cedex 09
+Tél. 02 44 71 01 84
+CHRU Nancy – Hôpital d’Enfants – Dr Laetitia LAMBERT
+29 av. du Maréchal de Lattre de Tassigny, 54035, Nancy Cedex
+Tél. 03 83 34 43 76 / 03 83 15 45 00
+Hospices Civils de Lyon, Hôpital Femme-Mère-Enfant – Dr Damien HAYE
+59 Boulevard Pinel, 69677, Bron Cedex
+Tél. 04 27 85 55 73
+CHU Clermont-Ferrand Site Estaing – Dr Fanny LAFFARGUE
+30 place Henri Dunant BP 69, 63003, Clermont-Ferrand Cedex
+Tél. 04 73 75 00 50
+CHU Reims – Hôpital Maison Blanche – Dr Céline POIRSIER
+45 rue Cognacq Jay, 51092, Reims Cedex
+Tél. 03 26 78 78 78
+CHU Rennes – Hôpital Pontchaillou – Pr Benoit GODEY
+2 rue Henri Le Guilloux, 35033, Rennes Cedex 9
+Tél. 02 99 28 42 86
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+5
+CHU Besançon – Site Saint Jacques – Pr Lionel VAN MALDERGEM
+2 place Saint-Jacques, 25030, Besançon Cedex
+Tél. 03 81 21 81 87
+HUS Strasbourg – Hôpital de Hautepierre – Pr Hélène DOLLFUS
+1 place de l'Hôpital BP 426, 67091, Strasbourg Cedex
+Tél. 03 88 11 67 53
+CHU Bordeaux – Hôpital Pellegrin – Pr Didier LACOMBE
+12 rue Dubernat, 33404, Talence Cedex
+Tél. 05 56 79 59 81
+Centres de référence des maladies endocriniennes de la croissance
+et du développement
+Centre de référence des maladies endocriniennes rare de la croissance et du
+développement (centre coordonnateur) :
+Site pédiatrique :
+APHP Robert Debré – Pr Juliane LEGER
+48 bd Sérurier, 75935, Paris Cedex 19
+Tél. 01 40 03 41 20/53/54
+Centre de référence des maladies endocriniennes de la croissance et du
+développement (centre constitutif) :
+Sites pédiatriques :
+APHP Necker-Enfants Malades – Pr Michel POLAK
+149 Rue de Sèvres, 75743, Paris Cedex 15
+Tél. 01 44 49 48 01/02
+APHP Armand-Trousseau – Pr Irène NETCHINE
+26 avenue du Dr Arnold Netter, 75012, Paris
+Tél. 01 44 73 64 47/66/31
+Sites adultes :
+APHP La Pitié Salpetriere – Pr Philippe TOURAINE
+47- 83 Boulevard de l’Hôpital, 75651, PARIS Cedex 13
+Tél. 01 42 16 02 54
+APHP Saint Antoine – Pr Sophie CHRISTIN-MAITRE
+184 rue du Faubourg St Antoine, 75571, Paris Cedex 12
+Tél. 01 49 28 24 00
+Centre de référence des maladies endocriniennes de la croissance et du
+développement (centre de compétence) :
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+6
+CHU Amiens – Dr Karine BRAUN Avenue René Laennec-Salouel, 80054, Amiens Cedex 1
+Tél. 03 22 08 76 77
+CHU Angers – Dr Régis COUTANT
+4 rue Larrey, 49933, Angers Cedex 9
+Tél. 02 41 35 79 30
+CHU Besançon – Site Minjoz – Dr Brigitte MIGNOT
+boulevard A.Fleming, 25000, Besançon
+Tél. 03 81 21 81 46
+CHU Brest – Dr Karine BOURDET
+Boulevard Tanguy Prigent, 29610, Brest Cedex
+Tél. 02 98 34 71 19
+CHU Caen – Dr Virginie RIBAULT
+Avenue de la Cote de Nacre, 14000, Caen
+Tél. 02 31 27 25 94
+CHU Clermont-Ferrand – Dr Hélène MALPUECH ROUFFET
+58 rue Montalembert, 63003, Clermont-Ferrand Cedex 03
+Tél. 04 73 75 15 29
+CHU Dijon – Dr Candace BENSIGNOR
+2 boulevard Mal de Lattre de Tassigny, 21079, Dijon Cedex
+Tél. 03 80 29 34 53
+CHU Grenoble – Dr Clémentine DUPUIS
+Quai Yermoloff, 38700, La Tronche
+Tél. 04 76 76 89 02
+CHU Limoges – Pr Anne LIENHARDT- ROUSSIE
+8 Avenue de Larrey, 87042, Limoges Cedex
+Tél. 05 55 05 63 58
+CHU Lorient – Dr Raphael TESSIER
+5 Avenue Choiseul, 56100, Lorient
+Tél. 02 97 06 98 11
+CHU Marseille – Pr Rachel REYNAUD
+264 rue Saint Pierre, 13005, Marseille
+Tél. 04 91 38 83 83
+CHU Montpellier – Dr Françoise PARIS
+371 Avenue du Doyen Gaston Giraud, 34295 Montpellier Cedex 5
+Tél. 04 67 33 65 06
+CHU Nancy – Pr Bruno LEHEUP
+Rue du Morvan, 54511, Vandoeuvre-lès-Nancy
+Tél. 03 83 15 47 48
+CHU Nantes – Dr Sabine BARON
+7 quai Moncousu, 44093, Nantes Cedex 1
+Tél. 02 40 08 34 80
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+7
+CHU Nice – Dr Marie HOFLACK
+151 route Saint Antoine, 06202, Nice
+Tél. 04 92 03 96 41
+CHU Reims – Pr Brigitte DELEMER
+Rue du Général Koenig, 51092, Reims Cedex
+Tél. 03 26 78 77 19
+CHU Rennes – Dr Sylvie NIVOT-ADAMIAK
+16 Bd de Bulgarie, 35033, Rennes Cedex 2
+Tél. 02 99 26 67 02
+CHU La Réunion – Site Saint Pierre – Dr Laure HOUDON- NGUYEN
+Avenue François Mitterrand BP 350, 97448, Saint-Pierre Cedex
+Tél. 02 62 35 90 00
+CHU Saint Etienne – Dr Odile RICHARD-COLMANT
+Avenue Albert Raimond, 42270, Saint-Priest-en-Jarez
+Tél. 04 77 12 77 27
+CHU Strasbourg – Dr Sylvie SOSKIN
+1 avenue Molière, 67098, Strasbourg CEDEX
+Tél. 03 88 12 80 97
+CHU Rouen – Dr Mireille CASTANET
+1 Rue de Germont, 76031, Rouen Cedex
+Tél. 02 32 88 56 96
+CHU Toulouse Hôpital des enfants – Pr Maité TAUBERT
+330 avenue de Grande Bretagne TSA 70034, 31059 Toulouse Cedex
+Tél. 05 34 55 86 85 et 05 34 55 85 - 49/55/56/57
+CHRU Tours Hopital Bretonneau – Dr Myriam BOUILLO
+2 Boulevard Tonnellé, 37044, Tours Cedex 9
+Tél. 02 47 47 97 16
+Centres de référence des maladies rares de la thyroïde et des
+récepteurs hormonaux
+Centre de référence des maladies endocriniennes de la croissance et du
+développement (centre constitutif) :
+APHP – Hôpital Robert Debré – Pr Richard DELORME
+46 boulevard Sérurier, 75019, Paris
+Tél. 01 40 03 22 63
+Centre de référence des maladies rares de la thyroïde et des récepteurs
+hormonaux (centre coordonnateur) :
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+8
+CHU Angers – Pr Patrice RODIEN
+4 rue Larrey, 49933, Angers Cedex 9
+Tél. 02 41 35 49 97
+Centre de référence des maladies rares de la thyroïde et des récepteurs
+hormonaux (centre de compétence) :
+APHP Cochin – Pr Jérome BERTHERAT
+27 rue de Faubourg Saint Jacques, 75014, Paris
+Tél. 01 58 41 18 95
+APHP Bicêtre – Pr Philippe CHANSON
+78 rue du Général Leclerc, 94270, Kremlin Bicêtre Cedex
+Tél. 01 45 21 37 05
+APHP Saint Antoine – Pr Sophie CHRISTIN-MAITRE
+184 rue du Faubourg St Antoine, 75571, Paris Cedex 12
+Tél. 01 49 28 24 07
+CHU Amiens - Site Sud – Dr Karine BRAUN Avenue René Laennec-Salouel, 80054, Amiens
+Cedex 1
+Tél. 03 22 08 76 77
+CHU Grenoble – Pr Olivier CHARBRE
+Boulevard de la Chantourne, 38700, La Tronche
+Tél. 04 76 76 51 65
+CHRU Lille Hopital Claude Huriez – Pr Marie Christine VANTYGHEM
+2 avenue Oscar Lambret, 59000, Lille Cedex
+Tél. 03 20 44 45 15
+CHRU Tours Hopital Bretonneau – Dr Peggy PIERRE
+2 Boulevard Tonnellé, 37044, Tours Cedex 9
+Tél. 02 47 47 97 16
+CHU Besançon – Site Minjoz – Dr Brigitte MIGNOT
+boulevard A.Fleming, 25000, Besançon
+Tél. 03 81 21 81 46
+CHU Bordeaux Hopital Haut-Lévêque – Pr Antoine TABARIN
+1 avenue Magellan, 33600, Pessac.
+Tél. 05 57 65 64 33
+CHU Brest – Pr Veronique KERLAN
+Boulevard Tanguy Prigent, 29610, Brest Cedex
+Tél. 02 98 34 71 19
+CHU Clermont-Ferrand – Pr Igor TAUVERON
+58 rue Montalembert, 63003, Clermont-Ferrand Cedex 03
+Tél. 04 73 75 15 29
+CHU Dijon – Pr Bruno VERGES
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+9
+2 boulevard Mal de Lattre de Tassigny, 21079, Dijon Cedex
+Tél. 03 80 29 34 53
+CHU Nancy – Pr Bruno LEHEUP
+Rue du Morvan, 54511, Vandoeuvre-lès-Nancy
+Tél. 03 83 15 47 48
+CHU Nantes – Dr Sabine BARON
+7 quai Moncousu, 44093, Nantes Cedex 1
+Tél. 02 40 08 34 80
+CHU Nice Hopital de l’Archet – Pr Nicolas CHEVALIER
+151 route Saint Antoine, 06202, Nice
+Tél. 04 92 03 96 41
+CHU Poitiers – Dr Xavier PIGUEL
+2 Rue de la Milétrie, 86021, Poitiers
+Tél. 05 49 44 40 34
+CHU Reims – Brigitte DELEMER
+Rue du Général Koenig, 51092, Reims Cedex
+Tél. 03 26 78 77 19
+CHU Rennes – Dr Sylvie NIVOT-ADAMIAK
+16 Bd de Bulgarie, 35033, Rennes Cedex 2
+Tél. 02 99 26 67 02
+CHU La Réunion – Site Saint Pierre- Dr Laure HOUDON-NGUYEN
+Avenue François Mitterrand BP 350, 97448, Saint-Pierre Cedex
+Tél. 02 62 35 90 00
+CHU Saint Etienne – Pr Natacha GERMAIN
+Avenue Albert Raimond, 42270, Saint-Priest-en-Jarez
+Tél. 04 77 12 77 27
+CHU Strasbourg – Dr Sylvie SOSKIN
+1 avenue Molière, 67098, Strasbourg Cedex
+Tél. 03 88 12 80 97
+Hospice Civil de Lyon – Pr Francoise BORSON-CHAZOT
+28 avenue du Doyen Lépine, 69677, Bron Cedex
+Tél. 04 72 68 49 00
+Liste des centres français d’implant cochléaire
+https://www.cisic.fr/implant/liste-des-hopitaux
+Amiens
+CHU Amiens Picardie - Service ORL et CCF – Pr Vladimir STRUNSKI
+Avenue René Laënnec-Salouël, 80054, Amiens Cedex 1
+Tél. 03 22 08 88 60
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+10
+Angers
+CHU Angers, Service ORL – Pr Ollivier LACCOURREYE
+4 rue Larrey, 49933, Angers Cedex 9
+Tél. 02 41 35 39 89
+Besançon
+CHU Besançon Hôpital Jean Minjoz - Service ORL – Pr Laurent TAVERNIER
+boulevard Fleming, 25030, Besancon Cedex
+Tél. 03 81 66 82 38
+Bordeaux
+CHU Bordeaux Hôpital Pellegrin - Service ORL – Pr Vincent DARROUZET
+Bâtiment PQR – Entrée 2 – 1er étage
+Place Amélie-Raba-Léon, 33076, Bordeaux Cedex
+Tél. 05 56 79 47 57
+Brest
+CHU Brest, Hôpital Morvan - Service ORL – Pr Rémi MARIANOWSKI
+5 avenue Foch, 29200, Brest
+Tél. 02 98 22 35 51
+Caen
+CHU Caen, Hôpital Côte de Nacre - Service ORL – Pr Sylvain MOREAU
+avenue Côte de Nacre, 14033, Caen Cedex 5
+Tél. 02 31 06 46 38
+Clermont-Ferrand
+CHU Clermont-Ferrand, Hôpital Gabriel Montpied - Service ORL – Pr Thierry MOM
+58 rue Montalembert, 63003, Clermont-Ferrand Cedex 1
+Tél. 04 73 75 16 85
+Dijon
+CHU Dijon - Service ORL – Pr Alexis BOZORG GRAYELI
+2 boulevard Mal Lattre de Tassigny, 21033, Dijon Cedex
+Tél. 03 80 29 37 58
+Grenoble
+CHU Grenoble, Hôpital A. Michallon - Service ORL – Pr Sebastien SCHMERBER
+38043, Grenoble, Cedex 09
+Tél. 04 76 76 56 56
+Lille
+CHU Lille, Hôpital Roger Salengro - Service ORL – Pr Christophe VINCENT
+Avenue Prof. Émile Laine, 59037, Lille Cedex
+Tél. 03 20 44 62 05
+Limoges
+CHU Limoges, Hôpital Dupuytren - Service ORL – Pr Karine AUBRY
+2 avenue Martin Luther King, 87042, Limoges Cedex
+Tél. 05 55 05 62 39
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+11
+Lyon
+CHU Lyon, Hôpital Édouard Herriot - Service ORL – Pr Eric TRUY
+Pavillon U Place d'Arsonval, 69437, Lyon
+Tél. 04 72 11 05 55
+Marseille
+Hôpital La Timone - Service ORL – Pr Jean-Michel TRIGLIA
+264 rue St Pierre, 13385, Marseille Cedex 05
+Tél. 04 91 38 60 81
+Hôpital Nord - Service ORL – Pr Jean-Pierre LAVIEILLE
+Chemin des Bourrelly, 13915, Marseille Cedex 20
+Tél. 04 91 96 86 75
+Montpellier
+CHU Montpellier, Hôpital Gui de CHAULIAC - Service ORL B – Pr Alain UZIEL, Pr Michel
+MONDAIN
+80 avenue Augustin Fliche, 34295, Montpellier Cedex 5
+Tél. 04 67 33 68 04
+Nancy
+CHU Nancy - Service ORL – Pr Roger JANKOWSKI
+29 avenue du Maréchal de Lattre de Tassigny - C.O. n° 34, 54035, Nancy Cedex
+Tél. 03 83 85 15 83
+Nantes
+CHU Nantes, Hôtel Dieu - Service ORL – Pr Philippe BORDURE
+1 place A. Ricordeau, 44093, Nantes cedex 1
+Tél. 02 40 08 34 37
+Nice
+Institut Universitaire de la Face & du Cou - Service ORL – Pr Laurent CASTILLO
+31 avenue Valombrose CS 63145, 06103, Nice Cedex 2
+Tél. 04 92 03 17 05 ou 04 92 03 17 18
+Paris
+Site pédiatrique :
+Hôpital Necker - Service ORL – Pr Noel GARABEDIAN
+149 rue de Sèvres, 75015, Paris
+Tél. 01 44 49 40 00
+Hôpital Robert Debré - Service ORL – Pr Thierry VAN DEN ABBEELE
+48 boulevard Sérurier, 75019, Paris
+Tél. 01 40 03 24 07
+Site adulte :
+Hôpital Pitié-Salpêtrière - Service ORL – Pr Olivier STERKERS
+50-52 boulevard Vincent Auriol, 75013, Paris
+Tél. 01 42 16 26 10
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+12
+Hôpital Rothschild - Service ORL – Pr Bruno FRACHET
+5 rue Santerre, 75012, Paris
+Tél. 01 40 19 36 61
+Poitiers
+CHU Poitiers - Service ORL – Pr Xavier DUFOUR
+2 rue de la Milétrie CS90577, 86021, Poitiers Cedex
+Tél. 05 49 44 44 44
+Reims
+CHU Reims Hôpital Robert Debré - Service ORL – Pr André CHAYS
+avenue du Général Koenig, 51092, Reims Cedex
+Tél. 03 26 78 71 25
+Rennes
+CHU Rennes – Hôpital de Pontchaillou - Service ORL – Pr Benoît GODEY
+2 rue Henri Le Guilloux, 35000, Rennes
+Tél. 02 99 28 42 85
+Rouen
+CHU Rouen, Hôpital Charles Nicolle - Service ORL – Pr Danièle DEHESDIN
+1 rue de Germont, 76031, Rouen Cedex
+Tél. 02 32 88 82 66
+Saint-Etienne
+Hôpital Nord - Service ORL – Pr Jean-Michel PRADES
+Avenue Albert Raimond, 42270, Saint Priest En Jarez
+Tél. 04 77 12 77 94
+Strasbourg
+CHU Strasbourg, Hôpital Hautepierre - Service ORL – Pr Anne CHARPIOT
+1 avenue Molière, 67098, Strasbourg Cedex
+Tél. 03 88 12 76 56
+Toulouse
+CHU Toulouse, Hôpital Purpan – Pr Olivier DEGUINE
+Bâtiment Dieulafoy 1 place du Docteur Baylac, 31059, Toulouse Cedex 9
+Tél. 05 61 77 21 19
+Tours
+Site adulte :
+Hôpital Bretonneau - Service ORL – Pr Alain ROBIER
+2 boulevard Tonnelé, 37044, Tours
+Tél. 02 47 47 47 85
+Site enfant :
+Hôpital Gatien de Clocheville - Service ORL – Pr Emmanuel LESCANNE
+49 boulevard Béranger, 37000, Tours
+Tél. 02 47 47 88 38
+Martinique
+Synthèse à destination du médecin traitant – Syndrome de Pendred
+Centre de référence des surdités génétiques
+Centre de référence des maladies endocriniennes de la croissance et du développement
+Centre de référence des maladies rares de la thyroïde et des récepteurs hormonaux / Mars 2021
+13
+CHU Martinique, Cité Hospitalière Mangot-Vulcin - Service ORL et pathologie Cervico-faciale
+– Dr Emilien RADAFY
+Route de Vert Pré - BP 429, 97232, Le Lamentin MARTINIQUE
+Tél. 05 96 48 80 00
+Nouvelle-Calédonie
+Unité d'implantation cochléaire du Centre Hospitalier Territorial de Nouméa Service
+Stomatologie – ORL – Dr Patrick PILLER
+7 av Paul Doumer BP J5, 98849, Noumea Cedex
+Nouvelle-Calédonie
+Tél. (687) 25 67 53
+La Réunion
+CHU La Réunion, Centre Hospitalier Félix Guyon, Site NORD
+Service ORL – Dr Jean-François VELLIN
+allée des Topazes Bellepierre, 97405, Saint-Denis Cedex
+Tél. 02 62 90 56 41
+Association de patients
+Il n’existe pas à ce jour d’association dédiée au syndrome de Pendred.
+Les associations concernées sont donc principalement des associations de personnes
+sourdes et des associations de patients implantés cochléaires que vous pourrez retrouver sur
+: http://www.surdi.info www.sensgene.com
+Pour la pathologie thyroidienne, les professionnels de santé et les patients peuvent prendre
+contact avec les associations de patients françaises :
+• Vivre sans thyroïde, site internet : https://www.forum-thyroide.net),
+• Association française des malades de la thyroïde : https://www.assomaladesthyroide.fr/wordpress/index.php/category/accueil/ ou européenne (ENDO
+ERN, site internet : https://endo-ern.eu/patients/endo-ern-patient-representatives/).
+
+ÉVALUER LES TECHNOLOGIES DE SANTÉ
+SYNTHÈSE Détection d’altérations du gène
+RET par la technique de
+séquençage nouvelle
+génération (NGS) : cancer
+bronchique non à petites
+cellules et cancer médullaire de
+la thyroïde
+
+Validée par le Collège le 21 juillet 2022
+
+Contexte
+Dans ses avis conditionnels du 2 juin 2021 (1) et du 23 mars 2022 (2), la Commission de la Transparence a rendu un « avis favorable au remboursement de :
+− RETSEVMO 40 mg et 80 mg, gélules en monothérapie dans :
+• le traitement des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC)
+avancé avec une fusion du gène RET, qui nécessitent un traitement systémique après un traitement antérieur par immunothérapie et/ou chimiothérapie à base de platine ;
+• le traitement des patients adultes et des adolescents à partir de 12 ans atteints d’un cancer
+médullaire de la thyroïde (CMT) avancé avec une mutation du gène RET, qui nécessitent un
+traitement systémique après un traitement antérieur par cabozantinib et/ou vandétanib.
+Le maintien de cet avis est conditionné à la réévaluation de cette spécialité dans un délai maximum
+de trois ans sur la base :
+• des résultats de l’étude de phase III en 1ère ligne de traitement (LIBRETTO-431, résultats attendus au plus tard pour octobre 2023), dans le CBNPC avec une fusion du gène RET et ;
+• des données de comparaison de RETSEVMO (selpercatinib) à la prise en charge usuelle des
+patients de 2ème ligne et plus de traitement, ainsi qu’aux résultats de l’étude de phase III en
+1ère ligne de traitement (LIBRETTO-531, résultats attendus au plus tard pour février 2025), dans
+le CMT avec une mutation du gène RET ;
+• et les données du registre des patients traités en France par RETSEVMO (selpercatinib) dans
+le CMT avec une mutation du gène RET ;
+• GAVRETO 100 mg gélule : uniquement en 2ème ligne et plus, en monothérapie dans le traitement
+des patients adultes atteints d’un cancer bronchique non à petites cellules (CBNPC) avancé
+présentant une fusion positive de RET (REarranged during Transfection) ».
+Le maintien de cet avis est conditionné à la réévaluation de cette spécialité dans un délai maximum
+de trois ans sur la base des résultats de l’étude de phase III en 1ère ligne de traitement (AcceleRETLung, analyse principale pour décembre 2024) dans le CBNPC avec une fusion du gène RET. »
+En parallèle du dépôt du dossier de demande d’évaluation des spécialités RETSEVMO et GAVRETO
+auprès de la Commission de la Transparence, les demandeurs ont également complémenté les
+annexes relatives à un test compagnon.
+Les résumés des caractéristiques du produit de l’autorisation de mise sur le marché de RETSEVMO
+et GAVRETO précisent en effet que la sélection des patients recevant ces traitements doit se faire sur
+la base d’un résultat positif à une méthode validée de recherche d’altérations du gène RET (3, 4).
+En effet, certaines altérations du proto-oncogène RET sont responsables de la synthèse d’un récepteur
+tyrosine-kinase (RTK) RET altéré capable de s’activer indépendamment de la fixation d’un ligand sur
+son corécepteur. En résulte une activation spontanée inappropriée des voies de signalisation,
+entrainant l’apparition de tumeurs et favorisant leur croissance, leur survie et leur dissémination. Les
+spécialités RETSEVMO et GAVRETO appartiennent à la classe thérapeutique des inhibiteurs de
+tyrosine kinase qui cible spécifiquement les transcrits issus de réarrangement du gène RET.
+Détection des altérations du gène RET
+Les parties prenantes consultées précisent qu’en France, la technique de NGS est la technique de
+référence pour la recherche des altérations du gène RET dans le cancer bronchique non à petites
+cellules (CBNPC) et le cancer médullaire de la thyroïde (CMT). Cette technique est suffisamment
+diffusée sur le territoire français pour garantir un accès à l’ensemble des patients.
+De plus, l’European Society on Medical Oncology (ESMO) recommande la recherche d’altérations du
+gène RET par technique NGS lorsqu’un échantillon fixé au formol et inclus en paraffine est disponible
+et si la technique NGS est disponible (5).
+Méthode
+Objectif de l’évaluation
+Le financement de la détection d’altérations du gène RET par la technique de NGS se fait via le Référentiel des actes innovants hors nomenclature (RIHN) (6). Il s’agit du « Forfait séquençage haut débit
+(NGS) < 20 kb » (code N452).
+Le RIHN permettant une prise en charge transitoire d’actes, l’objectif de cette évaluation est donc
+d’apprécier l’opportunité de l’inscription d’un acte de détection des altérations du gène RET par
+technique NGS dans le CBNPC et le CMT à la liste des actes et prestations (LAP) en vue de sa prise
+en charge par l’Assurance maladie.
+Les conditions de réalisation et la population cible de cet acte sont également évaluées.
+Ce document est basé sur les avis de la Commission de la Transparence relatifs à RETSEVMO (1) et
+GAVRETO (2) pour l’évaluation de l’opportunité de l’inscription de l’acte et de la population cible et sur
+des revues descriptives pour l’évaluation des conditions de réalisation.
+Recherche bibliographique
+La recherche bibliographique avait pour objectif d’identifier les publications :
+− portant sur les conditions de réalisation de la technique NGS :
+1. pour la détection d’altérations géniques en vue de la prescription de traitements des cancers
+en général ou du cancer du poumon ou du cancer de la thyroïde ;
+ou
+2. en France à partir de génome humain ;
+− rapportant des données permettant d’estimer la population cible de la détection d’altérations du gène
+RET par la technique NGS en accord avec les indications retenues dans les avis de la HAS du
+2 juin 2021 (1) et du 23 mars 2022 (2).
+La méthode détaillée de la recherche documentaire est décrite en Annexe 1.
+Au total, six publications issues de la recherche sur bases ont été retenues pour lecture in extenso.
+Parmi ces six publications, deux publications décrivant la détection d’altérations géniques par
+technique NGS en vue de la prescription de traitements des cancers ou du cancer du poumon ou du
+cancer de la thyroïde ont été retenues (7, 8).
+Vingt-quatre publications issues de la recherche manuelle complémentaire ont été retenues.
+Sollicitation des parties prenantes
+Les organismes représentatifs des deux disciplines médicales pratiquant la détection d’altérations du
+gène RET par NGS ont été sollicités1
+. Il s’agit du :
+− Conseil national professionnel d’anatomie et cytologie pathologiques (CNPath) pour les médecins
+spécialisés en anatomie et cytologie pathologiques ;
+− Groupe francophone de cytogénomique oncologique (GFCO).
+Ces organismes ont été sollicités en tant que parties prenantes, au sens du décret n°2013-413 du
+21 mai 20132 et selon la procédure de consultation des parties prenantes mise en place par la HAS3
+.
+À cette fin, un questionnaire a été envoyé à ces deux parties prenantes dont les réponses ont été
+prises en compte dans cette synthèse et sont présentées in extenso en Annexe 2.
+1 Le CNPath a indiqué que la Société de pneumologie de langue française et le Réseau tumeurs thyroïdiennes réfractaires devraient
+être également consultés. Le GFCO a indiqué que la Société de pneumologie de langue française, l’Intergroupe francophone de
+cancérologie thoracique, la Société française d’endocrinologie, le Groupe génétique et cancer et le Réseau tumeurs thyroïdiennes
+réfractaires devraient être également consultés. Néanmoins, s’agissant d’une évaluation technique portant essentiellement sur la
+définition de conditions de réalisation, ces organismes n’ont pas été sollicités.
+2 Décret n°2013-413 du 21 mai 2013. https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027434015/.
+3 Décision n°2014.0115/DC/MJ du 28 mai 2014 du Collège de la Haute Autorité de Santé portant adoption de la procédure de
+consultations des parties prenantes. https://www.has-sante.fr/upload/docs/application/pdf/2014-09/c_2014_0115_adoption_procedure_parties_prenantes.pdf
+Résultats
+Conditions de réalisation
+Conditions préalables de mise en œuvre du test
+La prescription d’un test de détection d’altérations du gène RET par NGS est réalisée à distance du
+diagnostic, selon l’évolution de la maladie, dès lors que la prescription d’un inhibiteur ciblant
+spécifiquement les transcrits issus de réarrangement du gène RET est envisagée.
+Le test de détection d’altérations du gène RET est prescrit par un médecin de la réunion de
+concertation pluridisciplinaire (RCP) qui évalue l’éligibilité du patient à l’examen (9).
+Le test est effectué dans un cabinet d’anatomocytopathologie (ACP) ou un laboratoire de biologie
+médicale répartis sur l’ensemble du territoire académique. L’INCa a mis en place, avec le ministère de
+la Santé, une organisation spécifique au niveau national permettant d’assurer une équité d’accès aux
+tests moléculaires pour tous les patients quel que soit leur établissement de prise en charge (CHU,
+CH, établissements privés, CLCC) et quelle que soit la technologie devant être utilisée. Il existe ainsi
+28 plateformes de génétique moléculaire réparties sur tout le territoire français (10). A ces
+28 plateformes INCa s’ajoutent des plateformes privées de structures anatomocytopathologiques et
+biologiques privées. Ainsi, une quarantaine de plateformes effectuent le test de détection d’altérations
+du gène RET en France.
+Les trois phases de la réalisation d’un test
+1. Phase pré-analytique
+Cette phase est assurée par l’anatomocytopathologiste.
+Prélèvement de l’échantillon
+Cancer bronchique non à petites cellules
+La détection d’une fusion du gène RET s’effectue sur bloc de tumeur (fixé au formol et inclus en paraffine (PPFE) ou cryopréservé) ou sur biopsie liquide (prise de sang) cryopréservée.
+Cancer médullaire de la thyroïde
+La détection de mutations du gène RET s’effectue sur cytoponction ou biopsie ou exérèse chirurgicale
+(fixée au formol et inclus en paraffine (PPFE) ou cryopréservée) (11).
+Préparation, qualification et sélection de l’échantillon tissulaire ou cellulaire en anatomocytopathologie
+Les modalités de préparation, qualification et sélection de l’échantillon ont été décrites dans le rapport
+de la HAS publié en 2019 (12).
+Pour rappel, une préparation adéquate de l’échantillon permettra de garantir l’intégrité de l’ADN à analyser. La meilleure préservation tissulaire est la congélation qui permet l'obtention d'acides nucléiques
+de très grande taille et de très bonne qualité (11, 12). Cependant, cette technique est difficile à
+organiser dans la pratique courante.
+L’étape de la qualification de l’échantillon correspond à un contrôle macroscopique (e.g. nature, taille
+de la tumeur) et microscopique de l’échantillon. Elle permet notamment de déterminer la cellularité
+tumorale (pourcentage de cellules tumorales de l’échantillon). En cas de cellularité tumorale jugée
+insuffisante, il est préférable de réaliser une macro- ou une microdissection du prélèvement afin d’optimiser la cellularité tumorale. Il convient de réaliser le test uniquement sur des prélèvements tumoraux
+préalablement qualifiés et dont la cellularité tumorale a été considérée comme satisfaisante au regard
+des exigences définies par le fabricant/développeur du test.
+Les échantillons destinés à l’analyse génétique sont ensuite sélectionnés. L’échantillon sélectionné
+doit être le plus riche possible en cellules tumorales. La teneur en cellules tumorales doit être
+supérieure à la limite de détection du test ou de la technique d’analyse utilisée.
+Une fois la préparation et la sélection de l’échantillon faite, celui-ci est transmis au cabinet d’anatomocytopathologie (ACP) ou au laboratoire de biologie médicale pour effectuer la phase analytique. Les
+conditions de transport doivent alors répondre aux exigences définies dans le rapport de la HAS publié
+en 2019 (12) et faire l’objet d’un contrôle systématique.
+2. Phase analytique
+Le biologiste médical ou l’anatomocytopathologiste est responsable du choix de la technique d’analyse
+et de la validation des résultats.
+Extraction des acides nucléiques
+Les modalités d’extraction des acides nucléiques ont été décrites dans le rapport de la HAS publié
+en 2019 (12).
+Brièvement, l’extraction de l’ADN/ARN ou des acides nucléiques totaux se décompose en trois étapes :
+lyse des cellules, élimination des protéines puis purification et concentration de l’ADN/ARN. Elle peut
+être manuelle ou bien réalisée sur automate.
+Analyse moléculaire par séquençage nouvelle génération
+La recherche des mutations ponctuelles et des fusions du gène RET s’effectue par séquençage NGS
+sur le matériel tumoral. La technique de NGS est composée de trois étapes : préparation de la librairie
+et enrichissement, séquençage et analyse bio-informatique. Elle peut être mise au point au sein d’un
+cabinet ACP ou d’un laboratoire de biologie médicale, à partir d’une solution commerciale ou développée au sein de la structure.
+Préparation de la librairie et enrichissement
+La préparation de la librairie consiste en la fragmentation du génome en petites séquences de
+quelques centaines de bases (13). Cette librairie est ensuite enrichie par amplification des fragments
+d’ADN par PCR.
+Plusieurs méthodes sont disponibles, la technique de capture ou la technique d’amplicon. Pour la
+recherche des fusions, plusieurs approches sont possibles soit la capture, soit ancrage (Anchor
+Multiplex PCR), soit l’amplification ciblée (limitée à quelques fusions).
+Chaque méthode doit faire l’objet d’une analyse de risque et son efficacité ne peut être déterminée
+qu’à la fin du processus, lors de l’analyse des résultats. Les paramètres à étudier peuvent être la
+couverture, la profondeur et la détection des mutations attendues (14).
+Séquençage
+Les différentes méthodes de séquençage reconstituent directement les brins d’ADN en déterminant
+quels éléments viennent d’être intégrés (15).
+Le séquençage à lecture courte est la seule technique utilisée en routine à ce jour. Il permet de
+séquencer des longueurs entre 100 et 600 paires de bases. Deux approches existent : par synthèse
+ou par ligation. Le séquençage par synthèse repose sur le principe d’addition d’une seule base par
+cycle. La technologie par ligation utilise des segments d’oligonucléotides hydribés avec l’ADN des
+échantillons à tester à chaque cycle (7, 8). Ce type de séquençage est privilégié pour la recherche
+d’altérations du gène RET.
+Analyse bio-informatique
+Les données de séquençage obtenues sont ensuite réalignées sur un génome de référence à l’aide
+d’outils bio-informatique (13). Cette analyse se compose de quatre étapes (7, 8, 16) :
+− l’alignement : positionnement des séquences générées par rapport à la séquence de référence ;
+− le contrôle qualité : détermination du pourcentage de bases couvertes par rapport au nombre total
+de bases de la région d’intérêt ;
+− l’identification des variants de séquence : comparaison des séquences générées par rapport à la
+séquence de référence ;
+− l’annotation : recueil d’informations relatives aux variants.
+Pour la détection des fusions, il existe plusieurs pipelines possibles.
+3. Phase post-analytique
+Interprétation des résultats
+Le biologiste médical ou l’anatomocytopathologiste, responsable de l’analyse, interprète et valide les
+résultats qu’il consigne dans le compte-rendu de l’examen de génétique moléculaire (CR-GM). Un
+modèle de CR-GM est mis à disposition des professionnels de santé sur le site de l'INCA (17).
+L’interprétation des résultats s’appuie sur les données suivantes :
+− données de tracabilité : identification du patient, description du prélèvement ;
+− données cliniques : contexte clinique, diagnostic, histologique, autres altérations moléculaires
+connues, statut tabagique ;
+− données anatomopathologique pré-analytiques : fixateur, cellularité tumorale, présence de facteurs
+confondants éventuels ;
+− résultat du test : détection ou non du variant classé selon la classification UNCseq (18) ou selon
+d’autres classifications comme celle de Li et al. (19) ou de l’ESCAT (ESMO Scale fo Clinical Actionability of molecular Targets) (20) ;
+− présence de la mutation dans la liste des mutations ciblées par le test et noté selon la nomenclature
+HGVS (Human Genome Variation Society).
+La limite de détection minimale à atteindre en génétique somatique est fixée à 10 % d’allèles mutés
+pour les cibles d’intérêts cliniques validées. Cette limite doit toutefois être définie par chaque
+laboratoire en fonction de la qualité des échantillons à analyser (14). En cas de limite de détection de
+la technique NGS, une nouvelle technique NGS doit être réalisée sur un autre prélèvement qui doit
+être le plus récent possible.
+Communication des résultats et stratégie thérapeutique
+La stratégie thérapeutique est définie en prenant en compte le résultat du test de détection de
+l’altération du gène RET au cours d’une RCP. La communication des résultats du test et des choix
+thérapeutiques qui en découlent est faite ensuite au patient pour une prise de décision partagée.
+Rôles respectifs des intervenants à chacune des étapes
+Les intervenants responsables de chaque étape sont décrits ci-dessous :
+− phase pré-analytique (préparation et contrôle qualité de l’échantillon) : anatomocytopathologiste ;
+− phase analytique : biologiste médical ou anatomocytopathologiste ;
+− phase post-analytique : biologiste médical ou anatomocytopathologiste.
+Les étapes pré-analytique et analytique peuvent être faites par un technicien, assistant-ingénieur,
+ingénieur sous la responsabilité d’un anatomocytopathologiste ou biologiste médical en fonction des
+étapes.
+Assurance qualité
+Les laboratoires de biologie médicale doivent être accrédités par le Comité français d’accréditation
+(COFRAC) depuis le 1er novembre 2020 (21). A cette fin, un dossier de validation des méthodes pour
+la détection de mutation somatique doit être constitué par le laboratoire. Le guide de l’INCa publié
+en 2014 décrit l’ensemble des étapes nécessaires à la constitution de ce dossier (22). L’accréditation
+de la technique de NGS somatique correspond à la famille « Génétique Somatique » GS07 ou à la
+famille « anatomie pathologique ».
+Environnement
+Ces tests peuvent être réalisés dans le cadre d’une plaforme de pathologie moléculaire/génétique
+moléculaire somatique intégrée au CHU, CH, centre de lutte contre le cancer, ESPIC, cabinet médical
+de pathologie privé,laboratoire de biologie médicale privé.
+Population cible
+L’estimation de la population cible effectuée ci-dessous est basée sur les calculs de population cible
+des spécialités RETSEVMO et GAVRETO mentionnés dans les avis de la Commission de
+Transparence du 2 juin 2021 (1) et du 23 mars 2022 (2). La population cible de l’acte de détection des
+altérations du gène RET est par définition plus grande que celle des spécialités RETSEVMO et
+GAVRETO puisque seuls les patients ayant une altération du gène RET sont éligibles à ces
+traitements.
+Cancer non à petites cellules
+Conformément aux avis de la Commission de Transparence du 2 juin 2021 (1) et du 23 mars 2022 (2),
+la population cible de la détection de fusions du gène RET par la technique de NGS dans le CBNPC
+correspond aux patients ayant un CBNPC avancé en 2ème ligne de traitement et plus.
+D’après l’Institut national du cancer, le nombre de nouveaux cas de cancer du poumon par an est
+estimé à 46 363 pour l’année 2018 en France (23). Le CBNPC représente environ 85 % de ces cas,
+soit 39 409 patients par an (24). Selon l’étude KBP-2010-CPHG, environ 65 % des patients sont diagnostiqués à un stade avancé (localement avancé IIIB ou métastatique IV) de la maladie, soit
+25 615 patients (24). Cette même étude estime que 40 % des patients diagnostiqués à un stade localisé de la maladie vont évoluer vers un stade avancé dans l’année, soit 5 518 patients.
+Ainsi, l’incidence des patients atteints d’un CBNPC avancé (IIIB-IV) et donc potentiellement éligibles à
+une première ligne de traitement systémique est estimé à 31 133 nouveaux patients.
+La proportion de patients ayant reçu une première ligne de traitement et susceptibles de recevoir une
+deuxième ligne de traitement peut être estimée selon :
+− l’étude FRAME, étude observationnelle européenne ayant inclus 1 617 patients avec un CBNPC au
+stade IIIB-IV. Après une 1ère ligne de traitement (1 564 patients), 563 patients ont reçu une 2ème ligne
+de traitement et 58 patients ont bénéficié d’un traitement de maintenance suivi d’une 2ème ligne de
+traitement, soit une proportion de 40 % des patients (25) ;
+− l’étude EPICLIN-Lung, étude observationnelle européenne ayant inclus 3 508 patients dont 876 patients français, la proportion de patients ayant un diagnostic de CPNPC au stade III-IV et accédant
+à une 2ème ligne de traitement est de 36 % des cas (26).
+ Au total, il est ainsi estimé que chaque année, 11 210 à 12 450 patients atteints d’un CBNPC
+avancé reçoivent un traitement de 2ème ligne.
+Cancer médullaire de la thyroïde
+Conformément à l’avis de la Commission de Transparence du 2 juin 2021 (1), la population cible de la
+détection de mutations du gène RET par la technique de NGS dans le CMT correspond aux patients
+adultes et adolescents à partir de 12 ans atteints d’un CMT avancé qui nécessitent un traitement
+systémique après un traitement antérieur par cabozantinib et/ou vandétanib.
+D’après l’Institut national du cancer, le nombre de nouveaux cas de cancer de la thyroïde adulte par
+an est estimé à 10 000 pour l’année 2018 en France (23).
+Le cancer médullaire de la thyroïde est un cancer rare représentant 5 % à 10 % des cancers de la
+thyroïde, soit au maximum 500 à 1 000 patients par an (23).
+Environ 12 % des patients diagnostiqués pour un cancer médullaire de la thyroïde sont à un stade
+avancé (IIIB-IV) et éligibles à un traitement systémique, soit 60 à 120 patients par an (1, 27).
+Quatre-vingt pour cent des patients sont éligibles à une 2ème ligne de traitement, soit 50 à 100 patients
+par an (1).
+Concernant les adolescents, l’incidence spécifique du cancer de la thyroïde pour la tranche d’âge 15-
+19 ans est estimée entre 4,4 et 11/1 000 000 (28). D’après l’INSEE, les adolescents âgés de 12 à
+17 ans étaient au nombre de 5 066 378 en France en 2018 (29).
+Les CMT représentant 5 et 10 % de ces cancers, le nombre estimé d’adolescents avec un CMT varie
+donc entre 1 et 6 adolescents par an, tous stades confondus.
+ Au total, il est ainsi estimé que chaque année, 50 à 100 patients adultes et 1 à 6 adolescents
+patients âgés de 12 à 17 ans atteints d’un CMT à un stade avancé sont éligibles à une
+2ème ligne de traitement.
+La population cible de la détection d’altérations du gène RET par la technique de NGS dans
+le cancer bronchique non à petites cellules et le cancer médullaire de la thyroïde en accord
+avec les indications retenues dans les avis de la Commission de la Transparence (1, 2) est
+estimée entre environ 11 250 et 12 550 patients par an.
+Conclusions
+Compte tenu :
+− des avis conditionnels du 2 juin 2021 (1) et du 23 mars 2022 (2) de la Commission de la Transparence favorables au remboursement de RETSEVMO et GAVRETO chez certains patients ayant une
+altération du gène RET dans les indications mentionnées dans ces avis ;
+− des résumés des caractéristiques du produit de l’autorisation de mise sur le marché de RETSEVMO
+et GAVRETO précisant que la sélection des patients recevant ces traitements doit se faire sur la
+base d’un résultat positif à une méthode validée de détection d’altérations du gène RET (3, 4) ;
+− de la recommandation de l’European Society on Medical Oncology ;
+− de la position des parties prenantes.
+La HAS est favorable au remboursement de « l’acte de détection d’altérations du gène RET par
+technique de séquençage nouvelle génération dans le cancer bronchique non à petites cellules et le
+cancer médullaire de la thyroïde, en vue de la prescription de spécialités appartenant à la classe
+thérapeutique des inhibiteurs de tyrosine kinase ciblant spécifiquement les transcrits issus de
+réarrangement du gène RET dont le résumé des caractéristiques du produit (RCP) de l’autorisation de
+mise sur le marché prévoit cette détection et ayant obtenu un avis favorable au remboursement par la
+Commission de la Transparence ».
+La HAS précise que les conditions de réalisation et la population cible de la détection d’altérations du
+gène RET par technique de séquençage nouvelle génération (NGS) dans le CBNPC et le CMT sont
+celles décrites dans la partie résultat de ce document.
+Annexe 1. Recherche documentaire
+Méthode
+La recherche a porté sur les sujets et les types d’études définis en accord avec la cheffe de projet.
+La recherche a porté sur la période janvier 2017-juin 2022.
+Les sources suivantes ont été interrogées :
+− les bases de données Embase et Medline ;
+− les sites Internet publiant des recommandations, des rapports d’évaluation technologique ou économique ;
+− les sites Internet des sociétés savantes compétentes dans le domaine étudié.
+Cette recherche a été complétée par la bibliographie des experts et les références citées dans les
+documents analysés.
+Bases de données bibliographiques
+La stratégie de recherche dans les bases de données bibliographiques est construite en utilisant, pour
+chaque sujet, soit des termes issus de thésaurus (descripteurs), soit des termes libres (du titre ou du
+résumé). Ils sont combinés avec les termes décrivant les types d’études.
+Le tableau suivant présente la stratégie de recherche dans les bases de données Embase et Medline.
+Dans ce tableau, des références doublons peuvent être présentes entre les différents thèmes et/ou
+types d’études.
+Type
+d’étude/Sujet
+Termes utilisés Période de recherche
+Next Generation Sequencing NGS Technologies
+Méta-analyses, revues systématiques 01/2017 - 06/2022
+Etape 1 ti,if(NGS) OR ti,if(next-generation sequencing) OR ti,if(next generation sequencing) OR ti,if(next generation technologies)
+AND
+Etape 2 TI(meta PRE/0 analys[*3]) OR TI(metaanalys[*3]) OR TI(systematic PRE/0
+literature PRE/0 search) OR TI(systematic* PRE/0 literature PRE/0 review[*3]) OR TI(systematic* PRE/0 overview[*3]) OR TI(systematic* PRE/0
+review[*3]) OR DTYPE(meta-analysis) OR DTYPE(systematic review) OR
+PUB(cochrane database syst rev) OR TI(review) OR DTYPE(review)
+NOT
+Etape 3 DTYPE(letter) OR DTYPE(editorial) OR DTYPE(news) OR
+DTYPE(comment) OR DTYPE(commentary) OR ti(commentary) OR ti(editorial) OR ti(letter) OR ti("news")
+Conditions de réalisation de la technique de séquençage nouvelle génération 01/2017 - 06/2022
+Etape 12 MESH.EXACT("High-Throughput Nucleotide Sequencing") OR ti,if(next generation sequencing technologies) OR ti,if("NGS") OR ti,if(next-generation
+sequencing) OR ti,if(next generation sequencing)
+AND
+Etape 13 ti("realization") OR ti("realisation") OR ti("condition") OR ti("conditions") OR
+ti(implementation)
+Sites internet consultés
+Dans le cadre de ce travail, les sites suivants ont été consultés :
+En langue française :
+− Académie nationale de médecine
+− Agence nationale de sécurité du médicament et des produits de santé - ANSM
+− Catalogue et index des sites médicaux francophones - CISMeF
+− Centre national de la recherche scientifique - CNRS
+− Collège national des généralistes enseignants - CNGE
+− Comité d’évaluation et de diffusion des innovations technologiques - CEDIT
+− Fondation pour la recherche sur le cancer - ARC
+− Haute Autorité de santé - HAS
+− Institut Curie
+− Institut national de la santé et de la recherche médicale - INSERM
+− Institut national du cancer - INCa
+− Société canadienne du cancer - SCC
+− Société française de cancérologie privée - SFCP
+− Société française de médecine générale - SFMG
+− Société française du cancer - SFC
+− Société francophone de chirurgie oncologique - SFCO
+− Société de pneumologie de langue française - SPLF
+En langue anglaise :
+− Adelaide Health Technology Assessment - AHTA
+− Agency for Healthcare Research and Quality - AHRQ
+− Alberta Heritage Foundation for Medical Research - AHFMR
+− Alberta Medical Association
+− American Cancer Society - ACS
+− American College of Physicians - ACP
+− Australian Clinical Practice Guidelines
+− BMJ Clinical Evidence
+− California Technology Assessment Forum - CTAF
+− Canadian Agency for Drugs and Technologies in Health - CADTH
+− Canadian Task Force on Preventive Health Care
+− Cancer Research UK
+− Cancer Society New Zeland
+− Centre fédéral d'expertise des soins de santé - KCE
+− Centre for Clinical Effectiveness - CCE
+− Centre for Reviews and Dissemination databases
+− Clinical Knowledge Summaries
+− Clinical Practice Guidelines Portal
+− CMA Infobase
+− Collège des médecins du Québec - CMQ
+− College of Physicians and Surgeons of Alberta - CPSA
+− European Association for Cancer Research
+− European Network for Health Technology Assessment - EUnetHTA
+− European Society for Medical Oncology - ESMO
+− Guidelines and Protocols Advisory Committee - GPAC
+− Guidelines International Network - GIN
+− Health Services Technology Assessment Text - HSTAT
+− International Lung Cancer Foundation
+− Institut national d’excellence en santé et en services sociaux - INESSS
+− Institute for Clinical Evaluative Sciences - ICES
+− Institute for Clinical Systems Improvement - ICSI
+− Institut national de santé publique du Québec - INSPQ
+− International Network of Agencies for Health Technology Assessment - INAHTA
+− Intute Health & Life Sciences - INTUTE
+− Medical Services Advisory Committee - MSAC
+− National Cancer Institute
+− National Coordinating Centre for Health Technology Assessment - NCCHTA
+− National Guideline Clearinghouse - NGC
+− National Health and Medical Research Council - NHMRC
+− National Horizon Scanning Centre - NHSC
+− National Institute for Health and Care Excellence - Evidence search
+− National Institute for Health and Clinical Excellence - NICE
+− New Zealand Guidelines Group - NZGG
+− New Zealand Health Technology Assessment - NZHTA
+− NHS Evidence
+− Norwegian cancer society
+− Ontario Health Technology Advisory Committee - OHTAC
+− Public Health Agency of Canada - Diseases Prevention and Control Guidelines
+− Scottish Intercollegiate Guidelines Network - SIGN
+− Singapore Cancer Society
+− Society of Immunotherapy of Cancer
+− Swedish Agency for Health Technology Assessment and Assessment of Social Services - SBU
+− The British Association for Cancer Research
+− West Midlands Health Technology Assessment Collaboration - WMHTA
+Annexe 2. Réponses des parties prenantes
+Réponses du Conseil national professionnel d’anatomie et cytologie pathologiques (CNPath)
+Réponses du Groupe francophone de cytogénomique oncologique (GFCO)
+Références bibliographiques
+1. Haute Autorité de Santé. Selpercatinib, Retsevmo 40 mg
+et 80 mg, gélules première évaluation. Commission de la
+transparence, avis conditionnel 2 juin 2021. Saint-Denis La
+Plaine: HAS; 2021.
+https://www.has-sante.fr/upload/docs/evamed/CT19095_RETSEVMO_PIC_INS_AvisDef_CT19095.pdf
+2. Haute Autorité de Santé. Pralsetinib, Gavreto 100 mg,
+gélule première évaluation. Commission de la transparence
+avis conditionnel 23 mars 2022. Saint-Denis La Plaine: HAS;
+2022.
+https://www.has-sante.fr/upload/docs/evamed/CT19653_GAVRETO_PIC_INS_AvisD%C3%A9f_CT19653.pdf
+3. European Medicines Agency. Retsevmo 40 mg gélules,
+Retsevmo 80 mg gélules. Annexe 1, résumé des
+caractéristiques du produit. Amsterdam: EMA.
+4. European Medicines Agency. GAVRETO 100 mg gélules,
+annexe 1, résumé des caractéristiques du produit.
+Amsterdam: EMA.
+https://www.ema.europa.eu/en/documents/productinformation/gavreto-epar-product-information_fr.pdf
+5. Belli C, Penault-Llorca F, Ladanyi M, Normanno N,
+Scoazec JY, Lacroix L, et al. ESMO recommendations on
+the standard methods to detect RET fusions and mutations
+in daily practice and clinical research. Ann Oncol
+2021;32(3):337-50.
+http://dx.doi.org/10.1016/j.annonc.2020.11.021
+6. Direction générale de l’offre de soins. Le référentiel des
+actes innovants hors nomenclature de biologie et
+d’anatomopathologie (RIHN) [En ligne]. Paris: Ministère de
+la santé et de la prévention; 2022.
+https://solidarites-sante.gouv.fr/systeme-de-sante-et-medicosocial/recherche-et-innovation/rihn
+7. Morganti S, Tarantino P, Ferraro E, D’Amico P, Duso BA,
+Curigliano G. Next Generation Sequencing (NGS): a
+revolutionary technology in pharmacogenomics and
+personalized medicine in cancer. Dans: Ruiz-Garcia E,
+Astudillo-de la Vega H, ed. Translational research and oncoomics applications in the era of cancer personal genomics.
+Cham: Springer International Publishing; 2019. p. 9-30.
+8. Morganti S, Tarantino P, Ferraro E, D'Amico P, Viale G,
+Trapani D, et al. Complexity of genome sequencing and
+reporting: next generation sequencing (NGS) technologies
+and implementation of precision medicine in real life. Crit
+Rev Oncol Hematol 2019;133:171-82.
+http://dx.doi.org/http://dx.doi.org/10.1016/j.critrevonc.2018.11.0
+08
+9. Institut national du cancer. Comment se déroule un test
+moléculaire ? [En ligne]. Boulogne-Billancourt: INCa; 2022.
+https://www.e-cancer.fr/Patients-et-proches/Se-fairesoigner/Traitements/Therapies-ciblees-et-immunotherapiespecifique/Biomarqueurs-et-tests-moleculaires/Comment-sederoule-un-test-moleculaire
+10. Institut national du cancer. Plateformes de génétique
+moléculaire : missions et localisation [En ligne]. BoulogneBillancourt: INCA; 2022.
+https://www.e-cancer.fr/Professionnels-de-sante/Les-therapiesciblees/Les-plateformes-de-genetique-moleculaire-descancers/Missions-et-localisation-des-plateformes
+11. Onco Occitanie. Référentiel régional de biologie
+moléculaire. Toulouse: Onco Occitanie; 2020.
+https://www.onco-occitanie.fr/pro/article/le-nouveau-referentielde-biologie-moleculaire-est-en-ligne
+12. Haute Autorité de Santé. Évaluation des actes de
+préparation, qualification et sélection d’un échantillon
+tissulaire ou cellulaire pour analyse de génétique somatique
+des cancers. Saint-Denis La Plaine: HAS; 2019.
+https://www.has-sante.fr/upload/docs/application/pdf/2019-
+12/rapport_analyse_gen_somatique.pdf
+13. Uhel F, Zafrani L, Commission de la recherche
+translationnelle de la Société de réanimation de langue
+française. Nouvelles techniques de biologie moléculaire.
+Méd Intensive Réa 2019;28(6):464-72.
+14. Institut national du cancer. Séquençage de nouvelle
+génération d’un panel de gènes pour l’analyse en génétique
+somatique/validation de la méthode. Boulogne-Billancourt:
+INCa; 2016.
+15. Ilie M, Long É, Hofman V, Lespinet V, Bordone O,
+Washetine K, et al. Les méthodes de séquençage de «
+nouvelle génération » (NGS) et le cancer bronchopulmonaire: principales technologies, applications et limites
+actuelles en pathologie. Rev Francoph Lab
+2014;2014(458):51-8.
+http://dx.doi.org/10.1016/S1773-035X(14)72315-9
+16. Institut national d’excellence en santé et en services
+sociaux. Analyse combinée des gènes KRASNRAS-BRAF
+par séquençage de nouvelle génération pour le traitement
+du cancer colorectal métastatique. Montréal: INESSS; 2018.
+https://www.inesss.qc.ca/fileadmin/doc/INESSS/Analyse_biome
+dicale/Mars_2018/INESSS_Avis_Analyse-combinee-genesKRAS-NRAS-BRAF.pdf
+17. Institut national du cancer. Le programme d’assurance
+qualité des plateformes [En ligne]. Boulogne-Billancourt:
+INCa; 2018.
+https://www.e-cancer.fr/Professionnels-de-sante/Les-therapiesciblees/Les-plateformes-de-genetique-moleculaire-descancers/Le-programme-d-assurance-qualite-des-plateformes
+18. Hayes DN, Kim WY. The next steps in next-gen
+sequencing of cancer genomes. J Clin Invest
+2015;125(2):462-8.
+http://dx.doi.org/10.1172/JCI68339
+19. Li MM, Datto M, Duncavage EJ, Kulkarni S, Lindeman
+NI, Roy S, et al. Standards and guidelines for the
+interpretation and reporting of sequence variants in cancer:
+a joint consensus recommendation of the Association for
+Molecular Pathology, American Society of Clinical Oncology,
+and College of American Pathologists. J Mol Diagn
+2017;19(1):4-23.
+http://dx.doi.org/10.1016/j.jmoldx.2016.10.002
+20. Mateo J, Chakravarty D, Dienstmann R, Jezdic S,
+Gonzalez-Perez A, Lopez-Bigas N, et al. A framework to
+rank genomic alterations as targets for cancer precision
+medicine: the ESMO Scale for Clinical Actionability of
+molecular Targets (ESCAT). Ann Oncol 2018;29(9):1895-
+902.
+http://dx.doi.org/10.1093/annonc/mdy263
+21. Comité français d’accréditation. Exigences pour
+l’accréditation selon les normes
+NF EN ISO 15189 et NF EN ISO 22870. SH REF 02 -
+Révision 06 Paris: COFRAC.
+https://tools.cofrac.fr/documentation/SH-REF-02
+22. Institut national du cancer. Validation de méthodes pour
+la recherche de mutations en génétique somatique.
+Boulogne-Billancourt: INCa; 2014.
+https://www.ecancer.fr/content/download/86001/874800/file/Validation-demethode-en-genetique-Somatique.pdf
+23. Defossez G, Le Guyader‑Peyrou S, Uhry Z, Grosclaude
+P, Colonna M, Dantony E, et al. Estimations nationales de
+l’incidence et de la mortalité par cancer en France
+métropolitaine entre 1990 et 2018. Volume 1 - Tumeurs
+solides. Boulogne-Billancourt: INCa; 2019.
+https://www.santepubliquefrance.fr/maladies-ettraumatismes/cancers/cancer-du-sein/documents/rapportsynthese/estimations-nationales-de-l-incidence-et-de-lamortalite-par-cancer-en-france-metropolitaine-entre-1990-et2018-volume-1-tumeurs-solides-etud
+24. Grivaux M, Locher C, Bombaron P, Collon T, Coetmeur
+D, Dayen C, et al. Etude KBP-2010-CPHG: recueil des
+nouveaux cas de cancer bronchopulmonaire primitif
+diagnostiques dans les services de pneumologie des
+centres hospitaliers généraux du 1er janvier au 31 décembre
+2010. Rev Pneumol Clin 2010;66(6):375-82.
+http://dx.doi.org/10.1016/j.pneumo.2010.08.001
+25. Moro-Sibilot D, Smit E, de Castro Carpeño J,
+Lesniewski-Kmak K, Aerts J, Villatoro R, et al. Outcomes
+and resource use of non-small cell lung cancer (NSCLC)
+patients treated with first-line platinum-based chemotherapy
+across Europe: FRAME prospective observational study.
+Lung Cancer 2015;88(2):215-22.
+http://dx.doi.org/10.1016/j.lungcan.2015.02.011
+26. Carrato A, Vergnenègre A, Thomas M, McBride K,
+Medina J, Cruciani G. Clinical management patterns and
+treatment outcomes in patients with non-small cell lung
+cancer (NSCLC) across Europe: EPICLIN-Lung study. Curr
+Med Res Opin 2014;30(3):447-61.
+http://dx.doi.org/10.1185/03007995.2013.860372
+27. Modigliani E, Cohen R, Campos JM, Conte-Devolx B,
+Maes B, Boneu A, et al. Prognostic factors for survival and
+for biochemical cure in medullary thyroid carcinoma: results
+in 899 patients. The GETC Study Group. Groupe d'étude
+des tumeurs à calcitonine. Clin Endocrinol 1998;48(3):265-
+73.
+http://dx.doi.org/10.1046/j.1365-2265.1998.00392.x
+28. Colonna M, Grande E, Jónasson JG, Eurocare Working
+G. Variation in relative survival of thyroid cancers in Europe:
+results from the analysis on 21 countries over the period
+1983-1994 (EUROCARE-3 study). Eur J Cancer
+2006;42(15):2598-608.
+http://dx.doi.org/10.1016/j.ejca.2006.04.026
+29. Institut national de la statistique et des études
+économiques. Population en 2018. Recensement de la
+population - Base infracommunale (IRIS) [En ligne]. Paris:
+INSEE; 2021.
+https://www.insee.fr/fr/statistiques/5650720
+Développer la qualité dans le champ
+sanitaire, social et médico-social
+© Haute Autorité de santé – juillet 2022
+Ce document présente les points essentiels de la publication : Détection d’altérations du gène RET par la
+technique de séquençage nouvelle génération (NGS) : cancer bronchique non à petites cellules et cancer médullaire de la thyroïde, 21 juillet 2022
+Toutes nos publications sont téléchargeables sur www.has-sante.fr
+Développer la qualité dans le champ
+sanitaire, social et médico-social
+
+Nodule de la thyroïde
+Comment l’explorer ?
+Septembre 2021
+Une grosseur au niveau de votre thyroïde a été découverte. Vous avez peut-être un nodule. Ce
+document vous informe sur ce qu’est un nodule de la thyroïde et sur les examens qui permettent
+de le caractériser. Il complète vos échanges avec votre médecin ; il ne remplace pas son avis.
+Les informations qu’il contient s’appuient sur les données scientifiques les plus récentes.
+Le nodule de la thyroïde : de quoi parle-t-on ?
+Un nodule thyroïdien est une grosseur localisée dans la
+glande thyroïde.
+Il est le plus souvent indolore, ne provoque pas de symptôme
+et est découvert lors de la palpation du cou (par vous ou
+votre médecin) ou lors d’un examen d’imagerie pour une
+autre cause (par exemple écho-Doppler des carotides,
+scanner thoracique, etc.).
+Les nodules sont très fréquents dans la population générale
+(jusqu’à 50 % des personnes en échographie), notamment
+chez la femme, et leur fréquence augmente avec l’âge.
+Ils peuvent être uniques ou multiples sans que cela change
+la façon de les explorer.
+Ils sont d’évolution lente et leur prise en charge est rarement
+urgente.
+Dans au moins 90 % des cas, les nodules sont bénins et ne
+nécessitent, au terme d’un bilan, qu’une simple surveillance.
+Thyroïde
+Nodule
+Nodule de la thyroïde — Comment l’explorer ? | 2
+L’échographie va permettre d’explorer la thyroïde, de déterminer la localisation des nodules, leur taille, leurs
+caractéristiques, et d’identifier éventuellement un aspect évocateur de cancer.
+Ces caractéristiques sont résumées dans un score appelé EU-TIRADS. En fonction de ce score ET de la taille des
+nodules, le médecin vous proposera de réaliser ou non une cytoponction pour préciser la nature des nodules.
+Les nodules observés pendant l’examen seront reportés sur un schéma qui servira de référence pour le suivi.
+Certains nodules ne nécessitent pas d’exploration, notamment lorsqu’ils sont petits ou découverts par hasard sur
+une imagerie.
+Il est alors utile de discuter avec votre médecin des avantages et des inconvénients de la poursuite des examens.
+L’échographie de la thyroïde
+Il s’agit d’un examen indolore, non invasif, non irradiant, sans contre-indication et ne nécessitant pas de préparation particulière.
+Lors de votre rendez-vous d’échographie, il faut penser à apporter le résultat du dosage de TSH, vos ordonnances avec votre traitement et les éventuelles échographies ou cytoponctions précédentes.
+Le cancer de la thyroïde
+Dans 5 à 10 % des cas, les nodules peuvent correspondre à un cancer. Ce sont généralement des cancers de
+bon pronostic, peu agressifs, d’évolution lente.
+Le plus souvent, aucune cause n’est retrouvée. Néanmoins, certains facteurs prédisposent à ces cancers :
+• exposition à une irradiation durant l’enfance (liée à une radiothérapie ou à une irradiation accidentelle ;
+• existence ou antécédent de cancer de la thyroïde chez un membre de sa famille ;
+• certaines maladies génétiques rares.
+La TSH (Thyroid Stimulating Hormone)
+C’est une hormone présente dans le sang, qui sert à réguler le fonctionnement de la thyroïde. Quand la quantité
+d’hormones thyroïdiennes est insuffisante (par exemple, en cas de thyroïdite de Hashimoto), la TSH s’élève et
+augmente la production de ces hormones. La TSH baisse quand la thyroïde produit trop d’hormones.
+Pourquoi le médecin vous propose-t-il de réaliser
+une échographie ?
+La découverte d’un nodule nécessite, sans urgence, une consultation avec votre médecin traitant. Celui-ci va recueillir
+certaines informations utiles pour l’exploration de ce nodule. Il va vous interroger, notamment sur vos antécédents,
+palper votre cou pour déterminer les caractéristiques du nodule (dureté, mobilité, taille) et rechercher des ganglions
+anormaux. À ce stade, une prise de sang pour doser la thyréostimuline (TSH) et une échographie de la thyroïde seront
+demandés.
+Nodule de la thyroïde — Comment l’explorer ? | 3
+La cytoponction des nodules
+C’est un geste simple, généralement peu ou pas douloureux (comparable à une prise de sang), qui consiste à
+introduire à travers la peau une aiguille très fine dans le nodule. Plusieurs ponctions peuvent être nécessaires pour
+recueillir suffisamment de cellules. Plusieurs nodules peuvent être ponctionnés lors d’un seul rendez-vous. Le
+plus souvent, la cytoponction est réalisée en s’aidant de l’échographie pour mieux cibler les zones à ponctionner.
+Elle ne nécessite pas d’anesthésie locale, la douleur étant modérée, comparable à celle d’une prise de sang.
+L’examen dure 15 à 20 minutes et ne requiert pas d’hospitalisation. Une fois celui-ci terminé, il est possible de
+reprendre immédiatement ses activités personnelles/professionnelles.
+Les principaux inconvénients sont la survenue d’un inconfort/d’une légère douleur, voire d’un malaise vagal
+(sueurs, nausées), d’une ecchymose (un « bleu », qui disparaît généralement spontanément en quelques jours).
+Les autres complications sont exceptionnelles.
+Si vous êtes atteint d’un trouble de la coagulation ou si vous prenez un traitement pour fluidifier le sang (traitement anticoagulant ou antiagrégant plaquettaire comme l’aspirine par exemple), il est nécessaire d’en parler à
+votre médecin et au médecin qui réalisera la cytoponction lors de la prise de rendez-vous. Ils vous indiqueront
+les précautions à prendre. Lors de votre rendez-vous, il faudra aussi penser à apporter le résultat du dosage de
+TSH, vos ordonnances avec votre traitement et les éventuelles échographies ou cytoponctions précédentes.
+Quels autres examens peuvent être nécessaires ?
+Si la TSH est abaissée
+Votre médecin va vous proposer de réaliser une scintigraphie de la thyroïde en plus de l’échographie. En effet, il
+est possible qu’un nodule fabrique trop d’hormones thyroïdiennes (nodule hyperfonctionnel ou « chaud »). Seule la
+scintigraphie permettra de mettre en évidence ce type de nodule.
+La scintigraphie consiste à injecter un produit faiblement radioactif qui se fixe temporairement sur les cellules
+thyroïdiennes et permet de visualiser l’activité de la thyroïde. C’est un examen indolore qui n’est contre-indiqué qu’en
+cas de grossesse ou d’allaitement.
+Si la TSH est normale ou élevée
+Si le nodule est de petite taille et ne présente aucune caractéristique suspecte à l’échographie, une surveillance par un
+examen médical et par échographie est suffisante pour ne pas méconnaître une augmentation importante de la taille
+du nodule. La fréquence de cette surveillance sera déterminée avec votre médecin.
+Si le nodule est de taille significative et en fonction de son score EU-TIRADS à l’échographie, votre médecin va vous
+proposer de réaliser, sans urgence, une cytoponction pour examiner les cellules au microscope. Cet examen permet
+d’évaluer le caractère bénin ou non du nodule et de déterminer la conduite à tenir ultérieure. La cytoponction est
+indispensable avant toute chirurgie de la thyroïde pour des nodules.
+La cytoponction peut également servir à évacuer le liquide d’un nodule liquidien devenu trop gros et gênant.
+Toutes nos publications sont téléchargeables sur www.has-sante.fr
+© Haute Autorité de santé — Septembre 2021
+Développer la qualité dans le champ
+sanitaire, social et médico-social
+Ce document a été élaboré par des professionnels de santé et des membres d’associations de patients concernés
+par le sujet. Il a été rédigé selon les connaissances disponibles à la date de sa publication qui sont susceptibles
+d’évoluer en fonction de nouvelles données.
+Les informations de la HAS
+¼ disponibles sur www.has-sante.fr
+Le soutien des associations d’usagers
+¼ Association française des malades de la thyroïde
+www.asso-malades-thyroide.org
+¼ Vivre sans thyroïde
+www.forum-thyroide.net
+¼ Union pour la prévention et la gestion des crises sanitaires
+www.upgcs.org
+Pour aller plus loin
+Il est nécessaire que vous consultiez votre médecin en cas de modification des symptômes (aggravation ou nouveaux symptômes) et notamment si apparaît une gêne pour avaler, pour respirer ou
+pour parler ou si vous percevez une augmentation de taille du nodule ou des ganglions du cou.
+Et ensuite ?
+En fonction du résultat de la cytoponction et de l’échographie, votre médecin peut vous proposer :
+• une surveillance par un examen médical et par échographie pour apprécier l’évolution du nodule ;
+• une nouvelle cytoponction, d’autres examens complémentaires ou une consultation spécialisée avec un
+endocrinologue en cas de résultat non concluant de la cytoponction, ou en cas de modification du nodule/des
+symptômes ;
+• une intervention chirurgicale qui sera à discuter si :
+− le résultat de la cytoponction évoque un cancer. La chirurgie consiste alors à retirer tout ou partie de la thyroïde
+(et non pas seulement le nodule) et éventuellement les ganglions du cou. C’est l’analyse du tissu retiré qui
+permettra avec certitude de confirmer ou non le diagnostic de cancer,
+− le nodule n’est pas suspect de cancer mais sa taille importante entraîne une gêne pour avaler, pour respirer ou
+pour parler.
+Comme toute intervention, la chirurgie de la thyroïde comporte des risques (hématome, troubles de la voix, baisse
+du calcium dans le sang, ces complications étant le plus souvent transitoires). Par ailleurs, une ablation totale de
+la thyroïde nécessite un traitement à vie par hormones thyroïdiennes. Cela peut être le cas même après une
+ablation partielle. 
+
