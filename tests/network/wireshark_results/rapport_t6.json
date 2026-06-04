@@ -1,0 +1,10 @@
+{
+  "test": "T6",
+  "methode": "surveillance connexions TCP (équivalent Wireshark)",
+  "duree_s": 30,
+  "connexions_externes": [],
+  "nb_connexions_externes": 0,
+  "critere_valide": true,
+  "timestamp": "2026-06-04T15:38:04.444167",
+  "verdict": "PASS ✅"
+}
