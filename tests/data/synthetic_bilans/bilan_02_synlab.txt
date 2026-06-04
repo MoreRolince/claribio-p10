@@ -1,0 +1,6 @@
+Analyse Valeur Unite Intervalle
+Glucose 6,4 mmol/L 3,9-5,8
+CRP 12 mg/L 0-5
+Creatinine 78 µmol/L 45-90
+ALAT 24 UI/L 0-35
+ASAT 28 UI/L 0-35

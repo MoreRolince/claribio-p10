@@ -1,0 +1,6 @@
+Analyse Valeur Unite Intervalle
+Glucose 4,6 mmol/L 3,9-5,8
+TSH 2,0 mUI/L 0,4-4,0
+Creatinine 39 µmol/L 45-90
+ALAT 28 UI/L 0-35
+ASAT 25 UI/L 0-35

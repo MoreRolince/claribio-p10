@@ -1,0 +1,6 @@
+Analyse Valeur Unite Intervalle
+Glucose 4,2 mmol/L 3,9-5,8
+CRP 1 mg/L 0-5
+Leucocytes 11,2 G/L 4,0-10,0
+ALAT 47 UI/L 0-35
+ASAT 31 UI/L 0-35

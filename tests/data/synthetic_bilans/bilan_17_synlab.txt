@@ -1,0 +1,6 @@
+Analyse Valeur Unite Intervalle
+Glucose 5,9 mmol/L 3,9-5,8
+CRP 6 mg/L 0-5
+Hemoglobine 13,1 g/L 12,0-16,0
+Leucocytes 9,8 G/L 4,0-10,0
+Plaquettes 175 G/L 150-400

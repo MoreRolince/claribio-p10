@@ -1,0 +1,6 @@
+Analyse Valeur Unite Intervalle
+Glucose 5,4 mmol/L 3,9-5,8
+Hemoglobine 16,8 g/L 12,0-16,0
+Leucocytes 6,2 G/L 4,0-10,0
+Plaquettes 120 G/L 150-400
+Ferritine 54 ng/mL 30-300

@@ -1,0 +1,6 @@
+Analyse Valeur Unite Intervalle
+Glucose 4,0 mmol/L 3,9-5,8
+TSH 6,8 mUI/L 0,4-4,0
+Hemoglobine 10,9 g/L 12,0-16,0
+Creatinine 74 µmol/L 45-90
+CRP 9 mg/L 0-5

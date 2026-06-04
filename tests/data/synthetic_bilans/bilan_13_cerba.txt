@@ -1,0 +1,6 @@
+Analyse Resultat Unite Reference
+Glycemie 6,0 mmol/L 3,9-5,8
+CRP 2 mg/L 0-5
+ALAT 33 UI/L 0-35
+ASAT 30 UI/L 0-35
+Plaquettes 260 G/L 150-400

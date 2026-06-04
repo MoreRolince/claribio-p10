@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ClariBio OCR biology result",
+  "type": "object",
+  "required": ["schema_version", "source_format", "patient", "results", "quality"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "source_format": { "type": "string", "enum": ["cerba", "synlab", "generic"] },
+    "generated_at": { "type": "string" },
+    "patient": {
+      "type": "object",
+      "properties": {
+        "id": { "type": ["string", "null"] },
+        "age": { "type": ["number", "null"] },
+        "sex": { "type": ["string", "null"] }
+      }
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["analyte", "value", "status"],
+        "properties": {
+          "analyte": { "type": "string" },
+          "value": { "type": "number" },
+          "unit": { "type": ["string", "null"] },
+          "reference_low": { "type": ["number", "null"] },
+          "reference_high": { "type": ["number", "null"] },
+          "status": { "type": "string", "enum": ["low", "normal", "high", "unknown"] },
+          "raw_name": { "type": "string" },
+          "raw_line": { "type": "string" }
+        }
+      }
+    },
+    "quality": {
+      "type": "object",
+      "required": ["parsed_lines", "rejected_lines", "confidence"],
+      "properties": {
+        "parsed_lines": { "type": "integer" },
+        "rejected_lines": { "type": "integer" },
+        "confidence": { "type": "number" },
+        "fallback": { "type": "string" }
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

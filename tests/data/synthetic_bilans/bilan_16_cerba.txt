@@ -1,0 +1,6 @@
+Analyse Resultat Unite Reference
+Glycemie 4,7 mmol/L 3,9-5,8
+TSH 2,9 mUI/L 0,4-4,0
+Creatinine 63 µmol/L 45-90
+ALAT 41 UI/L 0-35
+ASAT 39 UI/L 0-35

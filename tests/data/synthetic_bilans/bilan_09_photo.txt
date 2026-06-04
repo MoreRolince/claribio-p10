@@ -1,0 +1,5 @@
+Glycemie 3.6 mmol/L 3.9-5.8
+TSH 2.5 mUI/L 0.4-4.0
+CRP 4 mg/L 0-5
+ALAT 19 UI/L 0-35
+ASAT 42 UI/L 0-35
