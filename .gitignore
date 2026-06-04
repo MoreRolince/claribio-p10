@@ -45,3 +45,9 @@ Thumbs.db
 # Logs
 *.log
 logs/
+setup/qemu_config/ubuntu-arm64.img
+setup/qemu_config/QEMU_EFI.fd
+setup/qemu_config/cloud-init.iso
+setup/qemu_config/cidata_src/
+setup/qemu_config/meta-data
+setup/qemu_config/user-data
