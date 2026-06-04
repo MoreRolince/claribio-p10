@@ -1,0 +1,18 @@
+#cloud-config
+hostname: raspberrypi
+users:
+  - name: pi
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
+    lock_passwd: false
+    passwd: $6$v6zkvSZxSmTnBZuG$TtGlxe4hNe882MsngPH2Qv4b/I8u82XzeCLNnB1uP3pI06KogohN2Gmy6/mFD/HmqvjDul.p1Trkgid.NGSEe0
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC0UVFHPgJBW5PQd00W7/CFMwB6jYksecmNQebNGXgDN1TxUx0Ydwt3SRZlftppRM8FViIS0Z7bdppRzHHqd0w5IM2zgwgGpI3E7xApqOB/P0QVvoOiBMICDZrtQ8/v9aa/fr9QquJchl0KTggn2h7FYOtBQl4waiOi6g64YvtASF1XTLbFp4KQNIpB0SzrftdnNXuASdlgwSTA0RlUd7CI70cV2GS3IP+dL0hhBiAPiTSdSB6T1JuP6ehKVFnBooZQ+dt9wJy4P6ec+/xIVRrHghqfEMab2l03ciAvDrVd0sIWbMdkkNlQVrZP0dE8fGjsgsRx9cvnW8aCdJooftHDebDIAn++BMgeSxNDvL2X8RxdNwP6n7zbNSs0NnIioh0i2hKkeC3DYvy8Z/JvehiDFc51rKwsxuCkztvI87KpE+9aPBIg2wi3pYEuAPJRjFllPqSEzZh3NzOW1tzcX86oxVOiy/BCMvQBjxGThn7Nkq61EvO6rThw1NA9VAgy2XmMk+bIfT9NuQractHm979OxXFJr8c7oq3hq9G6GJEtoHGG2IhpYk3mKqK0t7BhoxPM0MBXmBuUZOcU+Kf/cX95G0vYaDFTzyswB/lp4tGj2cQLkDoSJBXer7lXBYr1Di1CugAbPtR+8rHkOqV4aE3+Pdim6DRK+BZwD2UCTINJQw== votre_email@example.com
+  - name: ubuntu
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
+    lock_passwd: false
+    passwd: $6$Vb4YaRRifT6oU.Wh$LV8iQpi6FcrpTXwODSTuusY1gjZkLBCpLWEkD31br13y.2Akjf/RMLwYnPNYZ23iMfwtvKKDZl6u4bGEjfTW8.
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC0UVFHPgJBW5PQd00W7/CFMwB6jYksecmNQebNGXgDN1TxUx0Ydwt3SRZlftppRM8FViIS0Z7bdppRzHHqd0w5IM2zgwgGpI3E7xApqOB/P0QVvoOiBMICDZrtQ8/v9aa/fr9QquJchl0KTggn2h7FYOtBQl4waiOi6g64YvtASF1XTLbFp4KQNIpB0SzrftdnNXuASdlgwSTA0RlUd7CI70cV2GS3IP+dL0hhBiAPiTSdSB6T1JuP6ehKVFnBooZQ+dt9wJy4P6ec+/xIVRrHghqfEMab2l03ciAvDrVd0sIWbMdkkNlQVrZP0dE8fGjsgsRx9cvnW8aCdJooftHDebDIAn++BMgeSxNDvL2X8RxdNwP6n7zbNSs0NnIioh0i2hKkeC3DYvy8Z/JvehiDFc51rKwsxuCkztvI87KpE+9aPBIg2wi3pYEuAPJRjFllPqSEzZh3NzOW1tzcX86oxVOiy/BCMvQBjxGThn7Nkq61EvO6rThw1NA9VAgy2XmMk+bIfT9NuQractHm979OxXFJr8c7oq3hq9G6GJEtoHGG2IhpYk3mKqK0t7BhoxPM0MBXmBuUZOcU+Kf/cX95G0vYaDFTzyswB/lp4tGj2cQLkDoSJBXer7lXBYr1Di1CugAbPtR+8rHkOqV4aE3+Pdim6DRK+BZwD2UCTINJQw== votre_email@example.com
+ssh_pwauth: true

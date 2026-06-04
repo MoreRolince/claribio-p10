@@ -103,11 +103,11 @@ sudo raspi-config  # → Advanced Options → Expand Filesystem
 sudo apt update && sudo apt upgrade -y
 
 # Installer Python 3.11
-sudo apt install -y python3.11 python3.11-venv python3-pip
+sudo apt install -y python3 python3-venv python3-pip
 
 # Vérifier
-python3.11 --version
-# Attendu : Python 3.11.x
+python3 --version
+# Attendu : Python 3.12.x (Ubuntu 24.04 — compatible avec toutes les libs du projet)
 
 # Installer les outils de développement
 sudo apt install -y git curl wget build-essential
